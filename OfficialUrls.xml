@@ -13,7 +13,14 @@
 
 <item>
       <title>ALBALAD Shani test</title>
-      <link>$doregex[convert-url]</link>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
 
       				<regex>
 				<name>convert-url</name>
