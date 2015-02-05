@@ -6,9 +6,10 @@
 	<link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
+
 <streaminginfo>
 <cname>Sada Al Balad</cname>
-<item>
 
 <item>
       <title>ALBALAD Shani test</title>
@@ -26,10 +27,14 @@
     <name>get-url</name>
     <expres>stream_url":.?"(.*?)"</expres>
 <page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=jI3sR82er8I</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/<agent>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
     </regex>
    </item>
+   </streaminginfo>
 
+
+   <streaminginfo>
+<item>
 <title>Albalad youtube Direct</title>
 <link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
 <regex>
@@ -3362,9 +3367,5 @@
 	</regex>
 	</item>
 </streaminginfo>
-
-
-
-
 
 </streamingInfos>
