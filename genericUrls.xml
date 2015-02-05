@@ -1,6 +1,57 @@
 <streamingInfos>
 
 <streaminginfo>
+		<cname>2M</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin.live.web.tv.streamprovider.net/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Dubai Sport 3</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>ZDF</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin-vod.web.tv.streamprovider.net/media/_definst_/c8/vu/smil:c8vuol4og6_.smil/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Abu Dhabi Sports 1</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Abu Dhabi Sports 3</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera En</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
 	<item>
 	<title>Low</title>
@@ -480,9 +531,6 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://flash-lh.akamaihd.net/z/hawas_1@192483/manifest.f4m?hdcore=2.11.3&amp;ag=CSNEUQOFUMPG</link>
 	</item>
 </streaminginfo>
-
-
-
 <streaminginfo>
 		<cname>Medi 1 Sat</cname>
 		<item>
