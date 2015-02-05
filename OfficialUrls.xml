@@ -9,6 +9,27 @@
 <streaminginfo>
 <cname>Sada Al Balad</cname>
 <item>
+
+<item>
+      <title>ALBALAD Shani test</title>
+      <link>$doregex[convert-url]</link>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=jI3sR82er8I</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/<agent>
+    </regex>
+   </item>
+
 <title>Albalad youtube Direct</title>
 <link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
 <regex>
