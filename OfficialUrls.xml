@@ -34,7 +34,9 @@
 
 
    <streaminginfo>
-<item>
+<cname>Sada Al Balad</cname>
+
+   <item>
 <title>Albalad youtube Direct</title>
 <link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
 <regex>
