@@ -3480,7 +3480,7 @@
 </regex>
 <regex>
 <name>url-quote</name>
-<expres>$pyFunction:urllib.quote('tps://www.youtube.com/watch?v=ISJQ0_4PKAo')</expres>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=ISJQ0_4PKAo')</expres>
 <page></page>
 </regex>
 </item>
