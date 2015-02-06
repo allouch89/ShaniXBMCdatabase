@@ -2813,18 +2813,26 @@
 	<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTIxNy0yMzAtMjIzLTIwMjIwMTQtMDUtMjQtMTEtNTAtNDY=/vb008_ajial.stream?</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
     <cname>Al sahraa</cname>
 	<item>
-	<title>Sahara 2 Low</title>
-	<link>rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream swfVfy=true live=true timeout=20</link>
+	<title>Sahara 3 Low</title>
+	<link>http://navigatorsjo.com:1935/amjad/amjad.stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al sahraa</cname>
+	<item>
+	<title>sahara 2 Low</title>
+	<link>http://navigatorsjo.com:1935/liveS2/Sahraa2.stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Al sahraa</cname>
 	<item>
 	<title>sahara 1 Low</title>
-	<link>rtmp://79.134.137.65:1935/live/Sahraa.stream swfVfy=true live=true timeout=20</link>
+	<link>http://navigatorsjo.com:1935/live/Sahraa.stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
