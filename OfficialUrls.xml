@@ -3401,11 +3401,10 @@
 
 
 
-
 <streaminginfo>
 <cname>CBC Sofra</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3429,7 +3428,7 @@
 <streaminginfo>
 <cname>CBC</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3453,7 +3452,7 @@
 <streaminginfo>
 <cname>CBC Extra</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3477,7 +3476,7 @@
 <streaminginfo>
 <cname>CBC Drama</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3501,7 +3500,7 @@
 <streaminginfo>
 <cname>CBC 2</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3525,7 +3524,7 @@
 <streaminginfo>
 <cname>AlQahera W Elnas</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3548,7 +3547,7 @@
 <streaminginfo>
 <cname>Sada AlBalad Drama</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3572,7 +3571,7 @@
 <streaminginfo>
 <cname>Sada Al Balad</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3596,7 +3595,7 @@
 <streaminginfo>
 <cname>Sada Al Balad2</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3621,7 +3620,7 @@
 <streaminginfo>
 <cname>Russia Alyaum</cname>
 <item>
-<title>Youtube bypass  geoblock Thanks go to Gujal & Noway0815  </title>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3641,7 +3640,6 @@
 </regex>
 </item>
 </streaminginfo>
-
 
 
 
