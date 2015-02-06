@@ -3756,6 +3756,55 @@
 </regex>
 </item>
 </streaminginfo>
+<streaminginfo>
+<cname>Alsaha2</cname>
+<item>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>$pyFunction:urllib.urlopen('http://godfather-proxy.com/index.php?q=$doregex[url-quote]&amp;hl=280').read()</page> 
+<referer>http://godfather-proxy.com</referer>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=MWCAruVP2Pk')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>Alsaha3</cname>
+<item>
+<title>Youtube bypass geoblock Thanks go to Gujal and Noway0815</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>$pyFunction:urllib.urlopen('http://godfather-proxy.com/index.php?q=$doregex[url-quote]&amp;hl=280').read()</page> 
+<referer>http://godfather-proxy.com</referer>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=5RTXLrLMrJI')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
 
 
 
