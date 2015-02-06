@@ -3813,6 +3813,30 @@
 </regex>
 </item>
 </streaminginfo>
+<streaminginfo>
+<cname>ALNADATV</cname>
+<item>
+<title>Youtube bypass  geoblock Thanks go to Gujal  and  Noway0815 </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>$pyFunction:urllib.urlopen('http://godfather-proxy.com/index.php?q=$doregex[url-quote]&amp;hl=280').read()</page> 
+<referer>http://godfather-proxy.com</referer>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=F3weQ15PopM')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
 
 
 
