@@ -7,7 +7,35 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+<cname>Sada Al Balad</cname>
 
+<item>
+      <title>ALBALAD Shani test2</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=jI3sR82er8I&amp;feature=player_embedded</page>
+    </regex>
+   </item>
+   </streaminginfo>
 <streaminginfo>
 <cname>Sada Al Balad</cname>
 
