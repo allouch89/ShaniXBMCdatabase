@@ -1130,7 +1130,7 @@
 	<cname>Tunisia national 1</cname>
 	<item>
 	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat1 swfUrl=http://streaminghd.tn/video/player.swf?random=797638636 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-1.html timeout=20</link>
+	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat1sd swfUrl=http://streaminghd.tn/video/player.swf?random=797638636 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-1.html timeout=20</link>
 	</item>
 </streaminginfo>
 
@@ -1138,7 +1138,7 @@
 	<cname>Tunisia national 2</cname>
 	<item>
 	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat2 swfUrl=http://streaminghd.tn/video/player.swf?random=823984767 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-2.html timeout=20</link>
+	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat2sd swfUrl=http://streaminghd.tn/video/player.swf?random=823984767 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-2.html timeout=20</link>
 	</item>
 </streaminginfo>
 	
