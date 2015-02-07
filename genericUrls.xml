@@ -1133,7 +1133,6 @@
 	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat1sd swfUrl=http://streaminghd.tn/video/player.swf?random=797638636 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-1.html timeout=20</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
 	<cname>Tunisia national 2</cname>
 	<item>
@@ -1151,7 +1150,24 @@
 </streaminginfo>
 	
 
-	
+
+
+
+<streaminginfo>
+	<cname>Tunisia national 1</cname>
+	<item>
+	<title>HQ streaminghd</title>
+	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat1hd swfUrl=http://streaminghd.tn/video/player.swf?random=797638636 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-1.html timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 2</cname>
+	<item>
+	<title>HQ streaminghd</title>
+	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat2hd swfUrl=http://streaminghd.tn/video/player.swf?random=662291024 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-2.html timeout=20</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 		<cname>CBC Sofra</cname>
 		<item>
