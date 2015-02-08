@@ -3147,32 +3147,48 @@
 	</item>
 </streaminginfo>
 
+
 <streaminginfo>
-        <cname>TRT Arabic</cname>
+     <cname>TRT Arabic</cname>
 	<item>
-	<title>High</title>
-	<link>rtmp://re.trtcdn.com/tv/ playpath=trtarapca_3 swfUrl=http://gusto.trt.net.tr/VideoPlayer/player.swf live=true pageUrl=http://radyodelisi.blogspot.com/2013/02/trt-arapca.htm</link>
+	<title>180p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_250_av-b.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>TRT Arabic</cname>
+	<item>
+	<title>270p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&amp;rebase=on</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>TRT Arabic</cname>
+     <cname>TRT Arabic</cname>
 	<item>
-	<title>Low</title>
-	<link>rtmp://si.trtcdn.com/tv/trtarapca/mp4:trtarapca_1 timeout=20</link>
+	<title>360p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-p.m3u8?sd=10&amp;rebase=on</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>TRT Arabic</cname>
+     <cname>TRT Arabic</cname>
 	<item>
-	<title>Med</title>
-	<link>rtmp://si.trtcdn.com/tv/trtarapca/mp4:trtarapca_2 timeout=20</link>
+	<title>360p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8?sd=10&amp;rebase=on</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>TRT Arabic</cname>
+     <cname>TRT Arabic</cname>
 	<item>
-	<title>High</title>
-	<link>rtmp://si.trtcdn.com/tv/trtarapca/mp4:trtarapca_3 timeout=20</link>
+	<title>480p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_700_av-p.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>TRT Arabic</cname>
+	<item>
+	<title>720p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1200_av-p.m3u8?sd=10&amp;rebase=on</link>
 	</item>
 </streaminginfo>
 
