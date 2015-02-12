@@ -1572,13 +1572,81 @@
 	<link>rtmp://213.55.98.102/live/livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf pageUrl=http://www.etvlive.gov.et/etv.html live=1 timeout=20</link>
 	</item>
 </streaminginfo>
+
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>Low</title>
+    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_264.m3u8</link>
+    </item>
+</streaminginfo>
 <streaminginfo>
 	<cname>alrayan</cname>
 	<item>
 	<title>Med</title>
-    <link>http://alrayyan_hls-lh.akamaihd.net/i/alrayyan_ar@2145/master.m3u8</link>
+    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_528.m3u8</link>
     </item>
 </streaminginfo>
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>Med</title>
+    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8</link>
+    </item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>On TV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://50.7.180.18:1935/elONTV/ontv.stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>ONTV Live</cname>
+	<item>
+	<title>Mobile</title>
+	<link>http://50.7.180.18:1935/elONTV/smil:ontv_live.smil/chunklist_w1679873436_b356000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ONTV Live</cname>
+	<item>
+	<title>Low 288</title>
+	<link>http://50.7.180.18:1935/elONTV/smil:ontv_live.smil/chunklist_w1679873436_b656000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ONTV Live</cname>
+	<item>
+	<title>Low 384</title>
+	<link>http://50.7.180.18:1935/elONTV/smil:ontv_live.smil/chunklist_w1679873436_b956000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ONTV Live</cname>
+	<item>
+	<title>Med</title>
+	<link>http://50.7.180.18:1935/elONTV/smil:ontv_live.smil/chunklist_w1679873436_b1256000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ONTV Live</cname>
+	<item>
+	<title>High</title>
+	<link>http://50.7.180.18:1935/elONTV/smil:ontv_live.smil/chunklist_w1679873436_b1556000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>Low</title>
+	<link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Kout</cname>
 	<item><title>SD</title>
