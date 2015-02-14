@@ -2,7 +2,7 @@
 <streaminginfo>
 	<cname>Star2000</cname>
 	<item>
-	<title>Ustream Stra 2000</title>
+	<title>low</title>
 	<link>$doregex[get-link]</link>
 	<regex>
 	<name>get-link</name>
