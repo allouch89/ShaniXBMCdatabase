@@ -1866,14 +1866,14 @@
 			<page>http://new.livestream.com/alghadtv/events/2330953</page>
 			</regex>
 		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Dejlah</cname>
-		<item>
-			<title>m3u8</title>
-			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
-		</item>
-	</streaminginfo>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dejlah</cname>
+	<item>
+	<title>Med</title>
+	<link>http://stream.joinvisions.net:1935/dij/dij/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 	
 	
 	<streaminginfo>
