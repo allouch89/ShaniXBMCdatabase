@@ -1,6 +1,13 @@
 <streamingInfos>
 
 <streaminginfo>
+    <cname>Al Ordonia</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://stream2.joinvisions.net:1935/jorlive/jrtv timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
     <cname>Citruss</cname>
 	<item>
 	<title>Low</title>
