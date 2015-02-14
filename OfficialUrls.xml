@@ -4095,7 +4095,28 @@
 </item>
 </streaminginfo>
 
-
+<streaminginfo>
+<cname>Alsaeedah</cname>
+<item>
+<title>Ustream2</title>
+<link>http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&amp;appVersion=3&amp;conn=wifi&amp;cid=10270300&amp;stream=viewer_240p&amp;connectionId=oldurl-6607e0512a4ea31c845a9f2da2f56c92f639ea32&amp;group=iphone
+</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Al Etejah EN</cname>
+<item>
+<title>360</title>
+<link>rtmp://livestreaming.itworkscdn.net/aletajahlive/ethen_360p swfUrl=http://aletejahtv.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://aletejahtv.net/live</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Al Etejah EN</cname>
+<item>
+<title>480</title>
+<link>rtmp://livestreaming.itworkscdn.net/aletajahlive/ethen swfUrl=http://aletejahtv.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://aletejahtv.net/live</link>
+</item>
+</streaminginfo>
 
 
 
