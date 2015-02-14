@@ -1,4 +1,12 @@
 <streamingInfos>
+
+<streaminginfo>
+    <cname>Citruss</cname>
+	<item>
+	<title>Low</title>
+	<link>http://live.citrusstv.com/live/watch/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
     <cname>Alghadeer</cname>
 	<item>
