@@ -1,5 +1,11 @@
 <streamingInfos>
-
+<streaminginfo>
+    <cname>Jordan Sport</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://stream2.joinvisions.net:1935/jorlive/s1 timeout=20</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
     <cname>Al Ordonia</cname>
 	<item>
