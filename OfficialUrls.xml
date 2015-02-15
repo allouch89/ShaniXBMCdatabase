@@ -2853,17 +2853,25 @@
 <streaminginfo>
      	<cname>Dubai Sport 3</cname>
 	<item>
-	<title>High</title>
-	<link>http://dmilivedubaisports3.ios.internapcdn.net/dmiLiveDubaiSports3/live_1/dmilivedubaisports3_3/CCURstream1029600.m3u8</link>
+	<title>Med</title>
+	<link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b463056.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     	<cname>Dubai Sport 3</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b925056.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
      	<cname>Dubai Sport 3</cname>
 	<item>
 	<title>High</title>
-	<link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b1100000.m3u8</link>
+	<link>http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist_b1396736.m3u8</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
      <cname>Karbala</cname>
 <item>
