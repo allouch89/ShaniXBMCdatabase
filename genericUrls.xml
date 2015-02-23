@@ -5,7 +5,7 @@
 <cname>iFilm Arabic</cname>
 <item>
 <title>playtv</title>
-<link>http://188.165.101.226:80/mobile2/_definst_/amlst:ifilm_ptvb\/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
+<link>http://188.165.101.226:80/mobile2/_definst_/amlst:ifilm_ptvb/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
 <regex>
 <name>key</name>
 <expres>sessionid=([^'"]*)</expres>
@@ -549,9 +549,12 @@
 		<cname>Quran TV ksa</cname>
 		<item>
 		<title>islambox</title>
-		<link>rtmp://ib12.islambox.tv/live/vb008_alquranalkareem_160k.stream?key=0111A8A7AEA120798F3C582A066AAF96843EF63A704AE0CE730C54EA0CBD5FE7 timeout=20</link>
+		<link>rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3 timeout=20</link>
 		</item>
 </streaminginfo>
+
+
+
 <streaminginfo>
 		<cname>Ajyal</cname>
 		<item>
