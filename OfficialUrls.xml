@@ -271,17 +271,48 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Notele</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://streaming06.axeweb.be:1935/live/direct.stream timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Bedaya</cname>
 	<item>
 	<title>Ustream</title>
-	<link>$doregex[get-link]</link>
-	<regex>
-	<name>get-link</name>
-	<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/14691077/streams/live/playlist.m3u8')</expres>
-	<page></page>
-	</regex>
+	<link>http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=14691077&amp;id=gmswf</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>160</title>
+	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_160p/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>240</title>
+	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>360</title>
+	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_360p/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>480</title>
+	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 		<cname>Al Baghdadia</cname>
 		<item>
