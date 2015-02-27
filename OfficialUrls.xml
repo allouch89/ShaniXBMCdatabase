@@ -4225,6 +4225,13 @@
 <link>rtmp://livestreaming.itworkscdn.net/aletajahlive/ethen swfUrl=http://aletejahtv.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://aletejahtv.net/live</link>
 </item>
 </streaminginfo>
+<streaminginfo>
+<cname>RTI</cname>
+<item>
+<title>480</title>
+<link>rtmp://178.248.214.76/rti_str-1806-e125986013b9e7e994a18164ce0fcb48/rti.stream timeout=20</link>
+</item>
+</streaminginfo>
 
 
 
