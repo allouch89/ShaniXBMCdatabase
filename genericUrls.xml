@@ -1,9 +1,22 @@
 <streamingInfos>
-
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
 	<item>
-	<title>low</title>
+	<title>low SVR4</title>
+	<link>http://208.53.133.178:1935/ctv/tom/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>low SVR3</title>
+	<link>http://66.90.111.18:1935/ctv/tom/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>low SVR2</title>
 	<link>http://66.90.111.66:1935/ctv/tom/playlist.m3u8</link>
 	</item>
 </streaminginfo>
@@ -11,7 +24,7 @@
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
 	<item>
-	<title>low</title>
+	<title>low SVR1</title>
 	<link>rtmp://208.53.133.122/tvamigos/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.carolineoliveira.com.br/face/curta.html</link>
 	</item>
 </streaminginfo>
