@@ -1,4 +1,35 @@
 <streamingInfos>
+
+
+<streaminginfo>
+     <cname>Hawas</cname>
+	<item>
+	<title>Low</title>
+	<link>http://duhls-i.akamaihd.net/hls/live/219163-b/HAWAS/04.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Hawas</cname>
+	<item>
+	<title>Low</title>
+	<link>http://duhls-i.akamaihd.net/hls/live/219163-b/HAWAS/03.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Hawas</cname>
+	<item>
+	<title>Med</title>
+	<link>http://duhls-i.akamaihd.net/hls/live/219163-b/HAWAS/02.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Hawas</cname>
+	<item>
+	<title>High</title>
+	<link>http://duhls-i.akamaihd.net/hls/live/219163-b/HAWAS/01.m3u8</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 	<cname>Star2000</cname>
 	<item>
