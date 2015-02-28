@@ -1,6 +1,104 @@
 <streamingInfos>
 
+<streaminginfo>
+    <cname>National Geo Ad</cname>
+	<item>
+	<title>Low</title>
+	<link>http://80.243.182.106:8080/nationalg/nationalg/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al mayaden</cname>
+	<item>
+	<title>High</title>
+	<link>http://38.96.148.204:1935/liveedge/livestream_m256p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al mayaden</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.96.148.204:1935/liveedge/livestream_m128p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al mayaden</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.96.148.204:1935/liveedge/livestream_240p/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Sharqiya News</cname>
+	<item>
+	<title>Low</title>
+	<link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Sharqiya</cname>
+	<item>
+	<title>Low</title>
+	<link>http://46.165.208.230:1935/home/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo>
+    <cname>Palestine</cname>
+	<item>
+	<title>Low</title>
+	<link>http://217.21.0.14:1935/pbc/pbc_1/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Alquds Educ</cname>
+	<item>
+	<title>Low</title>
+	<link>http://178.214.64.157/aqtv/imm/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljazeera Children</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/jsc/jsc/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Baraem</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/brm/brm/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Libya 2</cname>
+	<item>
+	<title>Low</title>
+	<link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Qatar</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/qtv/qtv/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>alrayan</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/ryn/ryn/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>SkyNewsArabia</cname>
+	<item>
+	<title>Low</title>
+	<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 <cname>iFilm Arabic</cname>
 <item>
