@@ -1391,139 +1391,50 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-		<cname>Al Magharibia</cname>
-		<item>
-		<title>Al Magharibia2 Low</title>
-		<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-		<regex>
-		<name>get-m3u8</name>
-		<expres>270.*[^h]+(.*)</expres>
-		<page>$doregex[get-page]</page>
-		</regex>
-		<regex>
-		<name>get-page</name>
-		<expres>"m3u8_url":"([^"]*)</expres>
-		<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
-		</regex>
-		<regex>
-		<name>get-hdnea</name>
-		<expres>hdnea=st=([^"]*)</expres>
-		<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
-		</regex>
-		</item>
-</streaminginfo>
-<streaminginfo>
-		<cname>Al Magharibia</cname>
-		<item>
-		<title>Al Magharibia2 Med</title>
-		<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-		<regex>
-		<name>get-m3u8</name>
-		<expres>432.*[^h]+(.*)</expres>
-		<page>$doregex[get-page]</page>
-		</regex>
-		<regex>
-		<name>get-page</name>
-		<expres>"m3u8_url":"([^"]*)</expres>
-		<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
-		</regex>
-		<regex>
-		<name>get-hdnea</name>
-		<expres>hdnea=st=([^"]*)</expres>
-		<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
-		</regex>
-		</item>
-</streaminginfo>
-<streaminginfo>
-		<cname>Al Magharibia</cname>
-		<item>
-			<title>Al Magharibia2 High</title>
-			<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-			<regex>
-			<name>get-m3u8</name>
-			<expres>486.*[^h]+(.*)</expres>
-			<page>$doregex[get-page]</page>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>"m3u8_url":"([^"]*)</expres>
-			<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
-			</regex>
-			<regex>
-			<name>get-hdnea</name>
-			<expres>hdnea=st=([^"]*)</expres>
-			<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
-			</regex>
-		</item>
-</streaminginfo>
+
 
 <streaminginfo>
-		<cname>Al Magharibia</cname>
-		<item>
-		<title>Low</title>
-		<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-		<regex>
-		<name>get-m3u8</name>
-		<expres>270.*[^h]+(.*)</expres>
-		<page>$doregex[get-page]</page>
-		</regex>
-		<regex>
-		<name>get-page</name>
-		<expres>"m3u8_url":"([^"]*)</expres>
-		<page>http://new.livestream.com/almagharibia/events/3348791</page>
-		</regex>
-		<regex>
-		<name>get-hdnea</name>
-		<expres>hdnea=st=([^"]*)</expres>
-		<page>http://new.livestream.com/almagharibia/events/3348791</page>
-		</regex>
-		</item>
+	<cname>Al Magharibia</cname>
+	<item>
+	<title>Low</title>
+	<link>$doregex[get-m3u8]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8</name>
+	<expres>.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-page]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get-page</name>
+	<expres>"m3u8_url":"(.*?)"</expres>
+	<page>http://new.livestream.com/almagharibia/events/3348791</page>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
 </streaminginfo>
 <streaminginfo>
-		<cname>Al Magharibia</cname>
-		<item>
-		<title>Med</title>
-		<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-		<regex>
-		<name>get-m3u8</name>
-		<expres>432.*[^h]+(.*)</expres>
-		<page>$doregex[get-page]</page>
-		</regex>
-		<regex>
-		<name>get-page</name>
-		<expres>"m3u8_url":"([^"]*)</expres>
-		<page>http://new.livestream.com/almagharibia/events/3348791</page>
-		</regex>
-		<regex>
-		<name>get-hdnea</name>
-		<expres>hdnea=st=([^"]*)</expres>
-		<page>http://new.livestream.com/almagharibia/events/3348791</page>
-		</regex>
-		</item>
+	<cname>Al Magharibia 2</cname>
+	<item>
+	<title>Low</title>
+	<link>$doregex[get-m3u8]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8</name>
+	<expres>.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-page]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	<regex>
+	<name>get-page</name>
+	<expres>"m3u8_url":"(.*?)"</expres>
+	<page>http://new.livestream.com/accounts/7861901/events/3698527</page>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>Al Magharibia</cname>
-		<item>
-			<title>High</title>
-			<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-			<regex>
-			<name>get-m3u8</name>
-			<expres>486.*[^h]+(.*)</expres>
-			<page>$doregex[get-page]</page>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>"m3u8_url":"([^"]*)</expres>
-			<page>http://new.livestream.com/almagharibia/events/3348791</page>
-			</regex>
-			<regex>
-			<name>get-hdnea</name>
-			<expres>hdnea=st=([^"]*)</expres>
-			<page>http://new.livestream.com/almagharibia/events/3348791</page>
-			</regex>
-		</item>
-</streaminginfo>
+
+
 	
 	
 	
