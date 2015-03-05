@@ -1405,7 +1405,48 @@
 </streaminginfo>
 
 
-
+<streaminginfo>
+		<cname>Al Magharibia</cname>			
+<item>
+ <title>low2</title>
+ <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=iPhone</link>
+ <regex>
+ <name>get-initsesion</name>
+ <expres></expres>
+ <page>$doregex[get-page]</page>
+ <agent>iPhone</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ <regex>
+ <name>get-page</name>
+ <expres>"m3u8_url":"(.*?)"</expres>
+ <page>http://new.livestream.com/accounts/9841337/events/3348791</page>
+ <agent>iPhone</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Al Magharibia 2</cname>
+ <item>
+ <title>low2</title>
+ <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=iPhone</link>
+ <regex>
+ <name>get-initsesion</name>
+ <expres></expres>
+ <page>$doregex[get-page]</page>
+ <agent>iPhone</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ <regex>
+ <name>get-page</name>
+ <expres>"m3u8_url":"(.*?)"</expres>
+ <page>http://new.livestream.com/accounts/7861901/events/3698527</page>
+ <agent>iPhone</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Al Magharibia</cname>
 	<item>
