@@ -1,4 +1,20 @@
 <streamingInfos>
+
+<streaminginfo>
+	<cname>Ajyal Network</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://46.43.64.162:1935/ajyal/livestreamm timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ajyal Network</cname>
+	<item>
+	<title>High</title>
+	<link>rtmp://46.43.64.162:1935/ajyal/livestream2 timeout=15</link>
+	</item>
+</streaminginfo>
+ 
 <streaminginfo>
 	<cname>Sama Syria</cname>
 	<item>
