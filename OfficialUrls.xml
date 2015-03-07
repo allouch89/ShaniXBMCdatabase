@@ -1266,8 +1266,22 @@
 <streaminginfo>
 	<cname>i24News</cname>
 	<item>
-        <title>Arabic</title>
-        <link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8</link>
+    	<title>Low Arabic</title>
+    	<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/150.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>i24News</cname>
+	<item>
+    	<title>Med Arabic</title>
+    	<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/300.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>i24News</cname>
+	<item>
+    	<title>High Arabic</title>
+    	<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/650.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
