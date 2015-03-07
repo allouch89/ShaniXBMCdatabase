@@ -1,5 +1,11 @@
 <streamingInfos>
-
+<streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+	<title>Low</title>
+	<link>http://sama-tv.net:1935/live/samatv/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Libya 24</cname>
 	<item>
