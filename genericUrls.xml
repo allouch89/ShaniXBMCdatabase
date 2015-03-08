@@ -152,6 +152,21 @@
 </regex>
 </item>
 </streaminginfo>
+<streaminginfo>
+	<cname>MBC 1</cname>
+	<item>
+	<title>Mix TV</title>
+	<link>rtmp://us1.uvlog.com/uvlog_video/3142 app=uvlog_video/3142 conn=S:3142 conn=S:N/A conn=S:Anonymous_422 conn=S:viewer conn=S: conn=S:99999 conn=S:true conn=S:14236528633400554db37ffb5395699971859 playpath=stream flashver=WIN\2013,0,0,214 swfUrl=http://uvlog.com/broadView.swf?rand=1236 pageUrl=http://uvlog.com live=1 timeout=15</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alfaraeena</cname>
+	<item>
+	<title>uvlog</title>
+	<link>rtmp://video.uvlog.com/uvlog_video/6568 app=uvlog_video/6568 conn=S:6568 conn=S:N/A conn=S:Anonymous_422 conn=S:viewer conn=S: conn=S:99999 conn=S:true conn=S:14236528633400554db37ffb5395699971859 playpath=stream flashver=WIN\2013,0,0,214 swfUrl=http://uvlog.com/broadView.swf?rand=1236 pageUrl=http://uvlog.com live=1 timeout=15</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Persian Music</cname>
