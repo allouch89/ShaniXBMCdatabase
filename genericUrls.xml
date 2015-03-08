@@ -2269,18 +2269,7 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-<cname>MBC 3</cname>
-<item>
-<title>Mips Low</title>
-<link>rtmp://$doregex[rtmp]/live playpath=sfsgfdgfdgfdgg?id=201711 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=20</link>
-<regex>
-<name>rtmp</name>
-<expres>.*redirect=([\.\d]+)</expres>
-<page>http://mips.tv:1935/loadbalancer</page>
-</regex>
-</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>Alhayat 1</cname>
