@@ -1239,16 +1239,29 @@
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
-        <title>Low</title>
+        <title>Low_2</title>
         <link>http://37.48.80.48/lbclive/smil:lbclive.smil/chunklist_w38025370_b240000.m3u8</link>
 	</item>
 </streaminginfo>
 
-
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
-        <title>Med</title>
+	<title>Low_1</title>
+	<link>rtmp://livestreaming.itworkscdn.net/lbclive/lbc_3 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>LBC</cname>
+	<item>
+	<title>Med_2</title>
+	<link>rtmp://livestreaming.itworkscdn.net/lbclive/lbc_2 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>LBC</cname>
+	<item>
+        <title>Med_1</title>
         <link>http://37.48.80.48/lbclive/smil:lbclive.smil/chunklist_w38025370_b360000.m3u8</link>
 	</item>
 </streaminginfo>
@@ -1256,19 +1269,25 @@
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
-        <title>High</title>
+        <title>High_3</title>
         <link>http://37.48.80.48/lbclive/smil:lbclive.smil/chunklist_w38025370_b525000.m3u8</link>
 	</item>
 </streaminginfo>
-
-
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
-        <title>High</title>
+        <title>High_2</title>
         <link>http://livestreaming.itworkscdn.net/lbclive/smil:lbclive.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>LBC</cname>
+	<item>
+	<title>High_1</title>
+	<link>rtmp://livestreaming.itworkscdn.net/lbclive/lbc swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+	</item>
+</streaminginfo>
+		
 <streaminginfo>
 	<cname>i24News</cname>
 	<item>
