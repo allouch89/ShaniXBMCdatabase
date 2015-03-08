@@ -1239,6 +1239,13 @@
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
+	<title>Low_3</title>
+	<link>rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>LBC</cname>
+	<item>
         <title>Low_2</title>
         <link>http://37.48.80.48/lbclive/smil:lbclive.smil/chunklist_w38025370_b240000.m3u8</link>
 	</item>
