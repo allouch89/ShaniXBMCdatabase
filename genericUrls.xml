@@ -1374,15 +1374,6 @@
     </regex>    
 </item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Masria ESC</cname>
-	<item>
-	<title>onlinehorizons</title>
-	<link>rtmp://livestreaming4.onlinehorizons.net/ERTUEgy playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ERTUEgy/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ERTUEgy/ live=1 timeout=20</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>ZDF</cname>
 	<item>
