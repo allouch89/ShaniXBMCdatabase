@@ -703,14 +703,14 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alnahar Alyoum</cname>
+	<cname>Al Nahar Alyoum</cname>
 	<item>
 	<title>Med</title>
 	<link>rtmp://50.7.180.18/elnahar_tv/nahar_youmprofile1.stream timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alnahar Alyoum</cname>
+	<cname>Al Nahar Alyoum</cname>
 	<item>
 	<title>High</title>
 	<link>rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream timeout=20</link>
