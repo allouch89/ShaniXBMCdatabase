@@ -3276,21 +3276,21 @@
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Al-Nahar Drama</cname>
+        <cname>Al Nahar Drama</cname>
 		<item>
 		<title>Low</title>
 		<link>rtmp://50.7.180.18/elnahar_tv/nahar_dramaprofile2.stream timeout=20</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>Al-Nahar Drama</cname>
+        <cname>Al Nahar Drama</cname>
 		<item>
 		<title>Med</title>
 		<link>rtmp://50.7.180.18/elnahar_tv/nahar_dramaprofile1.stream timeout=20</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>Al-Nahar Drama</cname>
+        <cname>Al Nahar Drama</cname>
 		<item>
 		<title>High</title>
 		<link>rtmp://50.7.180.18/elnahar_tv/nahar_drama.stream timeout=20</link>
