@@ -333,7 +333,28 @@
 	<cname>Misr Alaan</cname>
 	<item>
 	<title>Low</title>
-	<link>http://wowzacontrol.com:1935/8028/8028/chunklist_w225639380.m3u8</link>
+	<link>http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w45768324_b394100_slen.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Misr Alaan</cname>
+	<item>
+	<title>Med</title>
+	<link>http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w45768324_b894100_slen.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Misr Alaan</cname>
+	<item>
+	<title>High</title>
+	<link>http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w45768324_b1344100_slen.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Misr Alaan</cname>
+	<item>
+	<title>720p</title>
+	<link>http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w45768324_b2628000_slen.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
