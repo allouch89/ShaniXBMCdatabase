@@ -848,7 +848,7 @@
 <streaminginfo>
 		<cname>Medi 1 Sat</cname>
 		<item>
-		<title>Elahmad_M</title>
+		<title>GLO</title>
 		<link>http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/gmswf.m3u8</link>
 		</item>
 </streaminginfo> 
@@ -2267,25 +2267,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-<cname>Zee Aflam</cname>
-<item>
-<title>Mips Low</title>
-<link>rtmp://$doregex[rtmp]/live playpath=xcvcwvvwwwcccvvv?id=$doregex[getid] swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=20</link>
-<regex>
-<name>rtmp</name>
-<expres>.*redirect=([\.\d]+)</expres>
-<page>http://mips.tv:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>getid</name>
-<expres>FlashVars.*'id=(.*?)&amp;</expres>
-<page>http://www.mips.tv/embedplayer/xcvcwvvwwwcccvvv/1/500/400</page>
-<referer>http://mips.tv/xcvcwvvwwwcccvvv</referer>
-</regex>
-</item>
-</streaminginfo>
-
 
 
 <streaminginfo>
@@ -3336,15 +3317,15 @@
 <streaminginfo>
 	<cname>Alhayat Cinema</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://162.212.176.107:1935/alhayat_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC.00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-alhayat_cinema.stream timeout=15</link>
+		<title>GLO</title>
+		<link>rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream timeout=15</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat 1</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream timeout=15</link>
+		<title>GLO</title>
+		<link>rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream timeout=15</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3357,22 +3338,22 @@
 <streaminginfo>
 	<cname>Dream 1</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://162.212.176.107:1935/dream_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUtMDEt.MjUtMDAtNDUtMTc=/globaltv-dream_1.stream timeout=15</link>
+		<title>GLO</title>
+		<link>rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream timeout=15</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Art Aflam 2</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://162.212.176.107:1935/art_aflam_2?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_2.stream timeout=15</link>
+		<title>GLO</title>
+		<link>rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream timeout=15</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Art Aflam 1</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://162.212.176.107:1935/art_aflam_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_1.stream timeout=15</link>
+		<title>GLO</title>
+		<link>rtmp://162.212.176.107:1935/art_aflam_1/globaltv-art_aflam_1.stream timeout=15</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3418,356 +3399,18 @@
 	</item>
 </streaminginfo>
 
-
-
-<streaminginfo>
-    <cname>MBC 3</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Mbc-3-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Baraem</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Baraem-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Ajyal</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Ajyal-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Spacetoon</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Space-Toon-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Cartoon Network</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Cartoon-Net-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>GULLI</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Gulli-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Toyor Al Janah</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Touyour-Al-J-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Libya Kids</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Libya-Kids-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Mody Kids</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Mody-kids-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Karameesh</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Karameesh-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Taha</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Taha-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>CN FR</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Cartoon-Network-FR-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Canary Kids</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Canary-Kids-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Baynouna</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Baynounah-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Dar Qamar Kids</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Dar-Qamar-Kids-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Disney</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Disney-HD-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Noon Kids</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Noon-tv-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Disney XD</cname>
-	<item>
-	<title>Cartoons</title>
-	<link>$doregex[rtmp] flashVer=WIN%2015,0,0,152 swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf pageUrl=http://www.arabic-toons.com live=1 timeout=15</link>
-	<regex>
-	<name>rtmp</name>
-	<expres>url: "(rtmp.*?)"</expres>
-	<page>$doregex[encoded]</page>
-	</regex>
-	<regex>
-	<name>encoded</name>
-	<expres>escape..([^\']*)</expres>
-	<page>http://www.arabic-toons.com/Disney-XD-en-direct-live.html</page>
-	<ignorecache/>
-	</regex>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Dream 1</cname>
 	<item>
-		<title>Elahmad</title>
-		<link>http://162.212.176.107:1935/dream_1/globaltv-dream_1.stream/gmswf.m3u8</link>
+	<title>GLo</title>
+	<link>http://162.212.176.107:1935/dream_1/globaltv-dream_1.stream/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Moga Comedy</cname>
 	<item>
-	<title>Elahmad</title>
-		<link>http://162.212.176.107:1935/moga_comedy/globaltv-moga_comedy.stream/gmswf.m3u8</link>
+	<title>GLo</title>
+	<link>http://162.212.176.107:1935/moga_comedy/globaltv-moga_comedy.stream/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Misr Alaan</cname>
-	<item>
-		<title>Elahmad</title>
-		<link>209.95.39.148:1935/8028/globaltv.miralaan.stream/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-
 </streamingInfos>
