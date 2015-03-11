@@ -2310,15 +2310,6 @@
 	<link>http://xazaalx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Ashorooq</cname>
-	<item>
-	<title>Atvmobile</title>
-	<link>http://atvmobile.flashwebtown.com:1935/atv/myStream.sdp/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>iFilm Arabic</cname>
 	<item>
@@ -2326,7 +2317,6 @@
 	<link>http://ptv-hls.streaming.overon.es/channel01/livehigh.m3u8</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
 	<cname>BBC</cname>
 	<item>
@@ -2334,8 +2324,6 @@
 	<link>http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/chunklist_b600000.m3u8</link>
 	</item>
 </streaminginfo>
-
-
 <streaminginfo>
         <cname>Panorama film</cname>
 	<item>
