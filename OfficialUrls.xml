@@ -3742,7 +3742,7 @@
 
 
 <streaminginfo>
-<cname>AzhariTV</cname>
+<cname>Azhari</cname>
 <item>
 <title>Youtube Bypass Geoblock2</title>
 <link>$doregex[get-utf8-url]</link>
@@ -3766,7 +3766,7 @@
 </streaminginfo>
 
 <streaminginfo>
-<cname>AzhariTV</cname>
+<cname>Azhari</cname>
 <item>
 <title>Youtube Bypass Geoblock1</title>
 <link>$doregex[url]</link>
