@@ -2474,14 +2474,19 @@
 		</item>
 	</streaminginfo>
 
-
 <streaminginfo>
-    <cname>Alkitab</cname>
+    	<cname>Alkitab</cname>
 	<item>
 	<title>Low</title>
-	<link>rtmp://176.58.79.15:1936/live/ALKITAB?token=IweZa0u3sWUNqvVYqlc4LA&amp;e=1426178370 live=1 timeout=20</link>
+	<link>$doregex[stream] swfUrl=http://www.alkitab.ps/live/jwplayer.flash.swf pageUrl=http://www.alkitab.ps live=1 timeout=15</link>
+	<regex>
+	<name>stream</name>
+	<expres>file: "(.*?)"</expres>
+	<page>http://www.alkitab.ps/live/</page>
+	</regex>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
     <cname>Alaqsa</cname>
 	<item>
