@@ -3741,15 +3741,10 @@
 
 
 
-
-
-
-
-
 <streaminginfo>
 <cname>AzhariTV</cname>
 <item>
-<title>Youtube Noway0815</title>
+<title>Youtube Bypass Geoblock2</title>
 <link>$doregex[get-utf8-url]</link>
 <regex>
 <name>get-utf8-url</name>
@@ -3771,9 +3766,38 @@
 </streaminginfo>
 
 <streaminginfo>
+<cname>AzhariTV</cname>
+<item>
+<title>Youtube Bypass Geoblock1</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>jsonurl</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>$pyFunction:urllib.urlopen('http://godfather-proxy.com/index.php?q=$doregex[url-quote]&amp;hl=280').read()</page> 
+<referer>http://godfather-proxy.com</referer>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=sWBeKLYEdQ8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+
+
+<streaminginfo>
 <cname>CBC Sofra</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3797,7 +3821,7 @@
 <streaminginfo>
 <cname>CBC</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3821,7 +3845,7 @@
 <streaminginfo>
 <cname>CBC Extra</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3845,7 +3869,7 @@
 <streaminginfo>
 <cname>CBC Drama</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3869,7 +3893,7 @@
 <streaminginfo>
 <cname>CBC 2</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3892,7 +3916,7 @@
 <streaminginfo>
 <cname>AlQahera W Elnas 2</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3915,7 +3939,7 @@
 <streaminginfo>
 <cname>AlQahera W Elnas</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3938,7 +3962,7 @@
 <streaminginfo>
 <cname>Sada AlBalad Drama</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3962,7 +3986,7 @@
 <streaminginfo>
 <cname>Sada Al Balad</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -3986,7 +4010,7 @@
 <streaminginfo>
 <cname>Sada Al Balad2</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -4011,7 +4035,7 @@
 <streaminginfo>
 <cname>Russia Alyaum</cname>
 <item>
-<title>Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -4201,7 +4225,7 @@
 <streaminginfo>
         <cname>Russia Alyaum</cname>
 <item>
-<title>Low Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>Low Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -4235,7 +4259,7 @@
 <streaminginfo>
         <cname>Russia Alyaum</cname>
 <item>
-<title>SD Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>SD Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -4269,7 +4293,7 @@
 <streaminginfo>
         <cname>Russia Alyaum</cname>
 <item>
-<title>HQ Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>HQ Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -4304,7 +4328,7 @@
 <streaminginfo>
         <cname>Russia Alyaum</cname>
 <item>
-<title>HD Youtube bypass geoblock Thanks go to Gujal and  Noway0815</title>
+<title>HD Youtube Bypass Geoblock</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
