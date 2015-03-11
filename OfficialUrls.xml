@@ -3746,7 +3746,29 @@
 
 
 
-
+<streaminginfo>
+<cname>AzhariTV</cname>
+<item>
+<title>Youtube Noway0815</title>
+<link>$doregex[get-utf8-url]</link>
+<regex>
+<name>get-utf8-url</name>
+<expres>$pyFunction:'$doregex[get-m3u8]'.replace('\\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>$pyFunction:urllib.urlopen('http://www.proxyusa.info/browse.php?u=$doregex[url-quote]&amp;b=4&amp;f=http://www.proxyusa.info/').read()</page>
+<referer>http://www.proxyusa.info/browse.php?u=https://www.youtube.com/watch?v=sWBeKLYEdQ8</referer>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=sWBeKLYEdQ8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
 
 <streaminginfo>
 <cname>CBC Sofra</cname>
@@ -3766,7 +3788,7 @@
 </regex>
 <regex>
 <name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=_C5Oij_AD3g')</expres>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=D6KqwpHx-VM')</expres>
 <page></page>
 </regex>
 </item>
@@ -3814,7 +3836,7 @@
 </regex>
 <regex>
 <name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=gUvctAVTsuU')</expres>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=vX-2o15uZrY')</expres>
 <page></page>
 </regex>
 </item>
@@ -3838,7 +3860,7 @@
 </regex>
 <regex>
 <name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=INMjUMS1-Ao')</expres>
+<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=op2RmbGlVG4')</expres>
 <page></page>
 </regex>
 </item>
