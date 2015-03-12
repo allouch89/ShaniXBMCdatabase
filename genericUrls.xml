@@ -1,15 +1,12 @@
 <streamingInfos>
 
-
-<streaminginfo><cname>Algeria 3</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.23:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>AlGeria</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.24:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>Echorouk Tv</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.43:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>Dzair News</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.44:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>Bahrain</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.52:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>Al Rafidain</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.54:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>Tunisia national 1</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.79:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-<streaminginfo><cname>Kalsan Tv</cname><item><title>UPD</title><link>http://159.224.32.114:1313/udp/238.0.16.101:1234 live=1 swfVfy=1 timeout=15</link></item></streaminginfo>
-
+<streaminginfo>
+	<cname>LPC</cname>
+	<item>
+	<title>Ustream</title>
+	<link>http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=19913120&amp;id=gmswf</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
 	<item>
