@@ -3122,24 +3122,17 @@
 			<link>rtmp://fms.pwmcdn.com:1935/alhorreya/alhorreya2</link>
 		</item>
 	</streaminginfo>
-        <streaminginfo>
-		<cname>MBCMasrPlus2</cname>
-		<item>
-			<title>Masr+2 Working</title>
-			<link>http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Logos_Christian</cname>
 		<item>
-			<title>Logos Working</title>
+			<title>Logos</title>
 			<link>http://68.235.37.110:1935/logoschannel.com/smil:logostv.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>MESat_Christian</cname>
 		<item>
-			<title>ME Sat Working</title>
+			<title>ME Sat</title>
 			<link>rtmp://roku-stream.mine.nu:1935/jr1/_definst_/MeSatChannel</link>
 		</item>
 	</streaminginfo>
