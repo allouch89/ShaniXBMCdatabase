@@ -3074,6 +3074,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>        
+	<cname>Echorouk Tv</cname>
+        <item>
+    	<title>SD</title>
+	<link>http://live.echoroukonline.com/live/EchoroukTV_SD/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>        
 		<cname>Al Baghdadia 2</cname>
         <item>
     <title>Al Baghdadia 2</title>
