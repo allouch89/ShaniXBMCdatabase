@@ -2343,11 +2343,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Taxi El Sahra</cname>
-	<item><title>achams</title><link>rtmp://108.178.40.250/live?~achams.com:1935@192.185.11.131/10102.stream pageUrl=http://achams.com/stream/taxi-shara.swf timeout=20</link></item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>MBC 2</cname>
 	<item><title>achams low</title><link>rtmp://212.179.77.42/live/livestream2?key=achams-com.flv pageUrl=http://achams.com/tv/mbc2.php timeout=20</link></item>
 </streaminginfo>
