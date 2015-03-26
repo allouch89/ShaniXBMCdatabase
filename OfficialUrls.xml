@@ -1,6 +1,13 @@
 <streamingInfos>
 
 <streaminginfo>
+    <cname>ShamFM</cname>
+	<item>
+	<title>low</title>
+	<link>http://shamfm.tv:1935/live/shamfm/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Al Anwar 2</cname>	
 	<item>
 	<title>720p</title>
