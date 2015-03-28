@@ -3213,7 +3213,7 @@
 <streaminginfo>
 	<cname>AlYawm</cname>
 	<item>
-	<title>Mips Low</title>
+	<title>Amradeeb.tv Low</title>
 	<link>rtmp://$doregex[rtmp]/live playpath=amradeebtv9?id=190386 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=20</link>
 	<regex>
 	<name>rtmp</name>
