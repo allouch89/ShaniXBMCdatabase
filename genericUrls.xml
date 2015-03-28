@@ -2123,18 +2123,6 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-<cname>AlYawm</cname>
-<item>
-<title>Ustream</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17695248/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex>
-</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>Animal Planet</cname>
@@ -3223,17 +3211,18 @@
 </streaminginfo>
 
 <streaminginfo>
-<cname>AlYawm</cname>
-<item>
-<title>Ustream_eltayartv</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18285957/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex>
-</item>
+	<cname>AlYawm</cname>
+	<item>
+	<title>Mips Low</title>
+	<link>rtmp://$doregex[rtmp]/live playpath=amradeebtv9?id=190386 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=20</link>
+	<regex>
+	<name>rtmp</name>
+	<expres>.*redirect=([\.\d]+)</expres>
+	<page>http://mips.tv:1935/loadbalancer</page>
+	</regex>
+	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Aghapy</cname>
 	<item>
