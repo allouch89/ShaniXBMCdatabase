@@ -1,5 +1,18 @@
 <streamingInfos>
-
+<streaminginfo>
+	<cname>Bein 1 FR</cname>
+	<item>
+	<title>bein1fr</title>
+	<link>http://91.109.20.227:8080/TV4016?gtoken</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein 2 FR</cname>
+	<item>
+	<title>bein1fr</title>
+	<link>http://91.109.20.227:8080/TV4017?gtoken</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>LPC</cname>
 	<item>
@@ -658,18 +671,6 @@
 	<item>
 		<title>Halima-Live</title>
 		<link>rtmp://halima-live.com:1936/scorpion playpath=canal+fr3 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2015,0,0,152 swfVfy=true timeout=30 pageUrl=http://halima-live.com/chaine.php?cat=23&amp;id=33</link> 
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein 1 FR</cname>
-	<item><title>Bein14HD</title>
-	<link>rtmp://karimos-sat.com:1935/static/Bein14_HD swfVfy=true live=true timeout=60</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein 2 FR</cname>
-	<item><title>Bein15HD</title>
-	<link>rtmp://karimos-sat.com:1935/static/Bein15_HD swfVfy=true live=true timeout=60</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
