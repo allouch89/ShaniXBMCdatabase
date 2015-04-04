@@ -1263,7 +1263,7 @@
 <streaminginfo>
 <cname>France 24</cname>
 <item>
-        <title>Low Arab Playtv</title>
+        <title>Low</title>
         <link>http://188.165.101.226:80/mobile/_definst_/france-24-ara_300/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
         <regex>
         <name>key</name>
@@ -1273,27 +1273,11 @@
         </regex>
 </item>
 </streaminginfo>
-<streaminginfo>
-    <cname>France 24</cname>
-<item><title>High AR Playtv</title>
-<link>$doregex[geturl]</link>
-     <regex>
-        <name>geturl</name>
-        <expres>$pyFunction:playtvfr.get_url('$doregex[getplayerid]')</expres>
-        <page></page>
-    </regex>    
-    <regex>
-        <name>getplayerid</name>
-        <expres>data-alias="france-24-arabe"\s*data-playerid="(.*?)"</expres>
-        <page>http://playtv.fr/television/</page>
-    </regex>    
-</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>France 24 FR</cname>
 <item>
-        <title>Low FR playtv</title>
+        <title>Low PlayTV</title>
         <link>http://188.165.101.226:80/mobile/_definst_/france-24_300/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
         <regex>
         <name>key</name>
@@ -2832,7 +2816,58 @@
 </streaminginfo>
 
 <streaminginfo>
-    	<cname>France 24</cname>
+    <cname>France 24 FR</cname>
+	<item>
+	<title>H-Playtv</title>
+	<link>$doregex[getURL]</link>
+	<regex>
+	<name>getURL</name>
+	<expres>$pyFunction:'$doregex[getLink]'.replace('\\/','/')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>getLink</name>
+	<expres>http":"(.*?)"</expres>
+	<page>http://m.playtv.fr/api/channels/france-24/?preset=with_programme%2Cwith_streams</page>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>France 24 EN</cname>
+	<item>
+	<title>H-Playtv</title>
+	<link>$doregex[getURL]</link>
+	<regex>
+	<name>getURL</name>
+	<expres>$pyFunction:'$doregex[getLink]'.replace('\\/','/')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>getLink</name>
+	<expres>http":"(.*?)"</expres>
+	<page>http://m.playtv.fr/api/channels/france-24-english/?preset=with_programme%2Cwith_streams</page>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>France 24</cname>
+	<item>
+	<title>H-Playtv</title>
+	<link>$doregex[getURL]</link>
+	<regex>
+	<name>getURL</name>
+	<expres>$pyFunction:'$doregex[getLink]'.replace('\\/','/')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>getLink</name>
+	<expres>http":"(.*?)"</expres>
+	<page>http://m.playtv.fr/api/channels/france-24-arabe/?preset=with_programme%2Cwith_streams</page>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    	<cname>France 24 EN</cname>
 	<item>
 	<title>English</title>
 	<link>http://vipwowza.yacast.net/f24_hlslive_en/smil:iphone.fr24en.smil/playlist.m3u8</link>
