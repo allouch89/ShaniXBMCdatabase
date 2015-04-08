@@ -3151,7 +3151,7 @@
 		<cname>MESat_Christian</cname>
 		<item>
 			<title>ME Sat</title>
-			<link>rtmp://roku-stream.mine.nu:1935/jr1/_definst_/MeSatChannel</link>
+			<link>rtmp://roku-stream.mine.nu:1935/koko/_definst_/MeSatChannel</link>
 		</item>
 	</streaminginfo>
 	
