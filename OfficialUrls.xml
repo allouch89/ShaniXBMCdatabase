@@ -4439,6 +4439,32 @@
 	</regex>
 	</item>
 </streaminginfo>
+<streaminginfo><cname>KSA News</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel01/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>KSA News</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel01/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 1</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>KSA 1</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 2</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>KSA 2</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Saudia Sport</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Saudia Sport</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Ajyal</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Ajyal</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Quran TV ksa</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel06/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Quran TV ksa</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel06/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>sunnah TV</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel07/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Ksunnah TV</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel07/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Al Thakafiyah</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al Thakafiyah</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Al Eqtisadiyah</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al Eqtisadiyah</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/stream1.m3u8</link></item></streaminginfo>
 
 
 
