@@ -2456,14 +2456,6 @@
 			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_4 timeout=20</link>
 		</item>
 </streaminginfo>		
-    <streaminginfo>
-		<cname>Alarabiya Ahdas</cname>
-		<item>
-			<title>alarabiya.tv</title>
-			<link>http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8</link>
-		</item>
-	</streaminginfo>
-	
 <streaminginfo>
 		<cname>EnnaharTV algerie</cname>
 		<item>
