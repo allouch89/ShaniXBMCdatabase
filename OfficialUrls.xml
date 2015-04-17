@@ -1,6 +1,13 @@
 <streamingInfos>
 
 <streaminginfo>
+	<cname>Alarabiya Ahdas</cname>
+	<item>
+	<title>SD</title>
+	<link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
     <cname>ShamFM</cname>
 	<item>
 	<title>low</title>
