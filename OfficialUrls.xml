@@ -2471,13 +2471,7 @@
 		</item>
 </streaminginfo>
 	
-	<streaminginfo>
-		<cname>France 24 FR</cname>
-		<item>
-			<title>france24.com</title>
-			<link>http://tv.flux.france24.com/4684/02.m3u8</link>
-		</item>
-	</streaminginfo>
+
 	<streaminginfo>
 		<cname>Iqra</cname>
 		<item>
@@ -3098,20 +3092,7 @@
 	<link>rtmp://mobilestreaming.itworkscdn.com/aghanitv/aghanitv app=aghanitv/ pageUrl=http://www.freetv247.com/content/aghani-aghani-tv swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf playPath=aghanitv swfVfy=true live=true timeout=10</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Alarabiya</cname>
-	<item>
-	<title>Low</title>
-	<link>http://livestream2.alarabiya.tv/files/mainarabia.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Alarabiya</cname>
-	<item>
-	<title>SD</title>
-	<link>http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8?sd=10&amp;rebase=on</link>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
@@ -4466,7 +4447,34 @@
 <streaminginfo><cname>Al Eqtisadiyah</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/stream1.m3u8</link></item></streaminginfo>
 
 
-
+<streaminginfo>
+	<cname>France 24 EN</cname>
+	<item>
+	<title>SD</title>
+	<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24 FR</cname>
+	<item>
+	<title>SD</title>
+	<link>http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>SD</title>
+	<link>http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alarabiya</cname>
+	<item>
+	<title>SD</title>
+	<link>http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8</link>
+	</item>
+</streaminginfo>
 
 
 
