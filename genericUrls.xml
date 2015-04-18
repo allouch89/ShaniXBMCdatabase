@@ -1,4 +1,17 @@
 <streamingInfos>
+	
+	
+<streaminginfo><cname>Samira Tv</cname><item><title>Media</title><link>http://151.80.141.145/hls/samira_tv.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC 3</cname><item><title>Media</title><link>http://151.80.141.145/hls/mbc_3.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Alhayat 1</cname><item><title>Media</title><link>http://151.80.141.145/hls/alhayat_1.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC Drama</cname><item><title>Media</title><link>http://151.80.141.145/hls/mbc_drama.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Zee Alwan</cname><item><title>Media</title><link>http://151.80.141.145/hls/zee_alwan.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Media</title><link>http://151.80.141.145/hls/abu_dhabi_drama.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al Hiwar Ettounsi</cname><item><title>Media</title><link>http://151.80.141.145/hls/al_tunisia.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC 4</cname><item><title>Media</title><link>http://151.80.141.145/hls/mbc_4.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC Bollywood</cname><item><title>Media</title><link>http://151.80.141.145/hls/mbc_bollywood.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Fox Movies</cname><item><title>Media</title><link>http://151.80.141.145/hls/fox_movies.m3u8</link></item></streaminginfo>
+
 <streaminginfo>
 	<cname>Bein 1 FR</cname>
 	<item>
