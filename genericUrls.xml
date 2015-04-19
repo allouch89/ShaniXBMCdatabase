@@ -3472,6 +3472,224 @@
 </item>
 </streaminginfo>
 
+<streaminginfo>
+        <cname>MBC 2</cname>
+	<item>
+	<title>212.179 Source</title>
+	<link>http://212.179.77.42/live/livestream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Alfath</cname>
+	<item>
+	<title>official Low</title>
+	<link>http://41.128.181.130:1935/live/_definst_/fatehtv.stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Ajman</cname>
+		<item>
+	<title>Streamtheword</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://4623.live.streamtheworld.com/AJMAN_TV?streamtheworld_user=1&amp;simpledownloader=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+		<title>800</title>
+		<link>http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8</link>  
+		</item> 
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Yemen</cname>
+		<item>
+	<title>yementv</title>
+	<link>$doregex[url]$doregex[video] timeout=20</link>
+			<regex>
+			<name>url</name>
+			<expres>base="(.*?)"</expres>
+			<page>http://rrr.sz.xlcdn.com/?account=ygcrtv&amp;file=yementv&amp;ref=http://www.alemantv.net/LiveBrodcastPage.aspx&amp;type=live&amp;service=wowza&amp;protocol=rtmp&amp;port=80&amp;output=smil</page>
+			</regex>
+			<regex>
+			<name>video</name>
+			<expres>src="(.*)"</expres>
+			<page>http://rrr.sz.xlcdn.com/?account=ygcrtv&amp;file=yementv&amp;ref=http://www.alemantv.net/LiveBrodcastPage.aspx&amp;type=live&amp;service=wowza&amp;protocol=rtmp&amp;port=80&amp;output=smil</page>
+			</regex>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Oman</cname>		
+	<item>		
+	<title>Oman 38</title>		
+	<link>http://38.96.148.30:1935/live/omantv1/chunklist.m3u8?wowzasessionid=1593393582</link>
+	</item>
+</streaminginfo>  
+
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+	<title>indexforce</title>
+	<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Alfajr Int</cname>
+		<item>
+		<title>original</title>
+		<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv_1 timeout=20</link>
+		</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+		<cname>KSA 1</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/scsaud1?key=DBA762984A1F7F4CBED796ED875019787375A76287A2A385A8763B16A2AEF9FA timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Almajd</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/almhoqur?key=E3C514495F7B7D6C04E64D615E9733F311B948F638FCCAE21768A21BADF49C4B timeout=20</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Royali Somali</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/1slich?key=D115ADC99071453A005C6DB3172E86D38617013B50067526C5FE64697C5C10C3 timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>KSA 2</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/scsaud2?key=1D8FDF3E380AA8E679416A86A7FE1C5BAEBA5CE1081252A64AF23A5C05E45992 timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera US</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/ajeqi500k?key=BA042FAB148DF41C37849F6317C2AA73856563F6D1D75AB2C79D56239F3B6FED timeout=20</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo><cname>Eurosport France</cname>
+<item><title>esioslive6</title><link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8</link></item></streaminginfo>
+
+
+<streaminginfo>
+	<cname>2M</cname>
+	<item>
+	<title>Elahmed Playtv.fr</title>
+	<link>http://www.elahmad.com/tv/m3u8/fr____y.m3u8?id=maroc2</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Eurosport France</cname>
+	<item>
+	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://eurosporthdpu-f.akamaihd.net/z/FL_PROMO_01_1@104684/manifest.f4m?hdcore</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Beur</cname>
+<item>
+<title>Beur-FM High_800</title>
+<link>http://188.165.101.226:80/mobile/_definst_/amlst:beur-fm-tv_ptvb/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
+<regex>
+<name>key</name>
+<expres>sessionid=([^'"]*)</expres>
+<page>http://m.playtv.fr/api/channels/beur-tv/?preset=with_programme%2Cwith_streams</page>
+<referer></referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Beur</cname>
+<item>
+<title>Beur-FM High_800</title>
+<link>http://188.165.101.226:80/mobile/beur-fm-tv_800/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
+<regex>
+<name>key</name>
+<expres>sessionid=([^'"]*)</expres>
+<page>http://m.playtv.fr/api/channels/beur-tv/?preset=with_programme%2Cwith_streams</page>
+<referer></referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Baraem</cname>
+	<item>
+	<title>78.100</title>
+	<link>http://78.100.40.195:1935/brm/brm/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aljazeera Children</cname>
+	<item>
+	<title>qna.org</title>
+	<link>rtmp://AgendaStreamerx1.qna.org.qa/jsc/jsc timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>BBC</cname>
+		<item>
+		<title>Livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>CNN</cname>
+		<item>
+		<title>Livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Al Alam</cname>
+		<item>
+		<title>Livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Animal Planet</cname>
+		<item>
+		<title>USTREAM</title>
+		<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+		<cname>National Geo Ad</cname>
+		<item>
+		<title>English</title>
+		<link>http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&amp;hpgdisco_m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>National Geo Wild</cname>
+	<item>
+	<title>PROFILE</title>
+ 	<link>http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?</link>
+	</item>
+</streaminginfo>
 
 
 
