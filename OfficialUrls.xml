@@ -328,6 +328,14 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+        <cname>Al Hiwar</cname>
+	<item>
+	<title>rtmp</title>
+	<link>rtmp://46.28.50.198:1935/livepkgr/_definst_//livestream timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
     <cname>Mecca</cname>
 	<item>
 	<title>low: You need to install f4m_tester addon from Shani Repo</title>
