@@ -217,13 +217,7 @@
 	<link>http://streaming.tootvs.com:1935/8018/8018/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Elsharq</cname>
-	<item>
-	<title>Low</title>
-	<link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>Sada Al Balad</cname>
@@ -1910,14 +1904,6 @@
 	<link>http://50.7.180.18:1935/elONTV/smil:ontv_live.smil/chunklist_w1679873436_b1556000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Elsharq</cname>
-	<item>
-	<title>Low</title>
-	<link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>Al Kout</cname>
 	<item><title>SD</title>
