@@ -3339,13 +3339,7 @@
 		<link>rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream timeout=15</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Arabica Music</cname>
-	<item>
-		<title>live</title>
-		<link>http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Dream 1</cname>
 	<item>
