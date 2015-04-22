@@ -721,32 +721,33 @@
 	</regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>Arabica Music</cname>
-		<item>
-		<title>Matster</title>
-		<link>http://live.itworkscdn.net/arabicalive/arabicatv/playlist.m3u8</link>
-		</item>
-</streaminginfo>
+
 <streaminginfo>
 		<cname>Arabica Music</cname>
 		<item>
 		<title>Low_254</title>
-		<link>http://37.48.80.50/arabicalive/arabicatv/chunklist_w260000.m3u8</link>
+		<link>https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Arabica Music</cname>
 		<item>
 		<title>Med_371</title>
-		<link>http://37.48.80.50/arabicalive/arabicatv/chunklist_w380000.m3u8</link>
+		<link>https://svs.itworkscdn.net/arabicatvlive/arabicatv/380000.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Arabica Music</cname>
 		<item>
 		<title>High_513</title>
-		<link>http://37.48.80.48/arabicalive/arabicatv/chunklist_w525000.m3u8</link>
+		<link>https://svs.itworkscdn.net/arabicatvlive/arabicatv/525000.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Arabica Music</cname>
+		<item>
+		<title>Master</title>
+		<link>https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -1336,13 +1337,7 @@
 	</item>
 </streaminginfo>   
 
-<streaminginfo>
-	<cname>LBC</cname>
-	<item>
-	<title>Low_3</title>
-	<link>rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
@@ -1373,13 +1368,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>LBC</cname>
-	<item>
-        <title>High_3</title>
-        <link>http://37.48.80.48/lbclive/smil:lbclive.smil/chunklist_w38025370_b525000.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
