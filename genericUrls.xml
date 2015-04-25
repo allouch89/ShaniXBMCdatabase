@@ -1369,7 +1369,13 @@
 	<link>rtmp://edge1.stream-server.org/livestv/ playpath=zdf.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html timeout=20</link>
         </item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Maghreb24</cname>
+	<item>
+	<title>HQ streaminghd</title>
+	<link>rtmp://41.231.53.38:1935/thd/ playpath=maghreb24 swfUrl=http://streaminghd.tn/video/player.swf?random=1040120805 live=1 pageUrl=http://streaminghd.tn/index.php/maghreb-24.html timeout=20</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
