@@ -14,17 +14,10 @@
 <streaminginfo><cname>Fox Movies</cname><item><title>Media</title><link>http://151.80.141.145/hls/fox_movies.m3u8</link></item></streaminginfo>
 
 <streaminginfo>
-	<cname>Bein 1 FR</cname>
+	<cname>Boomerang</cname>
 	<item>
-	<title>bein1fr</title>
-	<link>http://91.109.20.227:8080/TV4016?gtoken</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein 2 FR</cname>
-	<item>
-	<title>bein1fr</title>
-	<link>http://91.109.20.227:8080/TV4017?gtoken</link>
+	<title>CH_BOOMERANG</title>
+	<link>http://hlsstr04.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
