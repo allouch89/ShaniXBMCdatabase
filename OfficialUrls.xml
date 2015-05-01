@@ -2411,34 +2411,64 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Dubai</cname>
-		<item>
-		<title>Low_160</title>
-		<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1 timeout=20</link>
-		</item>
-	</streaminginfo>
+
 <streaminginfo>
-		<cname>Dubai</cname>
-		<item>
-			<title>Low 320</title>
-			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_2 timeout=20</link>
-		</item>
+	<cname>Noor Dubai</cname>
+	<item>
+	<title>Low</title>
+	<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w512425117_b750000.m3u8</link>
+	</item>
 </streaminginfo>
 <streaminginfo>
-		<cname>Med</cname>
-		<item>
-			<title>Med_640</title>
-			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_3 timeout=20</link>
-		</item>
+	<cname> Noor Dubai</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w512425117_b1200000.m3u8</link>
+	</item>
 </streaminginfo>
 <streaminginfo>
-		<cname>Dubai</cname>
-		<item>
-			<title>High_720</title>
-			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_4 timeout=20</link>
-		</item>
-</streaminginfo>		
+	<cname>Dubai</cname>
+	<item>
+	<title>Low</title>
+	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Zaman</cname>
+	<item>
+	<title>Low</title>
+	<link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Zaman</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Drama</cname>
+	<item>
+	<title>Low</title>
+	<link>http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1549159313_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Drama</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1549159313_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 		<cname>EnnaharTV algerie</cname>
 		<item>
@@ -2902,63 +2932,8 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-     	<cname>Noor Dubai</cname>
-	<item>
-	<title>Low 160</title>
-	<link>rtmp://wms04.endavomedia.com:1935/dmilivenoordubaitv/dmilivenoordubaitv_1 timeout=20</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-     	<cname>Noor Dubai</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://wms04.endavomedia.com:1935/dmilivenoordubaitv/dmilivenoordubaitv_2 timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     	<cname>Noor Dubai</cname>
-	<item>
-	<title>Med</title>
-	<link>rtmp://wms04.endavomedia.com:1935/dmilivenoordubaitv/dmilivenoordubaitv_3 timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     	<cname>Noor Dubai</cname>
-	<item>
-	<title>High</title>
-	<link>rtmp://wms04.endavomedia.com:1935/dmilivenoordubaitv/dmilivenoordubaitv_4 timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Noor Dubai</cname>
-	<item>
-	<title>LowSVR2</title>
-	<link>http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/chunklist_b463056.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Noor Dubai</cname>
-	<item>
-	<title>Med SVR2</title>
-	<link>http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/chunklist_b1396736.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Noor Dubai</cname>
-	<item>
-	<title>MedSVR2</title>
-	<link>http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/chunklist_b270960.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Noor Dubai</cname>
-	<item>
-	<title>HighSVR2</title>
-	<link>http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/chunklist_b925056.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
      <cname>Sama Dubai</cname>
 	<item>
