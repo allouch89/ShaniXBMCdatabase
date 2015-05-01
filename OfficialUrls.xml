@@ -3311,25 +3311,35 @@
 	</item>
 </streaminginfo>
 
+
+
 <streaminginfo>
-        <cname>Dubai Racing</cname>
+	<cname>Dubai Racing</cname>
+	<item>
+	<title>Low Racing3</title>
+	<link>http://dmi.mangomolo.com:1935/events/smil:events.smil/chunklist_w774894673_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Racing</cname>
+	<item>
+	<title>Med Racing3</title>
+	<link>http://dmi.mangomolo.com:1935/events/smil:events.smil/chunklist_w774894673_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Dubai Racing</cname>
 	<item>
 	<title>Low</title>
-	<link>rtsp://wms04.endavomedia.com:1935/dmilivedubairacing2/dmilivedubairacing2_1 timeout=20</link>
+	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/chunklist_w927858682_b750000.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-    <cname>Dubai Racing</cname>
+	<cname>Dubai Racing</cname>
 	<item>
-	<title>High</title>
-	<link>rtsp://wms04.endavomedia.com:1935/dmilivedubairacing2/dmilivedubairacing2_3 timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Dubai Racing</cname>
-	<item>
-	<title>High_m3u8</title>
-	<link>http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8</link>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/chunklist_w927858682_b1300000.m3u8</link>
 	</item>
 </streaminginfo>
 
