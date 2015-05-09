@@ -2256,19 +2256,43 @@
 </regex>
 </item>
 </streaminginfo>
-
 <streaminginfo>
-	<cname>Zee Alwan</cname>
+    <cname>2M</cname>
 	<item>
-<title>Janjua Low</title>
-<link>rtmp://$doregex[ip]/live playpath=zeealwan?id=12389 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/zeealwan/1/500/400 live=1 timeout=15</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.janjua.tv:1935/loadbalancer</page>
-</regex>
+	<title>Low JanJua</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>source src="(.*?)"</expres>
+	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=2m</page>
+	<agent>iPhone</agent></regex>
 </item>
 </streaminginfo>
+<streaminginfo>
+    <cname>MBC 1</cname>
+	<item>
+	<title>Low JanJua</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>source src="(.*?)"</expres>
+	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=mbc1</page>
+	<agent>iPhone</agent></regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Alriadia Sport</cname>
+	<item>
+	<title>Low JanJua</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>source src="(.*?)"</expres>
+	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=arryadia</page>
+	<agent>iPhone</agent></regex>
+</item>
+</streaminginfo>
+
 
 <streaminginfo>
 	<cname>For Music</cname>
@@ -3578,15 +3602,6 @@
 
 <streaminginfo><cname>Eurosport France</cname>
 <item><title>esioslive6</title><link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8</link></item></streaminginfo>
-
-
-<streaminginfo>
-	<cname>2M</cname>
-	<item>
-	<title>Elahmed</title>
-	<link>http://www.elahmad.com/tv/m3u8/fr____x.m3u8?id=maroc2</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
     <cname>Eurosport France</cname>
