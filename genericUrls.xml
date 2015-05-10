@@ -343,13 +343,6 @@
 		</item>
 </streaminginfo>
 <streaminginfo>
-		<cname>ZDF</cname>
-		<item>
-		<title>web.tv</title>		
-		<link>http://origin-vod.web.tv.streamprovider.net/media/_definst_/c8/vu/smil:c8vuol4og6_.smil/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
 		<cname>Abu Dhabi Sports 1</cname>
 		<item>
 		<title>web.tv</title>		
@@ -1354,13 +1347,6 @@
         <page>http://playtv.fr/television/</page>
     </regex>    
 </item>
-</streaminginfo>
-<streaminginfo>
-	<cname>ZDF</cname>
-	<item>
-	<title>edge1.stream-server</title>
-	<link>rtmp://edge1.stream-server.org/livestv/ playpath=zdf.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html timeout=20</link>
-        </item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Maghreb24</cname>
