@@ -4,413 +4,414 @@
 	<cname>Al oula Maroc</cname>
 	<item>
 		<title>High #1</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_adaloula swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_adaloula swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al oula Maroc</cname>
 	<item>
 		<title>High #2</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_AlAoulainter swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_AlAoulainter swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Algeria 3</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat 1</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat Cinema</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_AlHayatCinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_AlHayatCinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_Alhayetdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_Alhayetdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Nahar</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=alnahar swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=alnahar swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al-Nahar Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=alnahardrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=alnahardrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alriadia Sport</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_Arriadia swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_Arriadia swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Art Aflam 1</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Art Aflam 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ART Cinema</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ART Hekayat</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=arthikeyet swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=arthikeyet swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Assadissa</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_Assadissa swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_Assadissa swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Hiwar Ettounsi</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=at swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=at swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>BBC Arabic</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=bbcarabic swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=bbcarabic swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport News</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=beinsportnews swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=beinsportnews swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cairo Cinema</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cairo Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbct swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbct swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC Extra</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbce swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbce swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC Sofra</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbcs swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cbcs swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cima</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dream 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=drama2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=drama2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Fox Movies</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Iqra</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>LBC</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 1</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 3</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 4</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Action</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Bollywood</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Max</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mehwar 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=mehwar2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=mehwar2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mecca</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=mekka swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=mekka swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>National Geo Ad</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=natgeographic swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=natgeographic swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nessma</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Cinema</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Comedy</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Culture</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nileculture swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nileculture swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_niledrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_niledrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Family</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilefamily swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilefamily swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Life</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilelife swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilelife swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Sport</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilesport swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilesport swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Oscar Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_OscarDrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_OscarDrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Panorama Drama</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=pd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=pd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Panorama Drama 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=pd2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=pd2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Panorama film</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=pf swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=pf swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Aflam</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=rc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=rc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Clip</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=rcl swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=rcl swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Toyor Al Janah</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tunisia national 1</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tunisia national 2</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Zee Aflam</cname>
 	<item>
 		<title>High</title>
-		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400 timeout=20</link>
 	</item>
 </streaminginfo>
 
