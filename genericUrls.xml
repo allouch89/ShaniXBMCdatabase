@@ -466,55 +466,6 @@
 	</regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 1</cname>
-	<item>
-	<title>Chaine 1</title>
-	<link>rtmp://85.159.237.249:1935/gigi1/_definst_ playpath=gigi1 swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 2</cname>
-	<item>
-	<title>Chaine 2</title>
-	<link>rtmp://85.159.237.249:1935/bibi2/_definst_ playpath=bibi2 swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 3</cname>
-	<item>
-	<title>Chaine 3</title>
-	<link>rtmp://85.159.237.249:1935/aiai3/_definst_ playpath=aiai3  swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 4</cname>
-	<item>
-	<title>Chaine 4</title>
-	<link>rtmp://85.159.237.249:1935/kiki4/_definst_ playpath=kiki4  swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 5</cname>
-	<item>
-	<title>Chaine 5</title>
-	<link>rtmp://85.159.237.249:1935/kiki5/_definst_ playpath=kiki5  swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 6</cname>
-	<item>
-	<title>Chaine 6</title>
-	<link>rtmp://85.159.237.249:1935/sisi6/_definst_ playpath=sisi6  swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CafeCreme 7</cname>
-	<item>
-	<title>Chaine 7</title>
-	<link>rtmp://85.159.237.249:1935/live7/_definst_ playpath=live7  swfUrl=http://cafe-creme.ws/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.ws timeout=15</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
      <cname>Radio Tunisia</cname>
