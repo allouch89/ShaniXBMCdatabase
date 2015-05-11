@@ -698,7 +698,7 @@
 	<cname>Mecca</cname>
 	<item>
 	<title>unknow</title>
-	<link>rtmp://188.247.93.26/live/mecca.stream_360p timeout=20</link>
+	<link>http://94.127.209.149:8080/mecca/index.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
