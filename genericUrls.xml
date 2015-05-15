@@ -5001,6 +5001,117 @@
 
 
 
+<streaminginfo>
+	<cname>Discovery World</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Discovery History</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery+History</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Discovery Science</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery+Science</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Disney</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Disney</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Disney Junior</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Disney+Junior</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>National Geo FR</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CNN</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=CNN</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>National Geo Wild</cname>
+	<item>
+	<title>France 720P English plugin.video.freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+HD</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>National Geo Wild</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+Wild</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Animal Planet</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planett</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Animal Planet</cname>
+	<item>
+	<title>plugin.video.freestreams SVR2</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planet</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MTV Music</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MTV Hits</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV+Hits</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MTV Classic</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV+Classic</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>VH1</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=VH1</link>
+	</item>
+</streaminginfo>
+
+
 
 
 </streamingInfos>
