@@ -174,10 +174,17 @@
 
 
 
+
+
+
+
+
+
+
 <streaminginfo>
 	<cname>FRANCE 0</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -189,7 +196,7 @@
 <streaminginfo>
 	<cname>FRANCE 2</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -201,7 +208,7 @@
 <streaminginfo>
 	<cname>FRANCE 3</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -213,7 +220,7 @@
 <streaminginfo>
 	<cname>FRANCE 5</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -225,7 +232,7 @@
 <streaminginfo>
 	<cname>FRANCE 4</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -237,7 +244,7 @@
 <streaminginfo>
 	<cname>TF1</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -249,7 +256,7 @@
 <streaminginfo>
 	<cname>National Geo FR</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -261,7 +268,7 @@
 <streaminginfo>
 	<cname>M6</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -273,7 +280,7 @@
 <streaminginfo>
 	<cname>W9</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -285,7 +292,7 @@
 <streaminginfo>
 	<cname>D8</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -297,7 +304,7 @@
 <streaminginfo>
 	<cname>Science</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -309,7 +316,7 @@
 <streaminginfo>
 	<cname>Bein 1 FR</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -321,7 +328,7 @@
 <streaminginfo>
 	<cname>UNIVERS</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -333,7 +340,7 @@
 <streaminginfo>
 	<cname>TVReplay</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -345,7 +352,7 @@
 <streaminginfo>
 	<cname>Nature</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -357,7 +364,7 @@
 <streaminginfo>
 	<cname>arte</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -369,7 +376,7 @@
 <streaminginfo>
 	<cname>NRJ 12</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -381,7 +388,7 @@
 <streaminginfo>
 	<cname>RMC Decouverte</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -393,7 +400,7 @@
 <streaminginfo>
 	<cname>BFMTV</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -405,7 +412,7 @@
 <streaminginfo>
 	<cname>TMC</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -417,7 +424,7 @@
 <streaminginfo>
 	<cname>I-TELE</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -429,7 +436,7 @@
 <streaminginfo>
 	<cname>RTL 9</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -442,7 +449,7 @@
 <streaminginfo>
 	<cname>Finance</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -454,7 +461,7 @@
 <streaminginfo>
 	<cname>France 24 FR</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -494,7 +501,7 @@
 <streaminginfo>
 	<cname>M6 Music</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -506,7 +513,7 @@
 <streaminginfo>
 	<cname>Bein 2 FR</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -518,7 +525,7 @@
 <streaminginfo>
 	<cname>Eurosport France</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -530,7 +537,7 @@
 <streaminginfo>
 	<cname>D17</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -542,7 +549,7 @@
 <streaminginfo>
 	<cname>Euronews fr</cname>
 	<item>
-	<title>stream4free</title>
+	<title>Gujal4Free</title>
 	<link>$doregex[getlink]|User-Agent=iPhone</link>
 	<regex>
 	<name>getlink</name>
@@ -551,13 +558,6 @@
 	</regex>
 	</item> 
 </streaminginfo>
-
-
-
-
-
-
-
 
 
 
