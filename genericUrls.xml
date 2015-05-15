@@ -5054,7 +5054,7 @@
 <streaminginfo>
 	<cname>National Geo Wild</cname>
 	<item>
-	<title>France 720P English plugin.video.freestreams</title>
+	<title>720P freestreams</title>
  	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+HD</link>
 	</item>
 </streaminginfo>
@@ -5069,7 +5069,7 @@
 <streaminginfo>
 	<cname>Animal Planet</cname>
 	<item>
-	<title>freestreams</title>
+	<title>freestreams SVR2</title>
  	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planett</link>
 	</item>
 </streaminginfo>
@@ -5077,7 +5077,7 @@
 <streaminginfo>
 	<cname>Animal Planet</cname>
 	<item>
-	<title>plugin.video.freestreams SVR2</title>
+	<title>freestreams SVR1</title>
  	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planet</link>
 	</item>
 </streaminginfo>
