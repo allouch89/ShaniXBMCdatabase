@@ -706,7 +706,20 @@
 <link>http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8</link>
 </item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>alkass</cname>
+	<item>
+	<title>Low</title>
+	<link>http://137.135.64.32:1935/kas/kas/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>TV5 MONDE</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8</link>
+		</item>
+</streaminginfo>
 <streaminginfo>
 		<cname>2M</cname>
 		<item>
