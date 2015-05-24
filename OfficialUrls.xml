@@ -1,5 +1,11 @@
 <streamingInfos>
-
+<streaminginfo>
+	<cname>GuideUS TV</cname>
+	<item>
+	<title>SD</title>
+	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Alarabiya Ahdas</cname>
 	<item>
