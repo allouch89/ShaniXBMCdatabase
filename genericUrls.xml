@@ -1,5 +1,11 @@
 <streamingInfos>
-	
+<streaminginfo>
+	<cname>Islam Channel UK</cname>
+	<item>
+	<title>HLS_stream</title>
+	<link>http://wowza05.sharp-stream.com:1935/islamtv/mp4:islamtv.stream/chunklist_w110095687.m3u8</link>
+	</item>
+</streaminginfo>	
 <streaminginfo>
 	<cname>Elsharq</cname>
 	<item>
