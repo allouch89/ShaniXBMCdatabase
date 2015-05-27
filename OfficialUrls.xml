@@ -1,5 +1,11 @@
 <streamingInfos>
-
+<streaminginfo>
+	<cname>ArabNights Radio</cname>
+	<item>
+	<title>Radio</title>
+ 	<link>http://arabnights-prod.live-streams.nl:8020/</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Arraed</cname>
 	<item>
