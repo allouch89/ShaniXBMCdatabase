@@ -1,8 +1,54 @@
 <streamingInfos>
 	
-<streaminginfo><cname>Elsharq</cname><item><title>720P WebTV</title><link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link></item></streaminginfo>
-	
-
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>720P WebTV</title>
+	<link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Peace TV Asia</cname>
+	<item>
+	<title>rtmp_Stream</title>
+	<link>rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Peace TV UK</cname>
+	<item>
+	<title>rtmp_Stream</title>
+	<link>rtmp://peace.fms.visionip.tv/live/b2b-peace_sky-live-25f-4x3-sdh_1</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dalmar TV</cname>
+	<item>
+	<title>rtmp_Stream</title>
+	<link>rtmp://130.211.178.31:1935/DalmarStream//flv:myStream</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>HLS_Stream</title>
+	<link>http://162.212.176.83:8080/hctvgermany.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>HLS_Stream</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/kalsan300/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>GuideUS TV</cname>
+	<item>
+	<title>HLS_Stream</title>
+	<link>http://stream.streamislam.com:8080/streamer/live/index.m3u8</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Boomerang</cname>
 	<item>
