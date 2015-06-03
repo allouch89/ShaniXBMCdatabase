@@ -1536,7 +1536,7 @@
 	<link>$doregex[get-url]</link>
 	<regex>
 	<name>get-url</name>
-	<expres>"rtmp_url":"(.*?)"</expres>
+	<expres>"m3u8_url":"(.*?)"</expres>
 	<page>http://livestream.com/accounts/2058831/universalsomalitv</page>
 	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
 	</regex>
