@@ -1062,6 +1062,25 @@
 	</item>
 </streaminginfo>
 
+
+<streaminginfo><cname>Assadissa</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAssadissa/livestreamAssadissa.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Medi 1 Sat</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamMedi1TV/livestreamMedi1TV.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAlAoulaInter/livestreamAlAoulaInter.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Alriadia Sport</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamArriadia/livestreamArriadia.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>AlGeria</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamCanalAlgerie/livestreamCanalAlgerie.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamTamazight/livestreamTamazight.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b440000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b528000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b880000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b440000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b528000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b880000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b440000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b528000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b880000.m3u8</link></item></streaminginfo>
+
+
 <streaminginfo>
 	<cname>Rotana cinema</cname>
 	<item>
