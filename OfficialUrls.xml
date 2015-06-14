@@ -1,4 +1,11 @@
 <streamingInfos>
+	<streaminginfo>
+	<cname>Addounia</cname>
+	<item>
+	<title>Official</title>
+	<link>rtmp://sama-tv.net/live/samatv timeout=20</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Royal TV Somalia</cname>
 	<item>
