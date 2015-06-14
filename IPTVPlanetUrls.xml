@@ -1,6 +1,70 @@
 <streamingInfos>
 
 <streaminginfo>
+	<cname>Echorouk Tv</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=echourouk?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aljadeed</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=aljadeed?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=dubai?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Future TV</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=future?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Majd</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=almajd?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Attasi3a</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=attassia?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MTV</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=mtv?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=france24?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>2M</cname>
+	<item>
+	<title></title>
+	<link>rtmp://web.iptv-planet.com:1937/live2 playpath=2m?key=web swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Al oula Maroc</cname>
 	<item>
 		<title>High #1</title>
