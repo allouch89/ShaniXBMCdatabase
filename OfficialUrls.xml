@@ -2546,14 +2546,29 @@
 		<cname>EnnaharTV algerie</cname>
 		<item>
 		<title>Low</title>
-		<link>http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8</link>
+		<link>$doregex[initsession]http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8|Cookie=$get_cookies$&amp;Referer=http://tv.ennaharonline.com/live</link>
+        <regex>
+        <name>initsession</name>
+        <expres>$pyFunction: ''</expres>
+        <page>http://www.ennahartv.net/ar/live</page>
+        <cookieJar></cookieJar>
+        </regex>
+        
 		</item>
+        
 	</streaminginfo>
 <streaminginfo>
 		<cname>EnnaharTV algerie</cname>
 		<item>
 		<title>Med</title>
-		<link>http://live.ennahartv.net/endz/EnnaharTV_SD/chunklist.m3u8</link>
+		<link>$doregex[initsession]http://live.ennahartv.net/endz/EnnaharTV_SD/chunklist.m3u8|Cookie=$get_cookies$&amp;Referer=http://tv.ennaharonline.com/live</link>
+        <regex>
+        <name>initsession</name>
+        <expres>$pyFunction: ''</expres>
+        <page>http://www.ennahartv.net/ar/live</page>
+        <cookieJar></cookieJar>
+        </regex>
+        
 		</item>
 </streaminginfo>
 	
