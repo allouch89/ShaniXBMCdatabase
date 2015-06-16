@@ -1,6 +1,22 @@
 <streamingInfos>
 	
 <streaminginfo>
+	<cname>Ten</cname>
+	<item>
+	<title>You need to install vaughnlive addon</title>
+	<link>plugin://plugin.stream.vaughnlive.tv/?sourcetype=auto&amp;img=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughn%2Fimg_profiles%2F20satcom_320.jpg&amp;title=20satcom&amp;url=http%3A%2F%2Fvaughnlive.tv%2F20satcom&amp;section=&amp;site=&amp;mode=PlayLiveStream&amp;fimg=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughnlive%2Fimg_backgrounds%2F20satcom.jpg&amp;channel=20satcom</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ten</cname>
+	<item>
+	<title>You need to install Sportsdevil</title>
+	<sportsdevil>https://vaughnlive.tv/embed/video/20satcom</sportsdevil>
+	<referer>https://vaughnlive.tv</referer>
+	</item> 
+</streaminginfo>
+	
+<streaminginfo>
 	<cname>NTV 2</cname>
 	<item>
 	<title>Med</title>
