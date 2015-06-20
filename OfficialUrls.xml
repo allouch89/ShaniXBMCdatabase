@@ -20,6 +20,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+   	<cname>Kurdmax</cname>
+	<item>
+	<title>High</title>
+	<link>http://live.kurdstream.net:1935/liveTrans//myStream_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>ArabNights Radio</cname>
 	<item>
 	<title>Radio</title>
