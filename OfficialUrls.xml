@@ -7,6 +7,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+    <cname>KBC Algeria</cname>
+	<item>
+	<title>Low: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://stream.kbcalgerie.tv/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Royal TV Somalia</cname>
 	<item>
 	<title>Official</title>
