@@ -394,7 +394,7 @@
 <streaminginfo>
 	<cname>Alaraby</cname>
 	<item>
-	<title>Low Live</title>
+	<title>Low</title>
 	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 	<regex>
 	<name>get-m3u8final</name>
@@ -423,7 +423,7 @@
 <streaminginfo>
 	<cname>Alaraby</cname>
 	<item>
-	<title>Med Live</title>
+	<title>Med</title>
 	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 	<regex>
 	<name>get-m3u8final</name>
@@ -452,7 +452,7 @@
 <streaminginfo>
 	<cname>Alaraby</cname>
 	<item>
-	<title>High Live</title>
+	<title>High</title>
 	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 	<regex>
 	<name>get-m3u8final</name>
@@ -480,7 +480,7 @@
 <streaminginfo>
 	<cname>Alaraby</cname>
 	<item>
-	<title>High Live</title>
+	<title>High 720</title>
 	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 	<regex>
 	<name>get-m3u8final</name>
