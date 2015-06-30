@@ -1,4 +1,18 @@
 <streamingInfos>
+<streaminginfo><cname>Al Ikhbaria Syria</cname><item><title>Youtube</title><link>plugin://plugin.video.youtube/play/?video_id=w7nQa5waDCk</link></item></streaminginfo>
+<streaminginfo>
+	<cname>LBC EUROPE</cname>
+	<item>
+	<title>From website</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>file: "(http.*?)"</expres>
+	<page>http://www.lbcgroup.tv/live</page>
+	</regex>
+	</item>
+</streaminginfo>
+
 	<streaminginfo>
 	<cname>Addounia</cname>
 	<item>
