@@ -153,7 +153,7 @@
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Al oula Maroc</cname>
+        <cname>Egypt 1</cname>
         <item>
             <title>High #1</title>
             <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400 timeout=20</link>
@@ -340,7 +340,7 @@
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>ART Cinema</cname>
+        <cname>ART Hekayat 2</cname>
         <item>
             <title>High</title>
             <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 timeout=20</link>
