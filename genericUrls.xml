@@ -1,5 +1,18 @@
 <streamingInfos>
-	
+<streaminginfo>
+	<cname>Eurosport France</cname>
+	<item>
+	<title>mucdn</title>
+	<link>http://wpc.e803.mucdn.net/80E803/Scam/hls/EuroSport_HD_1.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Eurosport 2 France</cname>
+	<item>
+	<title>mucdn</title>
+	<link>http://wpc.e803.mucdn.net/80E803/Scam/hls/EuroSport_HD_2.m3u8</link>
+	</item>	
+</streaminginfo>
 <streaminginfo>
 	<cname>Ten</cname>
 	<item>
@@ -598,18 +611,7 @@
 	</regex>
 	</item> 
 </streaminginfo>
-<streaminginfo>
-	<cname>Eurosport France</cname>
-	<item>
-	<title>Gujal4Free</title>
-	<link>$doregex[getlink]|User-Agent=iPhone</link>
-	<regex>
-	<name>getlink</name>
-	<expres>source src="([^"]*)</expres>
-	<page>http://www.stream4free.eu/eurosport</page>
-	</regex>
-	</item> 
-</streaminginfo>
+
 <streaminginfo>
 	<cname>D17</cname>
 	<item>
@@ -4794,17 +4796,6 @@
 	<title>islambox</title>
 	<link>rtmp://ib12.islambox.tv/live/ajeqi500k?key=BA042FAB148DF41C37849F6317C2AA73856563F6D1D75AB2C79D56239F3B6FED timeout=20</link>
 		</item>
-</streaminginfo>
-
-<streaminginfo><cname>Eurosport France</cname>
-<item><title>esioslive6</title><link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8</link></item></streaminginfo>
-
-<streaminginfo>
-    <cname>Eurosport France</cname>
-	<item>
-	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://eurosporthdpu-f.akamaihd.net/z/FL_PROMO_01_1@104684/manifest.f4m?hdcore</link>
-	</item>
 </streaminginfo>
 
 
