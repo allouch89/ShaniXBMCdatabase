@@ -2788,7 +2788,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Royali Somali</cname>
+	<cname>Royal TV Somalia</cname>
 	<item>
 	<title>GTV</title>
 	<link>http://162.212.176.107:1935/royaltv/globaltv-royaltv.stream/gmswf.m3u8</link>
@@ -4777,7 +4777,7 @@
 </streaminginfo>
 
 <streaminginfo>
-		<cname>Royali Somali</cname>
+		<cname>Somali Channel</cname>
 		<item>
 	<title>islambox</title>
 	<link>rtmp://ib12.islambox.tv/live/1slich?key=D115ADC99071453A005C6DB3172E86D38617013B50067526C5FE64697C5C10C3 timeout=20</link>
