@@ -1,5 +1,34 @@
 <streamingInfos>
 <streaminginfo>
+	<cname>Boomerang</cname>
+	<item>
+	<title>rapidiptv</title>
+	<link>http://portal.rapidiptv.com:8080/live/90test90/90test90/2240.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Canal J</cname>
+	<item>
+	<title>rapidiptv</title>
+	<link>http://portal.rapidiptv.com:8080/live/90test90/90test90/2239.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Paris Premiere</cname>
+	<item>
+	<title>mucdn</title>
+	<link>http://wpc.e803.mucdn.net/80E803/Scam/hls/Paris_Premiere.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Comedie+</cname>
+	<item>
+	<title>rapidiptv</title>
+	<link>http://portal.rapidiptv.com:8080/live/90test90/90test90/2220.m3u8</link>
+	</item>	
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Eurosport France</cname>
 	<item>
 	<title>mucdn</title>
