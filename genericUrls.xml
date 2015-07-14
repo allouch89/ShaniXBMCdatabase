@@ -72,13 +72,7 @@
 	<link>http://wowza05.sharp-stream.com:1935/islamtv/mp4:islamtv.stream/chunklist_w110095687.m3u8</link>
 	</item>
 </streaminginfo>	
-<streaminginfo>
-	<cname>Elsharq</cname>
-	<item>
-	<title>720P WebTV</title>
-	<link>http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Peace TV Asia</cname>
 	<item>
