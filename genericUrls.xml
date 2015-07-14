@@ -2750,42 +2750,55 @@
 </regex>
 </item>
 </streaminginfo>
-<streaminginfo>
-    <cname>2M</cname>
-	<item>
-	<title>Low JanJua</title>
-	<link>$doregex[url]</link>
-	<regex>
-	<name>url</name>
-	<expres>source src="(.*?)"</expres>
-	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=2m</page>
-	<agent>iPhone</agent></regex>
-</item>
-</streaminginfo>
+
+
 <streaminginfo>
     <cname>MBC 1</cname>
 	<item>
 	<title>Low JanJua</title>
-	<link>$doregex[url]</link>
+	<link>$doregex[url]|User-Agent=iPad</link>
 	<regex>
 	<name>url</name>
-	<expres>source src="(.*?)"</expres>
+	<expres>"(http.*?m3u8.*?)"</expres>
 	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=mbc1</page>
-	<agent>iPhone</agent></regex>
-</item>
+	<referer>http://www.elahmad.com</referer>
+	<agent>iPad</agent>
+	</regex>
+	</item>
 </streaminginfo>
+
 <streaminginfo>
     <cname>Alriadia Sport</cname>
 	<item>
 	<title>Low JanJua</title>
-	<link>$doregex[url]</link>
+	<link>$doregex[url]|User-Agent=iPad</link>
 	<regex>
 	<name>url</name>
-	<expres>source src="(.*?)"</expres>
+	<expres>"(http.*?m3u8.*?)"</expres>
 	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=arryadia</page>
-	<agent>iPhone</agent></regex>
-</item>
+	<referer>http://www.elahmad.com</referer>
+	<agent>iPad</agent>
+	</regex>
+	</item>
 </streaminginfo>
+
+<streaminginfo>
+    <cname>2M</cname>
+	<item>
+	<title>Low JanJua</title>
+	<link>$doregex[url]|User-Agent=iPad</link>
+	<regex>
+	<name>url</name>
+	<expres>"(http.*?m3u8.*?)"</expres>
+	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=2m</page>
+	<referer>http://www.elahmad.com</referer>
+	<agent>iPad</agent>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+
 
 
 <streaminginfo>
