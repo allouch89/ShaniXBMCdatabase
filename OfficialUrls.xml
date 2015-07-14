@@ -3878,24 +3878,23 @@
    	<cname>Syria Talaqie</cname>
 	<item>
 	<title>Low</title>
-	<link>http://82.137.248.16:1935/Talaqie/TalaqieLive1/playlist.m3u8</link>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive1/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
    	<cname>Syria Talaqie</cname>
 	<item>
 	<title>Med</title>
-	<link>http://82.137.248.16/Talaqie/TalaqieLive2/playlist.m3u8</link>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive2/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
    	<cname>Syria Talaqie</cname>
 	<item>
 	<title>High</title>
-	<link>http://82.137.248.16/Talaqie/TalaqieLive3/playlist.m3u8</link>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
    	<cname>Syria Sedu</cname>
 	<item>
