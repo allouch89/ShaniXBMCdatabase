@@ -1177,8 +1177,8 @@
 <streaminginfo>
 	<cname>Bzaf</cname>
 	<item>
-	<title>Low</title>
-	<link>rtmp://ccfz.dyndns.org:4425/live/live.flv swfUrl=http://bzaf.tv/live/player.swf pageUrl=http://www.bzaf.tv/live/index.html live=1 timeout=20</link>
+	<title>Med</title>
+	<link>rtmp://ccfz.dyndns.org:4425/bzaflife/livestream swfUrl=http://bzaf.tv/video-js/bzaflife/video-js/video-js.swf pageUrl=http://bzaf.tv/live_streaming_bzaflife.php</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
