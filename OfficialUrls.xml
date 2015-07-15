@@ -1,7 +1,137 @@
 <streamingInfos>
 <streaminginfo><cname>Libya</cname><item><title>Youtube</title><link>plugin://plugin.video.youtube/play/?video_id=er1_nruKJi0 </link></item></streaminginfo>
 
-	<streaminginfo>
+<streaminginfo>
+	<cname>Nessma</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Nessma-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>First TV</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/First-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Hanibal</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Hannibal-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Janoubiya</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Janoubia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Maghreb24</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Maghreb-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Telvza TV</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Telvza-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TNN</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/TNN</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tounesna</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Tunisna-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 1</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Watania-1</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 2</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Watania-2</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Elsharq</cname>
 	<item>
 	<title>livestream</title>
@@ -12,7 +142,6 @@
 	<page>$doregex[get-m3u8]</page>
 	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
 	<cookieJar></cookieJar>
-
 	</regex>
     <regex>
     <name>get-m3u8</name>
