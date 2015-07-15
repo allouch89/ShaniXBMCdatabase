@@ -1854,20 +1854,6 @@
 <streaminginfo><cname>Sudan OUS</cname><item><title>0:0:0</title><link>rtmp://41.67.3.244:1935/live/livestream swfUrl=http://ousmedia.net/img/player.swf pageUrl=http://ousmedia.net/tvlive.html timeout=20</link></item></streaminginfo>
 <streaminginfo><cname>Tanasuh</cname><item><title>official</title><link>http://de.live.net.sa:1935/live/tanasuhtv/playlist.m3u8</link></item></streaminginfo>
 
-<streaminginfo>
-	<cname>Tunisia national 1</cname>
-	<item>
-	<title>HQ streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat1hd swfUrl=http://streaminghd.tn/video/player.swf?random=797638636 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-1.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Tunisia national 2</cname>
-	<item>
-	<title>HQ streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat2hd swfUrl=http://streaminghd.tn/video/player.swf?random=662291024 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-2.html timeout=20</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 		<cname>CBC Sofra</cname>
