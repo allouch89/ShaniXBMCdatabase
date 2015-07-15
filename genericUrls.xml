@@ -21,7 +21,7 @@
 	</item>	
 </streaminginfo>
 <streaminginfo>
-	<cname>Comedie+</cname>
+	<cname>Comedie+</cname>na
 	<item>
 	<title>rapidiptv</title>
 	<link>http://portal.rapidiptv.com:8080/live/90test90/90test90/2220.m3u8</link>
@@ -1281,7 +1281,7 @@
 <streaminginfo>
 	<cname>Tunisia national 1</cname>
 	<item>
-	<title> streamago</title>
+	<title>streamago</title>
 	<link>http://ca-edge-5.cdn2.streamago.tv:1935/streamagoedge/1052/224/chunklist_w182068498.m3u8</link>
 	</item>
 </streaminginfo>
@@ -1853,91 +1853,6 @@
 
 <streaminginfo><cname>Sudan OUS</cname><item><title>0:0:0</title><link>rtmp://41.67.3.244:1935/live/livestream swfUrl=http://ousmedia.net/img/player.swf pageUrl=http://ousmedia.net/tvlive.html timeout=20</link></item></streaminginfo>
 <streaminginfo><cname>Tanasuh</cname><item><title>official</title><link>http://de.live.net.sa:1935/live/tanasuhtv/playlist.m3u8</link></item></streaminginfo>
-
-
-
-<streaminginfo>
-	<cname>Maghreb24</cname>
-	<item>
-	<title>HQ streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=maghreb24 swfUrl=http://streaminghd.tn/video/player.swf?random=1040120805 live=1 pageUrl=http://streaminghd.tn/index.php/maghreb-24.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Hanibal</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=hannibal swfUrl=http://streaminghd.tn/video/player.swf?random=441639863 live=1 pageUrl=http://streaminghd.tn/index.php/hannibal-tv.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Hiwar Ettounsi</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2098446916 live=1 pageUrl=http://streaminghd.tn/index.php/el-hiwar-ettounsi.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nessma</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=860398583 live=1 pageUrl=http://streaminghd.tn/index.php/nessma-tv.html timeout=20</link>
-	</item>
-</streaminginfo>		
-<streaminginfo>
-	<cname>Al Janoubiya</cname>
-	<item>
-	<title>streaminghd </title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=janoubia swfUrl=http://streaminghd.tn/video/player.swf?random=626346240 live=1 pageUrl=http://streaminghd.tn/index.php/al-janoubya.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Telvza TV</cname>
-	<item>
-	<title>streaminghd </title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1211023978 live=1 pageUrl=http://streaminghd.tn/index.php/telvza-tv.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Tounesna</cname>
-	<item>
-	<title>streaminghd </title>
-	<link>rtmp://41.231.53.38:1935/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=137709429 live=1 pageUrl=http://streaminghd.tn/index.php/tounesna.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TNN</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=tnn swfUrl=http://streaminghd.tn/video/player.swf?random=1351981312 live=1 pageUrl=http://streaminghd.tn/index.php/tnn.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Tunisia national 1</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat1sd swfUrl=http://streaminghd.tn/video/player.swf?random=797638636 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-1.html timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Tunisia national 2</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=nat2sd swfUrl=http://streaminghd.tn/video/player.swf?random=823984767 live=1 pageUrl=http://streaminghd.tn/index.php/watanya-2.html timeout=20</link>
-	</item>
-</streaminginfo>
-	
-<streaminginfo>
-	<cname>First TV</cname>
-	<item>
-	<title>streaminghd</title>
-	<link>rtmp://41.231.53.38:1935/thd/ playpath=first swfUrl=http://streaminghd.tn/video/player.swf?random=1355660203 live=1 pageUrl=http://streaminghd.tn/index.php/first-tv.html timeout=20</link>
-	</item>
-</streaminginfo>
-	
-
-
-
 
 <streaminginfo>
 	<cname>Tunisia national 1</cname>
