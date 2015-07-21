@@ -2,6 +2,35 @@
 <streaminginfo><cname>Libya</cname><item><title>Youtube</title><link>plugin://plugin.video.youtube/play/?video_id=er1_nruKJi0 </link></item></streaminginfo>
 
 <streaminginfo>
+	<cname>FRANCE 2</cname>
+	<item>
+	<title>France 2</title>
+	<link>http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>FRANCE 3</cname>
+	<item>
+	<title>France 3</title>
+	<link>http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>FRANCE 5</cname>
+	<item>
+	<title>France 5</title>
+	<link>http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>FRANCE 4</cname>
+	<item>
+	<title>France 4</title>
+	<link>http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Nessma</cname>
 	<item>
 	<title>Med</title>
