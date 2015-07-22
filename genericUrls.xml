@@ -1,6 +1,13 @@
 <streamingInfos>
 
 <streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>Source SD</title>
+	<link>rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
 	<cname>Cherie 25</cname>
 	<item>
 	<title>720px HD</title>
