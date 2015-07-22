@@ -300,8 +300,8 @@
 <streaminginfo>
 	<cname>GuideUS TV</cname>
 	<item>
-	<title>HLS_Stream</title>
-	<link>http://stream.streamislam.com:8080/streamer/live/index.m3u8</link>
+	<title>RTMP_Stream</title>
+	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
