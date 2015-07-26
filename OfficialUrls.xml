@@ -1,4 +1,16 @@
 <streamingInfos>
+<streaminginfo>
+     <cname>Libya AlWataniya</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=185</page>
+</regex>
+</item>
+</streaminginfo>	
 <streaminginfo><cname>Libya</cname><item><title>Youtube</title><link>plugin://plugin.video.youtube/play/?video_id=er1_nruKJi0 </link></item></streaminginfo>
 
 <streaminginfo>
