@@ -1,4 +1,21 @@
 <streamingInfos>
+
+<streaminginfo>
+	<cname>Action</cname>
+	<item>
+	<title>Action</title>
+	<link>http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=action&amp;type=.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>AB1</cname>
+	<item>
+	<title>AB1</title>
+	<link>http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=ab1&amp;type=.m3u8</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
      <cname>Libya AlWataniya</cname>
 	 <item>
