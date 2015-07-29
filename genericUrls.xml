@@ -1,6 +1,13 @@
 <streamingInfos>
 
 <streaminginfo>
+	<cname>Grand Lille TV</cname>
+	<item>
+	<title>360px SD</title>
+	<link>rtmp://str81.creacast.com/grandlilletv/high</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
 	<cname>Canal plus</cname>
 	<item>
 	<title>404px SD</title>
