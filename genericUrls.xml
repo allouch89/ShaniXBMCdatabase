@@ -16,6 +16,27 @@
 </item>
 </streaminginfo>	
 
+<streaminginfo>
+	<cname>Boomerang</cname>
+	<item>
+	<title>ndasat</title>
+	<link>http://ip.ndasat.com:88/live/nda2/nda1/297.ts</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Canal plus</cname>
+	<item>
+	<title>ndasat</title>
+	<link>http://ip.ndasat.com:88/live/nda2/nda1/181.ts</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Canal+ Sport</cname>
+	<item>
+	<title>ndasat</title>
+	<link>http://ip.ndasat.com:88/live/nda2/nda1/47.ts</link>
+	</item>	
+</streaminginfo>
 
 <streaminginfo>
 	<cname>rts un</cname>
