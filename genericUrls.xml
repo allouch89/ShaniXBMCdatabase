@@ -16,42 +16,7 @@
 </item>
 </streaminginfo>	
 
-<streaminginfo>
-	<cname>Boomerang</cname>
-	<item>
-	<title>ndasat</title>
-	<link>http://ip.ndasat.com:88/live/nda2/nda1/297.ts</link>
-	</item>	
-</streaminginfo>
-<streaminginfo>
-	<cname>Canal plus</cname>
-	<item>
-	<title>ndasat</title>
-	<link>http://ip.ndasat.com:88/live/nda2/nda1/181.ts</link>
-	</item>	
-</streaminginfo>
-<streaminginfo>
-	<cname>Canal+ Sport</cname>
-	<item>
-	<title>ndasat</title>
-	<link>http://ip.ndasat.com:88/live/nda2/nda1/47.ts</link>
-	</item>	
-</streaminginfo>
 
-<streaminginfo>
-	<cname>rts un</cname>
-	<item>
-	<title>720px HD</title>
-	<link>http://teleboy.customers.cdn.iptv.ch/2034/index.m3u8</link>
-	</item>	
-</streaminginfo>
-<streaminginfo>
-	<cname>rts deux</cname>
-	<item>
-	<title>720px HD</title>
-	<link>http://teleboy.customers.cdn.iptv.ch/2035/index.m3u8</link>
-	</item>	
-</streaminginfo>
 <streaminginfo>
 	<cname>Grand Lille TV</cname>
 	<item>
@@ -59,20 +24,7 @@
 	<link>rtmp://str81.creacast.com/grandlilletv/high</link>
 	</item>	
 </streaminginfo>
-<streaminginfo>
-	<cname>Canal plus</cname>
-	<item>
-	<title>404px SD</title>
-	<link>http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8</link>
-	</item>	
-</streaminginfo>
-<streaminginfo>
-	<cname>Special Investigation</cname>
-	<item>
-	<title>Special Investigation</title>
-	<link>http://62.210.82.111:8080/I9XwqnQLicxptXuw5C3XLXtI3SyWHDyP/hls/specialinvest.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36</link>
-	</item>	
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
 	<item>
@@ -193,13 +145,7 @@
 	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Boomerang</cname>
-	<item>
-	<title>CH_BOOMERANG</title>
-	<link>http://hlsstr04.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>LPC</cname>
 	<item>
