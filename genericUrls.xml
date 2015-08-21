@@ -14,7 +14,19 @@
     <cookieJar></cookieJar>
 </regex>
 </item>
-</streaminginfo>	
+</streaminginfo>
+	<streaminginfo>
+		<cname>LPC</cname>
+		<item>
+			<title>ustream</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20753403/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex>
+		</item>
+	</streaminginfo>
 
 
 <streaminginfo>
