@@ -157,14 +157,6 @@
 	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>LPC</cname>
-	<item>
-	<title>Ustream</title>
-	<link>http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=19913120&amp;id=gmswf</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
 	<item>
