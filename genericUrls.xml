@@ -129,13 +129,9 @@
 	<link>rtmp://peace.fms.visionip.tv/live/b2b-peace_sky-live-25f-4x3-sdh_1</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Dalmar TV</cname>
-	<item>
-	<title>rtmp_Stream</title>
-	<link>rtmp://130.211.178.31:1935/DalmarStream//flv:myStream</link>
-	</item>
-</streaminginfo>
+
+<streaminginfo><cname>Dalmar TV</cname><item><title>Youtube</title><link>plugin://plugin.video.youtube/play/?video_id=Yz5j2-z8hs8</link></item></streaminginfo>
+
 <streaminginfo>
 	<cname>HCTV</cname>
 	<item>
