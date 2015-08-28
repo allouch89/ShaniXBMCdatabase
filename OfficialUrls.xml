@@ -1938,25 +1938,34 @@
 	</item>
 </streaminginfo>
 
-
-
 <streaminginfo>
 	<cname>Universal Somali</cname>
 	<item>
-	<title>livestream low</title>
-	<link>$doregex[get-url]</link>
+	<title>Low</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 	<regex>
-	<name>get-url</name>
-	<expres>"m3u8_url":"(.*?)"</expres>
-	<page>http://livestream.com/accounts/2058831/universalsomalitv</page>
-	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
+	<name>get-m3u8final</name>
+	<expres>.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>https://new.livestream.com/accounts/2058831/events/2072662/player?width=960&amp;amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
 	</regex>
 	</item>
 </streaminginfo>
-
-
-
-
 
 <streaminginfo>
 	<cname>CNBC Arabic</cname>
