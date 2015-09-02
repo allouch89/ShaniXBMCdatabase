@@ -1,5 +1,13 @@
-
 <streamingInfos>
+
+<streaminginfo>
+	<cname>SBC</cname>
+	<item>
+	<title>SBC Livestream</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/playlist.m3u8</link>
+	</item>	
+</streaminginfo>
+
 <streaminginfo> 
 <cname>Bein Sport News</cname>
 <item>
