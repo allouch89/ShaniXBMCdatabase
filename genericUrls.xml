@@ -1,6 +1,14 @@
 <streamingInfos>
 
 <streaminginfo>
+	<cname>D8</cname>
+	<item>
+	<title>Geoblocked</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/d8_hds@182613/manifest.f4m</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>SBC</cname>
 	<item>
 	<title>SBC Livestream</title>
