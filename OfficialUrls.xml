@@ -5088,7 +5088,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo><cname>Tamazigh Maroc</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://tamazight-tv.scdn.arkena.com/tamazight.isml/manifest.f4m</link></item></streaminginfo>
-<streaminginfo><cname>Al oula Maroc la3youne</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/manifest.f4m</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc la3youn</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Assadissa</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://assadissa-tv.scdn.arkena.com/assadissa.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Arrabia</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://arrabiaa-tv.scdn.arkena.com/arrabiaa.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Al Maghribia</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/manifest.f4m</link></item></streaminginfo>
@@ -5120,6 +5120,12 @@
 <streaminginfo><cname>Assadissa</cname><item><title>Low 448x336</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=350000.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Assadissa</cname><item><title>Med</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=730000.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Assadissa</cname><item><title>High</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=1130000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>High Audio only</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=1900000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>Low 320x240</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=150000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>Low 448x336</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=350000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>Med</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=730000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>High</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=1130000.m3u8</link></item></streaminginfo>
 
 
 </streamingInfos>
