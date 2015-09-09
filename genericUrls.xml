@@ -3122,21 +3122,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-    <cname>Al Alam</cname>
-	<item>
-	<title>Medium Quality</title>
-	<link>rtmp://hd6.lsops.net/live playpath=alalam_ar_584 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Al Alam</cname>
-	<item>
-	<title>Low Quality</title>
-	<link>rtmp://hd6.lsops.net/live playpath=alalam_ar_162 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
     <cname>Nabaa</cname>
@@ -4089,13 +4074,7 @@
 		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>Al Alam</cname>
-		<item>
-		<title>Livestation</title>
-		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8</link>
-		</item>
-</streaminginfo>
+
 <streaminginfo>
 		<cname>Animal Planet</cname>
 		<item>
