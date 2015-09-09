@@ -3658,19 +3658,6 @@
 	<link>rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS timeout=15 swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.alalam.ir/live</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Al Alam</cname>
-	<item>
-	<title>livestation high</title>
-	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alalam/ls_fiber/b_828.m3u8</link>
-	</item>
-</streaminginfo><streaminginfo>
-        <cname>Al Alam</cname>
-	<item>
-	<title>livestation med</title>
-	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alalam/ls_fiber/b_528.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
         <cname>Euro News Arabic</cname>
