@@ -3,16 +3,16 @@
         <cname>Echorouk Tv</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -20,16 +20,16 @@
         <cname>Aljadeed</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -37,16 +37,16 @@
         <cname>Dubai</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -54,16 +54,16 @@
         <cname>Future TV</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -71,16 +71,16 @@
         <cname>Al Majd</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -88,16 +88,16 @@
         <cname>Attasi3a</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -105,16 +105,16 @@
         <cname>MTV</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -122,16 +122,16 @@
         <cname>France 24</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -139,16 +139,16 @@
         <cname>2M</cname>
         <item>
             <title/>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -156,16 +156,16 @@
         <cname>Egypt 1</cname>
         <item>
             <title>High #1</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -173,16 +173,16 @@
         <cname>Al oula Maroc</cname>
         <item>
             <title>High #2</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -190,16 +190,16 @@
         <cname>Algeria 3</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -207,16 +207,16 @@
         <cname>Alhayat 1</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -224,16 +224,16 @@
         <cname>Alhayat Cinema</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -241,16 +241,16 @@
         <cname>Alhayat Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -258,16 +258,16 @@
         <cname>Al Nahar</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -275,16 +275,16 @@
         <cname>Al-Nahar Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -292,16 +292,16 @@
         <cname>Alriadia Sport</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -309,16 +309,16 @@
         <cname>Art Aflam 1</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -326,16 +326,16 @@
         <cname>Art Aflam 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -343,16 +343,16 @@
         <cname>ART Hekayat 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -360,16 +360,16 @@
         <cname>ART Hekayat</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -377,16 +377,16 @@
         <cname>Assadissa</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -394,16 +394,16 @@
         <cname>Al Hiwar Ettounsi</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -411,16 +411,16 @@
         <cname>BBC Arabic</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -428,16 +428,16 @@
         <cname>Bein Sport News</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -445,16 +445,16 @@
         <cname>Cairo Cinema</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -462,16 +462,16 @@
         <cname>Cairo Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -479,16 +479,16 @@
         <cname>CBC</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -496,16 +496,16 @@
         <cname>CBC 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -513,16 +513,16 @@
         <cname>CBC Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -530,16 +530,16 @@
         <cname>CBC Extra</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -547,16 +547,16 @@
         <cname>CBC Sofra</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -564,16 +564,16 @@
         <cname>Cima</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -581,16 +581,16 @@
         <cname>Dream 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -598,16 +598,16 @@
         <cname>Fox Movies</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -615,16 +615,16 @@
         <cname>Hanibal</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -632,16 +632,16 @@
         <cname>Iqra</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -649,16 +649,16 @@
         <cname>LBC</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -666,16 +666,16 @@
         <cname>MBC 1</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -683,16 +683,16 @@
         <cname>MBC 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -700,16 +700,16 @@
         <cname>MBC 3</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -717,16 +717,16 @@
         <cname>MBC 4</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -734,16 +734,16 @@
         <cname>MBC Action</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -751,16 +751,16 @@
         <cname>MBC Bollywood</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -768,16 +768,16 @@
         <cname>MBC Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -785,16 +785,16 @@
         <cname>MBC Max</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -802,16 +802,16 @@
         <cname>Mehwar 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -819,16 +819,16 @@
         <cname>Mecca</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -836,16 +836,16 @@
         <cname>National Geo Ad</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -853,16 +853,16 @@
         <cname>Nessma</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -870,16 +870,16 @@
         <cname>Nile Cinema</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -887,16 +887,16 @@
         <cname>Nile Comedy</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -904,16 +904,16 @@
         <cname>Nile Culture</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -921,16 +921,16 @@
         <cname>Nile Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -938,16 +938,16 @@
         <cname>Nile Family</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -955,16 +955,16 @@
         <cname>Nile Life</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -972,16 +972,16 @@
         <cname>Nile Sport</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -989,16 +989,16 @@
         <cname>Oscar Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1006,16 +1006,16 @@
         <cname>Panorama Drama</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1023,16 +1023,16 @@
         <cname>Panorama Drama 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1040,16 +1040,16 @@
         <cname>Panorama film</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1057,16 +1057,16 @@
         <cname>Rotana Aflam</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1074,16 +1074,16 @@
         <cname>Rotana Clip</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1091,16 +1091,16 @@
         <cname>Toyor Al Janah</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1108,16 +1108,16 @@
         <cname>Tunisia national 1</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1125,16 +1125,16 @@
         <cname>Tunisia national 2</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
@@ -1142,16 +1142,16 @@
         <cname>Zee Aflam</cname>
         <item>
             <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400 timeout=20</link>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,185 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
