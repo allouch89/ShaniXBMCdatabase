@@ -3265,18 +3265,12 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>RMC Decouverte</cname>
-		<item>
-			<title>rmc_decouverte</title>
-			<link>rtmp://vipwowza.yacast.net/rmc_decouverte_rtmp//live</link> 
-		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Alhorreya_Christian</cname>
 		<item>
 			<title>Working</title>
-			<link>rtmp://fms.pwmcdn.com:1935/alhorreya/alhorreya2</link>
+			<link>rtmp://fms.pwmcdn.com:1935/alhorreya/alhorreya2 timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -3290,7 +3284,7 @@
 		<cname>MESat_Christian</cname>
 		<item>
 			<title>ME Sat</title>
-			<link>rtmp://roku-stream.mine.nu:1935/koko/_definst_/MeSatChannel</link>
+			<link>rtmp://roku-stream.mine.nu:1935/koko/_definst_/MeSatChannel timeout=20</link>
 		</item>
 	</streaminginfo>
 	
