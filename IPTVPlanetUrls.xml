@@ -7,11 +7,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -24,11 +26,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -41,11 +45,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=dubai&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -58,11 +64,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=future&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -75,11 +83,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=almajd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -92,11 +102,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=attassia&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -109,11 +121,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=mtv&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -126,11 +140,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=france24&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -143,11 +159,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=2m&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -160,11 +178,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -177,11 +197,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -194,11 +216,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -211,11 +235,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -228,11 +254,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -245,11 +273,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -262,11 +292,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -279,11 +311,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -296,11 +330,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_Arriadia&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -313,11 +349,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -330,11 +368,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=artaflam2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -347,11 +387,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -364,11 +406,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -381,11 +425,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_Assadissa&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -398,11 +444,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=at&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -415,11 +463,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=bbcarabic&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -432,11 +482,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=beinsportnews&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -449,11 +501,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -466,11 +520,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -483,11 +539,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -500,11 +558,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbct&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -517,11 +577,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbcd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -534,11 +596,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbce&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -551,11 +615,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cbcs&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -568,11 +634,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=cima&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -585,11 +653,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=drama2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -602,11 +672,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=fm&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -619,11 +691,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=h&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -636,11 +710,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=iqraa&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -653,11 +729,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=lbc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -670,11 +748,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -687,11 +767,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -704,11 +786,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -721,11 +805,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -738,11 +824,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcaction&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -755,11 +843,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcbw&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -772,11 +862,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -789,11 +881,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -806,11 +900,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=mehwar2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -823,11 +919,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=mekka&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -840,11 +938,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=natgeographic&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -857,11 +957,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=n&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -874,11 +976,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -891,11 +995,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilecomedy&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -908,11 +1014,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nileculture&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -925,11 +1033,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_niledrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -942,11 +1052,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilefamily&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -959,11 +1071,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilelife&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -976,11 +1090,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -993,11 +1109,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_OscarDrama&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1010,11 +1128,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=pd&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1027,11 +1147,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=pd2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1044,11 +1166,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=pf&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1061,11 +1185,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=rc&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1078,11 +1204,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1095,11 +1223,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=toyouraljanna&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1112,11 +1242,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=t1&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1129,11 +1261,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=t2&amp;width=600&amp;height=400</page>
             </regex>
         </item>
@@ -1146,11 +1280,13 @@
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&amp;width=600&amp;height=400</page>
             </regex>
         </item>
