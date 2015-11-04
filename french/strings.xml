@@ -1,0 +1,108 @@
+<strings>
+  
+    <!-- Meta Data -->
+    <string id="32010">Proxy and CDN Setup</string>
+    <string id="32011">Activer proxy personnalisé?</string>
+    <string id="32012">Adresse du serveur proxy personnalisé</string>
+    <string id="32013">Sélection du serveur CDN</string>
+    <string id="32014">Serveur CDN à utiliser</string>
+	<string id="32015">Configuration</string>
+	<string id="32016">Site à utiliser?</string>
+		<string id="32017">Infos d'identification</string>
+		<string id="32018">[Inutile] Pseudo Livetv</string>
+		<string id="32019">[Inutile] Mot de passe Livetv</string>
+	<string id="32020">Jouer le premier flux disponible?</string>
+	<string id="32021">Ordre des sources</string>
+	<string id="32022">1ère préférence</string>
+	<string id="32023">2ème préférence</string>
+	<string id="32024">3ème préférence</string>
+	<string id="32025">4ème préférence</string>
+	<string id="32026">5ème préférence</string>
+	<string id="32052">6ème préférence</string>
+    <string id="32054">7ème préférence</string>
+	<string id="32056">8ème préférence</string>
+    <string id="32059">9ème préférence</string>
+    <string id="32061">10ème préférence</string>
+    <string id="32068">11ème préférence</string>
+    <string id="32083">12ème préférence</string>
+    <string id="32085">13ème préférence</string>
+    <string id="32087">14ème préférence</string>
+    <string id="32093">15ème préférence</string>
+    <string id="32094">16ème préférence</string>
+    <string id="32094">17ème préférence</string>
+    <string id="32100">18ème préférence</string>
+	
+	
+	<string id="32027">Ressources locales</string>
+	<string id="32028">Votre fichier Youtube</string>
+	<string id="32029">Votre fichier de sources xml</string>
+	<!-- <string id="32030">Sixth Preference</string> -->
+    <string id="32031">Désactiver des sources</string>
+    
+	<string id="32032">Désactiver Teledunet</string>
+	<string id="32033">Désactiver livetv.tn</string>
+    <string id="32034">Désactiver Shani</string>
+    <string id="32035">Désactiver PC</string>
+    <string id="32036">Désactiver Zombi</string>
+    <string id="32037">Désactiver Local</string>
+    <string id="32051">Désactiver iptvOsn</string>	
+    <string id="32053">Désactiver GLArab</string>	
+    <string id="32055">Désactiver MagictvBox</string>	
+    <string id="32060">Désactiver Emad</string>	
+	<string id="32062">Désactiver FilmOn</string>
+	<string id="32069">Désactiver Telvza</string>
+	<string id="32082">Désactiver IPTVPlanet</string>
+	<string id="32086">Désactiver ss</string>	
+	<string id="32088">Désactiver ttv</string>	
+	<string id="32095">Désactiver cdn</string>	
+	<string id="32096">Désactiver yo</string>
+	<string id="32103">Désactiver kar</string>
+	
+	<string id="32063">Ne pas jouer "Qualité élevée" avec FilmOn</string>	
+
+    
+    <string id="32038">Cocher les sources à désactiver</string>
+    <string id="32045">Identifiants Teledunet</string>
+	<string id="32039">Pseudo Teledunet</string>
+    <string id="32040">Mot de passe Teledunet</string>
+    <string id="32041">Identifiants Livetv</string>
+	<!--<string id="32042">Identifiants iptvosn</string>
+	<string id="32043">Pseudo iptvosn</string>
+	<string id="32044">Mot de passe iptvosn</string>-->
+	<string id="32046">Code d'Activation (livetv.tn)</string>	
+	<string id="32047">Vider le cache</string>	
+	<string id="32048">[Inutile] Code d'identification web(si Livetv Login marche pas)</string>	
+	<string id="32049">Divers paramètres</string>	
+	<string id="32050">Override default view mode</string>	
+    <string id="32057">Nbre de tentatives de connexion à Teledunet</string>	
+     <string id="32058">Mode d'ajout favori</string>	
+	<string id="32065">Désactiver Official</string>	
+	<string id="32066">Essayer toutes les sources une par une</string>
+	
+	<string id="32071">Identifiants GLArab</string>	
+	<string id="32072">Pseudo GLArab</string>	
+	<string id="32073">Mot de passe GLArab</string>		
+	<string id="32074">Sélection du serveur</string>		
+	<string id="32075">Qualité</string>
+	<string id="32077">GL Proxy Qualité haute</string>		
+	<string id="32078">GL Proxy Qualité moyenne</string>		
+     <string id="32079">GL Proxy Qualité basse</string>
+     <string id="32089">GL Proxy LR Qualité basse</string>
+     <string id="32091">GL Qualité basse</string>
+	 <string id="32101">Pseudo Karimos</string>
+     <string id="32102">Mot de passe Karimos</string>
+     <string id="32104">Login Karimos</string>
+	 <string id="32105">Identifiants Yoolive</string>
+     <string id="32106">Pseudo Yo</string>
+     <string id="32107">Mot de passe Yo</string>
+
+
+          <string id="32090">Activer proxy partagé?</string>
+	 <string id="32080">Activer proxy local?</string>
+	 <string id="32081">GL Proxy (utiliser 127.0.0.1) pour machine locale</string>
+	 <string id="32084">Désactiver MAJ périodiques</string>
+    <string id="32108">Pseudo Shahid MBC</string>
+     <string id="32109">Mot de passe Shahid MBC</string>
+
+	
+</strings>
