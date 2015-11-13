@@ -992,63 +992,109 @@
 	<cname>Noursat</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/noursat/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=2</link>
+        <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat4</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NoursatAlShabab</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nouralchabab/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=3</link>
+        <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat3</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NoursatAlsharq</cname>
+
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nouralshark/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=4</link>
+        <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat8</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NoursatAlkalima</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nouralkalima/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=5</link>
+		 <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat2</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noursatkids</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nourkids/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=6</link>
+				 <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat7</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NoursatAlkoddass</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nourelkoddass/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=7</link>
+				 <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat1</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noursatmusic</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nourmusic/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=8</link>
+						 <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat5</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noursatmariam</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/mariam/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=9</link>
+						 <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat9</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noursatspirit</cname>
 	<item>
 		<title>noursat.tv</title>
-		<link>rtmp://fl1.viastreaming.net/nourspirit/ playpath=livestream swfUrl=http://www.noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://noursat.tv/channels2/en/live.php?id=10</link>
+						 <link>$doregex[url]</link>
+        <regex>
+        <name>url</name>
+        <expres>file: "(.*?)"</expres>
+        <page>http://player.l1vetv.com/noursat6</page>
+        </regex>    
 	</item>
 </streaminginfo>
 <streaminginfo>
