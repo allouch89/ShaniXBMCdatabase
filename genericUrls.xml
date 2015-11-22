@@ -19,18 +19,11 @@
 <streaminginfo> 
 <cname>Bein Sport News</cname>
 <item>
-<title>Works in Kodi-15</title>
-<link>https://beinsportnet5-lh.akamaihd.net/i/bisusch332_0@99606/master.m3u8?$doregex[acl]|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</link>
-<regex>
-    <name>acl</name>
-    <expres>streamAuth.\n...CDATA.(.*?)\]</expres>
-    <page>http://www.en.beinsports.net/streaming/dvr/streaminfo/partnerId_1346/dvrEventId_91923/data.xml?cache_buster=$epoctime$</page>
-    <referer>http://www.en.beinsports.net/connect/bein-sports-news</referer>
-    <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-    <cookieJar></cookieJar>
-</regex>
+<title>Official</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
 </item>
 </streaminginfo>
+
 	<streaminginfo>
 		<cname>LPC</cname>
 		<item>
