@@ -1,4 +1,12 @@
 <streamingInfos>
+	
+<streaminginfo>
+	<cname>Aljaleya</cname>
+	<item>
+	<title>720 rtmp</title>
+	<link>rtmp://70.25.55.38:1935/live/aljaleyatv swfUrl=http://www.aljaleya.tv/components/com_joomtv/jwplayer/jwplayer.flash.swf pageUrl=http://www.aljaleya.tv/live1 live=1 timeout=20</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Aljaleya</cname>
 	<item>
