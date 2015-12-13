@@ -1,5 +1,11 @@
 <streamingInfos>
-
+<streaminginfo>
+	<cname>Aljaleya</cname>
+	<item>
+	<title>720</title>
+	<link>http://70.25.55.38:1935/live/aljaleyatv/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Action</cname>
 	<item>
