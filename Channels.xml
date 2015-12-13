@@ -1,5 +1,14 @@
 <channels>
-
+<channel>
+	<cname>Aljaleya</cname>
+	<imageurl>http://s21.postimg.org/ay6pg4sxj/CHB8_97_VAAA2kei.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>tunis</category>
+	<category>maroc</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>Teletoon+</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_teletoon_plus.png</imageurl>
