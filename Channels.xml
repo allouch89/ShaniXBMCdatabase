@@ -1,4 +1,21 @@
 <channels>
+	
+<channel>
+	<cname>Almouridiyyah</cname>
+	<imageurl>http://s13.postimg.org/6vb33h1p3/unnamed.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>africa</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Almajlis</cname>
+	<imageurl>http://s24.postimg.org/vcfam86g5/Alma.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel
 <channel>
 	<cname>Aljaleya</cname>
 	<imageurl>http://s21.postimg.org/ay6pg4sxj/CHB8_97_VAAA2kei.png</imageurl>
