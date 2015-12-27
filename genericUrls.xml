@@ -4134,6 +4134,34 @@
 <streaminginfo><cname>Almajlis</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=JXjXSl3HQBU</link></item></streaminginfo>
 <streaminginfo><cname>Saudia Sport</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=IQB3n_BEQeg</link></item></streaminginfo>
 <streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
+<streaminginfo>
+	<cname>alfallujah</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Al-Fallujah+Tv+Channel+-+July+21%2C+2015&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;event_id=4213685&amp;owner_id=4671269</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn.technohood.net:1935/elsharqtv/smil:elsharq_live.smil/chunklist_w944370531_b978000_sleng.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>Med1</title>
+	<link>http://cdn.technohood.net:1935/elsharqtv/smil:elsharq_live.smil/chunklist_w944370531_b3128000_sleng.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>1080</title>
+	<link>http://cdn.technohood.net:1935/elsharqtv/smil:elsharq_live.smil/chunklist_w944370531_b2128000_sleng.m3u8</link>
+	</item>
+</streaminginfo>
 
 
 </streamingInfos>
