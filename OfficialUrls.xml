@@ -1267,14 +1267,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Bzaf</cname>
-	<item>
-	<title>Med</title>
-	<link>rtmp://ccfz.dyndns.org:4425/bzaf/livestream swfUrl=ttp://bzaf.tv/music/player.swf pageUrl=http://bzaf.tv/live</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Dubai Sport HD2</cname>
 	<item>
 	<title>Low</title>
