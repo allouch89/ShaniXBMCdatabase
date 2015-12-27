@@ -3103,13 +3103,7 @@
 			<link>http://fl1.viastreaming.net/iqraatv3/livestream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>SkyNewsArabia</cname>
-		<item>
-		<title>livestation SD</title>
-		<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1 timeout=20</link>
-		</item>
-	</streaminginfo>
+	
 <streaminginfo>
 		<cname>DW Arabic</cname>
 		<item>
@@ -4213,19 +4207,52 @@
 	<link>http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8</link>
 	</item>
 </streaminginfo> 
-<streaminginfo>
-	<cname>SkyNewsArabia</cname>
-	<item><title>720p</title><link>rtmp://llnwvps231.fc.llnwd.net/llnwvps231/ playpath=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3 swfUrl=http://assets.delvenetworks.com/player/loader.swf live=1 pageUrl=http://www.skynewsarabia.com/web/home?view=live</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
         <cname>SkyNewsArabia</cname>
 	<item>
-	<title>720p</title>
-	<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8</link>
+	<title>Manifest 720</title>
+	<link>http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/manifest.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+        <cname>SkyNewsArabia</cname>
+	<item>
+	<title>180</title>
+	<link>http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/chunklist_b174000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>SkyNewsArabia</cname>
+	<item>
+	<title>180</title>
+	<link>http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/chunklist_b332000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>SkyNewsArabia</cname>
+	<item>
+	<title>360</title>
+	<link>http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/chunklist_b732000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>SkyNewsArabia</cname>
+	<item>
+	<title>480</title>
+	<link>http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/chunklist_b1128000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>SkyNewsArabia</cname>
+	<item>
+	<title>720p</title>
+	<link>http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/chunklist_b1928000.m3u8</link>
+	</item>
+</streaminginfo>
+
+
 <streaminginfo>
         <cname>Quran TV ksa</cname>
 	<item>
