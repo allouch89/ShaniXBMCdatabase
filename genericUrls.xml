@@ -3707,4 +3707,267 @@
 </streaminginfo>
 
 
+
+<streaminginfo>
+<cname>Tamazigh Algeria</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/tamazight-tv-4/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Coran</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/coran-tv-5/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Russia Alyaum</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/russia-al-yaum/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>i24News</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/i24-news-arabic/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>France 24</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/france-24-arabe/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Euro News Arabic</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/euronews-ar/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Medi 1 Sat</cname>
+<item>
+<title>300</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/medi-1-tv/?bitrate=300&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Medi 1 Sat</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/medi-1-tv/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>2M</cname>
+<item>
+<title>300</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/2m-maroc/?bitrate=300&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>2M</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/2m-maroc/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Beur</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/beur-tv/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Heya</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/arab-woman-tv/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MFM</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/mfm-tv/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Canal Atlas</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-atlas/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
 </streamingInfos>
