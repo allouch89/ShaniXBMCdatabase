@@ -1,5 +1,12 @@
 <channels>
-	
+<channel>
+	<cname>Alfallujah</cname>
+	<imageurl>http://s27.postimg.org/e2qbuz5ur/alafa.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>Almouridiyyah</cname>
 	<imageurl>http://s13.postimg.org/6vb33h1p3/unnamed.png</imageurl>
