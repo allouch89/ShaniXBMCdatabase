@@ -3969,5 +3969,177 @@
 </item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>M Tunisia</cname>
+	<item>
+	<title>streaminghd Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>streaminghd Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alinsen</cname>
+	<item>
+	<title>streaminghd Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Insen-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mazzika Zoom</cname>
+	<item>
+	<title>livestream</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=NogoumFM+-+NogoumFMTV+Live+Stream%21&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F0000000000276662%2Fb7c8c528-e94e-4354-97b5-f03f1ddc8b1f_387x581.png&amp;event_id=2582114&amp;owner_id=6297509</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Magharibia</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Almagharibia+-+Almagharibia+TV&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F0000000000331937%2F2570f57a-237a-4797-9c64-9e86bba15ee1_353x530.png&amp;event_id=3348791&amp;owner_id=9841337</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Magharibia 2</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Al+Magharibia2+-+Al+Magharibia+2&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;event_id=4426115&amp;owner_id=7861901</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CNBC Arabic</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=CNBC+Arabia+-+CNBC+Arabia+Live&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F00000000001d36f1%2F6b3d2f7f-28ec-4abc-8dff-3f26724de0f5_31x47.png&amp;event_id=1914609&amp;owner_id=3102016</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alghad Alarabi</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Al+Ghad+Al+Arabi+TV+-+Al+Ghad+Al+Arabi+News+Channel&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F0000000000239149%2F92992246-0a90-4aa1-b6a4-3cffaf5db0da_230x345.png&amp;event_id=2330953&amp;owner_id=2836938</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Canary Kids</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=4shbab+-+%D8%A7%D9%84%D8%A8%D8%AB+%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1+%D9%84%D9%82%D9%86%D8%A7%D8%A9+%D9%83%D9%86%D8%A7%D8%B1%D9%8A&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F00000000003ec47e%2F2db7f872-1906-434d-8e28-c14f47a9488d_170x255.jpg&amp;event_id=4113534&amp;owner_id=13608789</link>
+	</item>	
+</streaminginfo>
+
+<streaminginfo><cname>Alarabiya</cname><item><title>Official</title><link>http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Alarabiya Ahdas</cname><item><title>offcial</title><link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>iranproud.com</title>
+	<link>http://63.237.48.23/ios/ALMAYADEEN/ALMAYADEEN.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bzaf</cname>
+	<item>
+	<title>Med working</title>
+	<link>rtmp://ccfz.dyndns.org:4425/bzaf/livestream swfUrl=http://bzaf.tv/video-js/music/video-js/video-js.swf pageUrl=http://bzaf.tv/live_streaming.php timeout=15 live=1</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>Dzair tv</cname>
+        <item>
+            <title>High iptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+<streaminginfo>
+        <cname>KBC Algeria</cname>
+        <item>
+            <title>High iptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Elheddaf</cname>
+        <item>
+            <title>Highiptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Alwan</cname>
+        <item>
+            <title>Highiptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+
 
 </streamingInfos>
