@@ -287,13 +287,10 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>MBC 1</cname>
-	<item>
-	<title>Mix TV</title>
-	<link>rtmp://us1.uvlog.com/uvlog_video/3142 app=uvlog_video/3142 conn=S:3142 conn=S:N/A conn=S:Anonymous_422 conn=S:viewer conn=S: conn=S:99999 conn=S:true conn=S:14236528633400554db37ffb5395699971859 playpath=stream flashver=WIN\2013,0,0,214 swfUrl=http://uvlog.com/broadView.swf?rand=1236 pageUrl=http://uvlog.com live=1 timeout=15</link>
-	</item>
-</streaminginfo>
+<streaminginfo><cname>MBC 1</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC Drama</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC 1</cname><item><title>adaptive.level3.net</title><link>http://mbc4-live.hls.adaptive.level3.net/hls-live/mbc-mbc1/_definst_/live.m3u8</link></item></streaminginfo>
+
 
 <streaminginfo>
 	<cname>Alfaraeena</cname>
@@ -1937,20 +1934,7 @@
 </streaminginfo>
 
 
-<streaminginfo>
-    <cname>MBC 1</cname>
-	<item>
-	<title>Low JanJua</title>
-	<link>$doregex[url]|User-Agent=iPad</link>
-	<regex>
-	<name>url</name>
-	<expres>"(http.*?m3u8.*?)"</expres>
-	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=mbc1</page>
-	<referer>http://www.elahmad.com</referer>
-	<agent>iPad</agent>
-	</regex>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
     <cname>Alriadia Sport</cname>
@@ -1966,26 +1950,6 @@
 	</regex>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-    <cname>2M</cname>
-	<item>
-	<title>Low JanJua</title>
-	<link>$doregex[url]|User-Agent=iPad</link>
-	<regex>
-	<name>url</name>
-	<expres>"(http.*?m3u8.*?)"</expres>
-	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=2m</page>
-	<referer>http://www.elahmad.com</referer>
-	<agent>iPad</agent>
-	</regex>
-	</item>
-</streaminginfo>
-
-
-
-
-
 
 
 <streaminginfo>
