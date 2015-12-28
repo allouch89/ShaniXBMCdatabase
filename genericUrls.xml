@@ -3691,6 +3691,42 @@
 </item>
 </streaminginfo>
 <streaminginfo>
+<cname>AlGeria</cname>
+<item>
+<title>300</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-algerie/?bitrate=300&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>AlGeria</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-algerie/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
 <cname>Coran</cname>
 <item>
 <title>800</title>
