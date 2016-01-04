@@ -23,6 +23,7 @@
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
+
 <channel>
 	<cname>Aljaleya</cname>
 	<imageurl>http://s21.postimg.org/ay6pg4sxj/CHB8_97_VAAA2kei.png</imageurl>
@@ -7645,5 +7646,13 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
-
+<channel>
+<cname>Star Academy</cname>
+<imageurl>http://staracademy11.weebly.com/uploads/6/2/3/0/62306013/1444818341.png</imageurl>
+<enabled>True</enabled>
+<assignedcategory>
+<category>sham</category>
+<category>ent</category>
+</assignedcategory>
+</channel>
 </channels>
