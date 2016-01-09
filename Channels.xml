@@ -2232,7 +2232,7 @@
 </channel>
 <channel>
 	<cname>Ishtar</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ii/ishtar_tv.png</imageurl>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ii/ishtar_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>oth</category>
