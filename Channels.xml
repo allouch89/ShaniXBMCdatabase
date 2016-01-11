@@ -7,7 +7,14 @@
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
-	
+<channel>
+	<cname>UAAN</cname>
+	<imageurl>http://s15.postimg.org/bqbmat8ef/uaan_jpg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>Rushd</cname>
 	<imageurl>http://s2.postimg.org/ma34t80xh/rachd.png</imageurl>
