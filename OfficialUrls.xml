@@ -1,5 +1,18 @@
 <streamingInfos>
-	
+<streaminginfo>
+	<cname>218TV</cname>
+	<item>
+	<title>Low</title>
+	<link>http://lb218.cdn.mangomolo.com/218/smil:218.smil/chunklist_w1981601760_b450000_t64MTYwcA==.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>218TV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://lb218.cdn.mangomolo.com/218/smil:218.smil/chunklist_w1981601760_b650000_t64MzYwcA==.m3u8</link>
+	</item>
+</streaminginfo> 	
 <streaminginfo>
 	<cname>Aljaleya</cname>
 	<item>
