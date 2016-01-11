@@ -5235,17 +5235,6 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>MBC Persia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc_zps04e0a9dc.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>gulf</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>MBC 1</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc_zps04e0a9dc.png</imageurl>
 	<enabled>True</enabled>
