@@ -1,4 +1,12 @@
 <channels>
+<channel>
+	<cname>DMM</cname>
+	<imageurl>http://s1.postimg.org/ud0dk7apr/DMM.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
 	
 <channel>
 	<cname>Rushd</cname>
