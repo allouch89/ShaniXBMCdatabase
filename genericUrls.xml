@@ -1,8 +1,19 @@
 <streamingInfos>
 
-
-
-test
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+	<title>Med</title>
+	<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>DMM</cname>
+	<item>
+	<title>Med</title>
+	<link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
 <streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://stream03.fasttelco.net/4/pub/asset/12/streams.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>almouridiyyah</cname><item><title>Med</title><link>http://208.93.116.239:1935/liveroku/roku-live1/gmswf.m3u8</link></item></streaminginfo>
 
