@@ -1,4 +1,45 @@
 <channels>
+	
+<channel>
+	<cname>Rushd</cname>
+	<imageurl>http://s2.postimg.org/ma34t80xh/rachd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Qatar Alyoum</cname>
+	<imageurl>http://s30.postimg.org/dkde86t4x/8_Vew_Cv_LK.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Quest arabiya</cname>
+	<imageurl>http://s28.postimg.org/kxvgfz5u5/brand_logo_shape.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sanaa</cname>
+	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Alwaka</cname>
+	<imageurl>http://s21.postimg.org/jiqh22zx3/w0yhp_Isu.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
  <channel>
 	<cname>218TV</cname>
 	<imageurl>http://s17.postimg.org/4d5vmo227/unnamed.png</imageurl>
