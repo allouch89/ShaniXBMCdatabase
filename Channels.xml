@@ -1,5 +1,20 @@
 <channels>
-	
+<channel>
+	<cname>Alqanat</cname>
+	<imageurl>http://s28.postimg.org/8r392b3ux/logo_site.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Alqseem</cname>
+	<imageurl>http://s16.postimg.org/lmvzwexyd/qaseem.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>KSA 24</cname>
 	<imageurl>http://s22.postimg.org/eh83r2cdt/1794509_438654316287991_8810344108777139332_n.png</imageurl>
