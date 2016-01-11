@@ -1,4 +1,12 @@
 <channels>
+ <channel>
+	<cname>218TV</cname>
+	<imageurl>http://s17.postimg.org/4d5vmo227/unnamed.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>lyb</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>Alfallujah</cname>
 	<imageurl>http://s27.postimg.org/e2qbuz5ur/alafa.png</imageurl>
