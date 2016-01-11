@@ -1,4 +1,40 @@
 <streamingInfos>
+
+<streaminginfo>
+	<cname>Qatar Alyoum</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.212.95.122:1935/live/qatar/gmswf.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Alwaka</cname>
+	<item>
+	<title>Low</title>
+	<link>http://streaming.i-sat.tv:1935/live/alwaka.stream_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Khair</cname>
+	<item>
+	<title>Low</title>
+	<link>http://5.9.102.245:1935/live/khaer/gmswf.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Rushd</cname>
+	<item>
+	<title>Low</title>
+	<link>http://streaming.i-sat.tv:1935/live/rushd/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Sanaa</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8</link>
+	</item>
+</streaminginfo> 
 <streaminginfo>
 	<cname>218TV</cname>
 	<item>
