@@ -1,5 +1,14 @@
 <channels>
 <channel>
+	<cname>Star Academy</cname>
+	<imageurl>http://s13.postimg.org/p5ytspepz/D4p_M_f_If.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>music</category>
+	</assignedcategory>
+</channel>	
+<channel>
 	<cname>Elmourabiton</cname>
 	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
 	<enabled>True</enabled>
