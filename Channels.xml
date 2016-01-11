@@ -1810,15 +1810,6 @@
 	<category>lyb</category>
 	</assignedcategory>
 </channel>
-
-<channel>
-	<cname>Qatar Today</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/qq/qatar_today_tv_qa.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>i24News</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/ii/i_24_news_il.png</imageurl>
