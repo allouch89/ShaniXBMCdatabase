@@ -3614,9 +3614,10 @@
  	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=VH1</link>
 	</item>
 </streaminginfo>
+<streaminginfo><cname>star Academy</cname><item><title>farfesh</title><link>http://50.7.168.162:8081/live1/live1/live/live/chunks.m3u8</link></item></streaminginfo>
 
 <streaminginfo><cname>UAAN</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=-11zlvyWyEg</link></item></streaminginfo>
-<streaminginfo><cname>star academy</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=f6vYUyEknpQ</link></item></streaminginfo>
+<streaminginfo><cname>star Academy</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=f6vYUyEknpQ</link></item></streaminginfo>
 <streaminginfo><cname>CBC Sofra</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link></item></streaminginfo>
 <streaminginfo><cname>CBC</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link></item></streaminginfo>
 <streaminginfo><cname>CBC Drama</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link></item></streaminginfo>
