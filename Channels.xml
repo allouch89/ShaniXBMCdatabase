@@ -2328,7 +2328,7 @@
 </channel>
 <channel>
 	<cname>Ishtar</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ii/ishtar_tv.png</imageurl>
+	<imageurl>http://s19.postimg.org/ui280krgf/ishtar.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>oth</category>
@@ -4107,7 +4107,7 @@
 
 <channel>
 	<cname>Abu Dhabi Drama</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/addr_zpse511da5e.png</imageurl>
+	<imageurl>http://s19.postimg.org/i9ojpljpf/abdrama.png</imageurl>
 	<assignedcategory>
 	<category>drama</category>
 	<category>gulf</category>
@@ -4171,7 +4171,7 @@
 
 <channel>
 	<cname>Abu Dhabi</cname>
-	<imageurl>http://s7.postimg.org/c7fsykifv/abu_dhabi.png</imageurl>
+	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -4599,7 +4599,7 @@
 	
 <channel>
 	<cname>BBC Arabic</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bbc_zpsf5114c48.png</imageurl>
+	<imageurl>http://s19.postimg.org/kpqd3g1rz/bbcarabic.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>news</category>
@@ -4638,7 +4638,7 @@
 
 <channel>
 	<cname>Sama Syria</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sry_zps64083ea1.png</imageurl>
+	<imageurl>http://s19.postimg.org/fbw69n1fn/samatv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
@@ -4869,7 +4869,7 @@
 	
 <channel>
 	<cname>CBC 2</cname>
-	<imageurl>http://s23.postimg.org/vzco2x86j/cbc_two.jpg</imageurl>
+	<imageurl>http://s19.postimg.org/hy73cu39f/cbc2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>egypt</category>
@@ -5330,7 +5330,7 @@
 </channel>	
 <channel>
 	<cname>MBC 4</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bc4_zpse0038854.png</imageurl>
+	<imageurl>http://s19.postimg.org/yfphpze9v/mbc4.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
@@ -5505,7 +5505,7 @@
 
 <channel>
 	<cname>National Geo Ad</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nb_zps25f0b5a1.png</imageurl>
+	<imageurl>http://s19.postimg.org/5smhg6dxf/natgeoad.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
@@ -5852,7 +5852,7 @@
 
 <channel>
 	<cname>Spacetoon</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/spcetoon_zps055055f4.png</imageurl>
+	<imageurl>http://s19.postimg.org/78xzybgub/spacetoon.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>kids</category>
@@ -5951,7 +5951,7 @@
 
 <channel>
 	<cname>Tele Liban</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tellibn_zpsbc54e4de.png</imageurl>
+	<imageurl>http://s19.postimg.org/67xr96zur/teleliban.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -7120,7 +7120,7 @@
 </channel>
 <channel>
      <cname>AssyrSat</cname>
-     <imageurl>http://s3.postimg.org/963t1pzo3/assyriasat.jpg</imageurl>
+     <imageurl>http://s19.postimg.org/sc3bsbymb/assyrsat.png</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>oth</category>
