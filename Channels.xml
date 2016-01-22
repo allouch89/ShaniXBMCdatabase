@@ -1,5 +1,21 @@
 <channels>
-
+<channel>
+	<cname>Zaitouna Hidaya</cname>
+	<imageurl>http://s12.postimg.org/jswvqkiul/hidaya_n.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	<category>tunis</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Dubai Sport 4</cname>
+	<imageurl>http://s12.postimg.org/n1osjp4z1/image.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
 <channel>
      <cname>Almawsleya</cname>
      <imageurl>http://s13.postimg.org/fvg02e16f/Maws.png</imageurl>
