@@ -1,4 +1,24 @@
 <streamingInfos>
+	
+<streaminginfo>
+	<cname>DW Arabic</cname>
+	<url>2693</url>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>FRANCE 0</cname>
+	<url>3884</url>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>rts un</cname>
+	<url>3911</url>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>rts deux</cname>
+	<url>3914</url>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>ERI.TV</cname>
@@ -101,10 +121,7 @@
 	<url>2615</url>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>DW Arabia</cname>
-	<url>2693</url>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Rotana Clip</cname>
 	<url>2603</url>
