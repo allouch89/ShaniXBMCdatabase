@@ -1,4 +1,13 @@
 <channels>
+
+<channel>
+     <cname>Almawsleya</cname>
+     <imageurl>http://s13.postimg.org/fvg02e16f/Maws.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>iraq</category>
+     </assignedcategory>
+</channel>
 <channel>
 	<cname>Star Academy</cname>
 	<imageurl>http://s13.postimg.org/p5ytspepz/D4p_M_f_If.png</imageurl>
