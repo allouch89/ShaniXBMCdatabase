@@ -1,5 +1,13 @@
 <channels>
 <channel>
+	<cname>Hadramout</cname>
+	<imageurl>http://s13.postimg.org/4m33a9m2f/timthumb_php.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+<channel>
 	<cname>Zaitouna Hidaya</cname>
 	<imageurl>http://s12.postimg.org/jswvqkiul/hidaya_n.png</imageurl>
 	<enabled>True</enabled>
