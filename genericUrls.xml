@@ -3671,6 +3671,15 @@
 	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Al-Fallujah+Tv+Channel+-+July+21%2C+2015&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;event_id=4213685&amp;owner_id=4671269</link>
 	</item>
 </streaminginfo>
+
+<streaminginfo>
+	<cname>Hadramout</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=%5BCOLOR%3DFF00B7EB%2F%5DHadramouttv%5B%2FCOLOR%5D&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F00000000003f95a0%2Fda2eced2-646f-4ca2-95c6-5eff71d02925_2940.jpg&amp;event_id=4167072&amp;owner_id=14150926&amp;video_id=LIVE</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 	<cname>Elsharq</cname>
 	<item>
