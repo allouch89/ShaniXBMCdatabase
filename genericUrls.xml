@@ -2756,97 +2756,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-   	<cname>Melody Drama</cname>
-	<item>
-	<title>206</title>
-	<link>rtmp://38.96.148.206/Melody/MDramaWeb</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-   	<cname>Melody Drama</cname>
-	<item>
-	<title>24</title>
-	<link>http://38.96.148.24//MelodyDrama/MDrama_576p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Drama</cname>
-	<item>
-	<title>26</title>
-	<link>http://38.96.148.24//MelodyDrama/MDrama_576p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Classic</cname>
-	<item>
-	<title>206</title>
-	<link>rtmp://38.96.148.206/Melody/MClassicWeb</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Classic</cname>
-	<item>
-	<title>24</title>
-	<link>http://38.96.148.24//MelodyClassic/MClassic_576p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Aflam</cname>
-	<item>
-	<title>206</title>
-	<link>rtmp://38.96.148.206/Melody/MAflamWeb</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Classic</cname>
-	<item>
-	<title>26</title>
-	<link>http://38.96.148.26//MelodyClassic/MClassic_576p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Aflam</cname>
-	<item>
-	<title>24</title>
-	<link>http://38.96.148.24//MelodyAflam/MAflam_576p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Melody Aflam</cname>
-	<item>
-	<title>26</title>
-	<link>http://38.96.148.26//MelodyAflam/MAflam_576p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-		<cname>Melody Hits</cname>	
-		<item>
-			<title>Melody Hits.206</title>
-			<thumbnail>https://lh3.ggpht.com/-DE3GqoUaC4g/UuNmaROcywI/AAAAAAAABDM/trn-g__hU7M/s1600/melody_hits.png</thumbnail>
-			<link>rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 timeout=15</link>
-		</item>
-</streaminginfo>
-
-	<streaminginfo>
-		<cname>Melody Hits</cname>
-		<item>
-			<title>Melody Hits .24</title>
-			<thumbnail>https://lh3.ggpht.com/-DE3GqoUaC4g/UuNmaROcywI/AAAAAAAABDM/trn-g__hU7M/s1600/melody_hits.png</thumbnail>
-			<link>http://38.96.148.24//MelodyHits/MHits_576p/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
 
 <streaminginfo>        
 	<cname>Echorouk Tv</cname>
@@ -2877,11 +2787,47 @@
 </item>
 </streaminginfo>
 
-	<streaminginfo>
+
+<streaminginfo><cname>Melody Hits</cname><item><title>Low SVR2</title><link>http://38.96.148.163//MelodyHits/smil:hits.smil/chunklist_w242300260_b500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Hits</cname><item><title>Low SVR1</title><link>http://38.96.148.164//MelodyHits/smil:hits.smil/chunklist_w242300260_b500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Hits</cname><item><title>Med SVR2</title><link>http://38.96.148.163//MelodyHits/smil:hits.smil/chunklist_w242300260_b1500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Hits</cname><item><title>Med SVR1</title><link>http://38.96.148.164//MelodyHits/smil:hits.smil/chunklist_w242300260_b1500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Hits</cname><item><title>High SVR2</title><link>http://38.96.148.163//MelodyHits/smil:hits.smil/chunklist_w242300260_b2400000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Hits</cname><item><title>High SVR1</title><link>http://38.96.148.164//MelodyHits/smil:hits.smil/chunklist_w242300260_b2400000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Drama</cname><item><title>Low SVR2</title><link>http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Drama</cname><item><title>Low SVR1</title><link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Drama</cname><item><title>Med SVR2</title><link>http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b1500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Drama</cname><item><title>Med SVR1</title><link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b1500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Drama</cname><item><title>High SVR2</title><link>http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Drama</cname><item><title>High SVR1</title><link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Aflam</cname><item><title>Low SVR2</title><link>http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Aflam</cname><item><title>Low SVR1</title><link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Aflam</cname><item><title>Med SVR2</title><link>http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b1500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Aflam</cname><item><title>Med SVR1</title><link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b1500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Aflam</cname><item><title>High SVR2</title><link>http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b2400000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Aflam</cname><item><title>High SVR1</title><link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b2400000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Classic</cname><item><title>Low SVR1</title><link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Classic</cname><item><title>Low SVR2</title><link>http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Classic</cname><item><title>Med SVR2</title><link>http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b1500000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Classic</cname><item><title>Med SVR1</title><link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b1500000.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Melody Classic</cname><item><title>High SVR2</title><link>http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Melody Classic</cname><item><title>High SVR1</title><link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8</link></item></streaminginfo>
+
+<streaminginfo>
 		<cname>Melody Arabia</cname>
 		<item>
 			<title>Melody arabia HD.24 sab9a</title>
-			<thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 			<link>http://38.96.148.24/MelodyArabia/MArabia_576p/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
@@ -2890,7 +2836,6 @@
 		<cname>Melody Arabia</cname>
 		<item>
 			<title>Melody arabia HD.206</title>
-			<thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
 			<link>rtmp://38.96.148.206/Melody/ playpath=MArabiaWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 swfVfy=1 timeout=15</link>
 		</item>
 	</streaminginfo>
