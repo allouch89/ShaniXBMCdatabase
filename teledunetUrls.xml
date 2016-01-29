@@ -1,5 +1,6 @@
 <streamingInfos>
 	<streaminginfo><cname>Melody</cname><url>melody_music_hd</url></streaminginfo>
+	<streaminginfo><cname>Melody Classic</cname><url>melody_classic</url></streaminginfo>
 	<streaminginfo><cname>Melody Drama</cname><url>melody_drama_hd</url></streaminginfo>
 	<streaminginfo><cname>Melody Hits</cname><url>melody_hits_hd</url></streaminginfo>
 	<streaminginfo><cname>Melody Aflam</cname><url>melody_aflam_hd</url></streaminginfo>
@@ -175,8 +176,6 @@
 	<streaminginfo><cname>Mazzika Zoom</cname><url>mazeka_zoom</url></streaminginfo>
 	<streaminginfo><cname>Mazzika</cname><url>mazzika</url></streaminginfo>
 	<streaminginfo><cname>Medi 1 Sat</cname><url>medi_1_sat</url></streaminginfo>
-	<streaminginfo><cname>Melody Classic</cname><url>melody_classic</url></streaminginfo>
-	<streaminginfo><cname>Melody</cname><url>melody</url></streaminginfo>
 	<streaminginfo><cname>Moga Comedy</cname><url>moga_comedy</url></streaminginfo>
 	<streaminginfo><cname>Music+</cname><url>music_plus</url></streaminginfo>
 	<streaminginfo><cname>NBN</cname><url>nbn</url></streaminginfo>
