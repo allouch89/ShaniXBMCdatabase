@@ -3708,6 +3708,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Nogoum FM</cname>
+	<item>
+	<title>You need livestream addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=%5BCOLOR%3DFF00B7EB%2F%5Dnogoumfm%5B%2FCOLOR%5D&amp;event_id=2582114&amp;owner_id=6297509&amp;video_id=LIVE</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Belqees</cname>
 	<item>
 	<title>You need Livestream Addon</title>
