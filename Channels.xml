@@ -1,4 +1,13 @@
 <channels>
+
+<channel>
+	<cname>Nogoum FM</cname>
+	<imageurl>http://s29.postimg.org/4a8l344d3/tvlogo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>music</category>
+	</assignedcategory>
+</channel>
 <channel>
      <cname>Belqees</cname>
      <imageurl>http://s11.postimg.org/w8lnlxrtr/bel.jpg</imageurl>
