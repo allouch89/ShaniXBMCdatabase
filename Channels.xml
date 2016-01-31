@@ -1,5 +1,13 @@
 <channels>
 <channel>
+	<cname>Althawra</cname>
+	<imageurl>http://s9.postimg.org/7ufabvcff/althawara.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Hadramout</cname>
 	<imageurl>http://s27.postimg.org/l5t76ww2b/timthumb_php.jpg</imageurl>
 	<enabled>True</enabled>
