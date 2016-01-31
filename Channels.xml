@@ -1,5 +1,14 @@
 <channels>
 <channel>
+     <cname>Belqees</cname>
+     <imageurl>http://s11.postimg.org/w8lnlxrtr/bel.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>news</category>
+	 <category>gulf</category>
+     </assignedcategory>
+</channel>
+<channel>
 	<cname>Althawra</cname>
 	<imageurl>http://s9.postimg.org/7ufabvcff/althawara.png</imageurl>
 	<enabled>True</enabled>
