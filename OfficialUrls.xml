@@ -3847,34 +3847,8 @@
 		</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Al Nahar 2</cname>
-		<item>
-		<title>Low</title>
-		<link>http://50.7.180.18:1935/nahar1/smil:alnahar2-smil.smil/chunklist_w807401159_b332768.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Al Nahar 2</cname>
-		<item>
-		<title>Med</title>
-		<link>http://50.7.180.18:1935/nahar1/smil:alnahar2-smil.smil/chunklist_w807401159_b632768.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Al Nahar 2</cname>
-		<item>
-		<title>High</title>
-		<link>http://50.7.180.18:1935/nahar1/smil:alnahar2-smil.smil/chunklist_w807401159_b1875968.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Al Nahar 2</cname>
-		<item>
-		<title>High_master</title>
-		<link>http://50.7.180.18:1935/nahar1/smil:alnahar2-smil.smil/playlist.m3u8</link>
-		</item>
-</streaminginfo>
+
+
 
 <streaminginfo>
         <cname>Oman</cname>
