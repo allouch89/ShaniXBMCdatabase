@@ -861,17 +861,9 @@
         <cname>Al Hiwar</cname>
 	<item>
 	<title>Low</title>
-	<link>http://46.28.50.198:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Al Hiwar</cname>
-	<item>
-	<title>rtmp</title>
-	<link>rtmp://46.28.50.198:1935/livepkgr/_definst_//livestream timeout=20</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
     <cname>Mecca</cname>
 	<item>
