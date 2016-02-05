@@ -19,6 +19,6 @@
 <item>
 <title>Khaled</title>
 <link>http://Ignoreme</link>
-<externallink>http://149.202.77.235:7879/get.php?username=khaleed&password=khaleed&type=m3u</externallink>
+<externallink>http://149.202.77.235:7879/get.php?username=khaleed&amp;password=khaleed&amp;type=m3u&amp;output=mpegts</externallink>
 </item>
 
