@@ -1,10 +1,15 @@
+<item>
+<title>Private (make sure Private.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
+<link>http://Ignoreme</link>
+<externallink>Private.xml</externallink>
+</item>
+
 <item><title>Mihai</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=mihai&amp;password=mihai&amp;type=m3u&amp;output=mpegts</externallink></item>
 <item><title>Caloge</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts</externallink></item>
 <item><title>Gio</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=gioacchino&amp;password=gioacchino&amp;type=m3u&amp;output=mpegts</externallink></item>
 <item><title>Christian</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=christian&amp;password=christian&amp;type=m3u&amp;output=mpegts</externallink></item>
 <item><title>Nico</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=nico&amp;password=nico1&amp;type=m3u&amp;output=mpegts</externallink></item>
 <item><title>Pakis</title><link>Test</link><externallink>http://satloveriptv.com:8090/get.php?username=pakistan&amp;password=pakistan&amp;type=m3u&amp;output=mpegts</externallink></item>
-<item><title>Simon</title><link>Test</link><externallink>http://iptv-volkan.ddns.net:8000/get.php?username=simon&amp;password=simon&amp;type=m3u&amp;output=mpegts</externallink></item>
 
 <item>
 <title>sweb</title>
@@ -18,11 +23,7 @@
 <externallink>https://raw.githubusercontent.com/Shani-08/ShaniXBMCWork2/master/other/livestreamchanges/testfile.xml</externallink>
 </item>
 
-<item>
-<title>Private (make sure Private.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
-<link>http://Ignoreme</link>
-<externallink>Private.xml</externallink>
-</item>
+
 
 <item>
 <title>Khaled</title>
