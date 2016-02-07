@@ -5,14 +5,14 @@
 	<imageurl>http://icons.iconarchive.com/icons/dailyoverview/tv/96/television-08-icon.png</imageurl>
 </category>
 <category>
-	<id>tunis</id>
-	<catname>Tunisia</catname>
-	<imageurl>http://img.freeflagicons.com/thumb/glossy_square_icon_3d/tunisia/tunisia_640.png</imageurl>
-</category>
-<category>
 	<id>maroc</id>
 	<catname>Maroc</catname>
 	<imageurl>http://img.freeflagicons.com/thumb/glossy_square_icon_3d/morocco/morocco_640.png</imageurl>
+</category>
+<category>
+	<id>tunis</id>
+	<catname>Tunisia</catname>
+	<imageurl>http://img.freeflagicons.com/thumb/glossy_square_icon_3d/tunisia/tunisia_640.png</imageurl>
 </category>
 <category>
 	<id>dzair</id>
@@ -31,17 +31,15 @@
 	<imageurl>http://img.freeflagicons.com/thumb/glossy_square_icon_3d/libya/libya_640.png</imageurl>
 </category>
 <category>
-	<id>Iraq</id>
-	<catname>Iraq</catname>
-	<imageurl>http://img.freeflagicons.com/thumb/glossy_square_icon_3d/iraq/iraq_640.png</imageurl>
-</category>
-	
-<category>
 	<id>music</id>
 	<catname>Music</catname>
 	<imageurl>http://icons.iconarchive.com/icons/graphics-vibe/retro-social/256/music-icon.png</imageurl>
 </category>
-
+<category>
+	<id>Iraq</id>
+	<catname>Iraq</catname>
+	<imageurl>http://img.freeflagicons.com/thumb/glossy_square_icon_3d/iraq/iraq_640.png</imageurl>
+</category>
 <category>
 	<id>gulf</id>
 	<catname>Gulf</catname>
