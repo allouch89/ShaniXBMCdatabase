@@ -985,33 +985,35 @@
 	<link>http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=14691077&amp;id=gmswf</link>
 	</item>
 </streaminginfo>
+
+
 <streaminginfo>
-	<cname>Al mayaden</cname>
-	<item>
-	<title>160</title>
-	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_160p/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al mayaden</cname>
-	<item>
-	<title>240</title>
-	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al mayaden</cname>
-	<item>
-	<title>360</title>
-	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_360p/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al mayaden</cname>
-	<item>
-	<title>480</title>
-	<link>http://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat/gmswf.m3u8</link>
-	</item>
+        <cname>Al mayaden</cname>
+<item>
+<title>Low</title>
+<link>$doregex[getM3U8Header]$doregex[getCleanM3U8Tail]</link>
+<regex>
+<name>getM3U8Header</name>
+<expres>(https.*?.m3u8\?)</expres>
+<page>http://www.almayadeen.net/live</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+</regex>
+
+<regex>
+<name>getCleanM3U8Tail</name>
+<expres>$pyFunction:'$doregex[getM3U8Tail]'.replace('\u0026','&amp;')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getM3U8Tail</name>
+<expres>"(houhi.*?)","</expres>
+<page>http://www.almayadeen.net/home/liveurls</page>
+<referer>http://www.almayadeen.net/live</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+</regex>
+</item>
 </streaminginfo>
 
 <streaminginfo>
