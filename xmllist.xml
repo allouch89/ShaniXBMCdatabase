@@ -17,7 +17,16 @@
 <externallink>Private.xml</externallink>
 </item>
 
-
+<item>
+<title>Adel</title>
+<link>http://Ignoreme</link>
+<externallink>http://srvs.topiptv.org:8000/get.php?username=adal&&amp;password=adal&type=m3u&amp;output=mpegts</externallink>
+</item>
+<item>
+<title>22992</title>
+<link>http://Ignoreme</link>
+<externallink>http://178.33.231.219:88/get.php?username=22492&&amp;password=22492&type=m3u&&amp;output=mpegts</externallink>
+</item>
 <item>
 <title>Khaled</title>
 <link>http://Ignoreme</link>
