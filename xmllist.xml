@@ -25,7 +25,7 @@
 <item>
 <title>22992</title>
 <link>http://Ignoreme</link>
-<externallink>http://178.33.231.219:88/get.php?username=22492&amp;password=22492&amp;type=m3u&&amp;output=mpegts</externallink>
+<externallink>http://178.33.231.219:88/get.php?username=22492&amp;password=22492&amp;type=m3u&amp;output=mpegts</externallink>
 </item>
 
 <item><title>Mihai</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=mihai&amp;password=mihai&amp;type=m3u&amp;output=mpegts</externallink></item>
