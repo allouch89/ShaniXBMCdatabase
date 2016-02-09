@@ -5154,5 +5154,11 @@
 <streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>Med</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=730000.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>High</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=1130000.m3u8</link></item></streaminginfo>
 
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Low_240</title><link>http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=150000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Low_336</title><link>http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=350000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Med</title><link>http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=730000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>High</title><link>http://tamazight-tv.scdn.arkena.com/tamazight.isml/tamazight-audio101=64000-video=1130000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>High</title><link>http://tamazight-tv.scdn.arkena.com/tamazight.isml/manifest.m3u8</link></item></streaminginfo>
+
 
 </streamingInfos>
