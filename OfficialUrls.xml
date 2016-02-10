@@ -3816,28 +3816,28 @@
         <cname>Al Nahar</cname>
 		<item>
 		<title>Med</title>
-		<link>http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Nahar Alyoum</cname>
 	<item>
 	<title>Med</title>
-	<link>http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8</link>
+	<link>http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Al Nahar Sport</cname>
 		<item>
 		<title>High</title>
-		<link>http://stream250.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Al Nahar Drama</cname>
 		<item>
 		<title>Med</title>
-		<link>http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8</link>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8</link>
 		</item>
 </streaminginfo>
 
