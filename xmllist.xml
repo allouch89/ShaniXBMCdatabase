@@ -1,9 +1,17 @@
 
 <item>
+<title>Private (make sure Private.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
+<link>http://Ignoreme</link>
+<externallink>Private.xml</externallink>
+</item>
+<item>
 <title>Supplier</title>
 <link>http://Ignoreme</link>
 <externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
+<item><title>Rami Arabic</title><link>Test</link><externallink>http://avatarhd.no-ip.biz:3030/get.php?username=2rami1&amp;password=2rami1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Mnte Italien</title><link>Test</link><externallink>http://tvservice.webhop.me:80/get.php?username=monte&amp;password=monte&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Fratelli Italien</title><link>Test</link><externallink>http://tvservice.webhop.me:80/get.php?username=fratelli&amp;password=fratelli&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
 <item>
 <title>FranceTV</title>
@@ -23,11 +31,7 @@
 <externallink>https://raw.githubusercontent.com/Shani-08/ShaniXBMCWork2/master/other/livestreamchanges/testfile.xml</externallink>
 </item>
 
-<item>
-<title>Private (make sure Private.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
-<link>http://Ignoreme</link>
-<externallink>Private.xml</externallink>
-</item>
+
 
 <item>
 <title>Adel</title>
