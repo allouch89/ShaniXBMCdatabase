@@ -1,8 +1,8 @@
 
 <item>
-<title>KKK</title>
+<title>Supplier</title>
 <link>http://Ignoreme</link>
-<externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts</externallink>
+<externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
