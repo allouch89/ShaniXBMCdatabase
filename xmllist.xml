@@ -41,7 +41,7 @@
 </item>
 
 <item><title>Mihai</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=mihai&amp;password=mihai&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Caloge</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Caloge_test</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>Gio</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=gioacchino&amp;password=gioacchino&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>Christian</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=christian&amp;password=christian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>Nico</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=nico&amp;password=nico1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
