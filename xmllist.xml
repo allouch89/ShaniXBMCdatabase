@@ -10,6 +10,7 @@
 <externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 <item><title>Bein 1-5</title><link>Test</link><externallink>http://62.210.162.88:80/get.php?username=beIN_AR98&amp;password=115212022016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>John</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
 <item><title>Rami Arabic</title><link>Test</link><externallink>http://avatarhd.no-ip.biz:3030/get.php?username=2rami1&amp;password=2rami1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>Mnte Italien</title><link>Test</link><externallink>http://tvservice.webhop.me:80/get.php?username=monte&amp;password=monte&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
