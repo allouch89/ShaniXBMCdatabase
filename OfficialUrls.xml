@@ -3549,19 +3549,19 @@
 <streaminginfo>
 	<cname>Al Dafra</cname>
 	<item><title>low</title>
-	<link>http://live.aldafrah.tv:1935/live/aldafrah1/playlist.m3u8</link>
+	<link>http://live.aldafrah.tv:1935/live/myStream1/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Dafra</cname>
 	<item><title>Med</title>
-	<link>http://live.aldafrah.tv:1935/live/aldafrah2/playlist.m3u8</link>
+	<link>http://live.aldafrah.tv:1935/live/myStream2/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Dafra</cname>
 	<item><title>High</title>
-	<link>http://live.aldafrah.tv:1935/live/aldafrah3/playlist.m3u8</link>
+	<link>http://live.aldafrah.tv:1935/live/myStream3/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 
