@@ -4,6 +4,10 @@
 <link>http://Ignoreme</link>
 <externallink>Private.xml</externallink>
 </item>
+<item><title>5650</title><link>Test</link><externallink>http://electro-tunis.biz:8000/get.php?username=5650&amp;password=5650&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>A@kNOuch</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=A@kNOuch&amp;password=RaChId&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>haithem</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=haithem&amp;password=haithem&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
 <item>
 <title>Supplier</title>
 <link>http://Ignoreme</link>
