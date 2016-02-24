@@ -888,28 +888,9 @@
 	<link>http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Zee Aflam</cname>
-	<item>
-	<title>unknow</title>
-	<link>rtmp://176.58.79.15:1936/live/ZEEAFLAM timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al-Resalah</cname>
-	<item>
-	<title>unknow</title>
-	<link>rtmp://176.58.79.15:1936/live/ALResala timeout=20</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-	<cname>Toyor Al Janah</cname>
-	<item>
-	<title>unknow</title>
-	<link>rtmp://176.58.79.15:1936/live/Toyoraljanah timeout=20</link>
-	</item>
-</streaminginfo>
+
+
 
 <streaminginfo>
 	<cname>Sharjah</cname>
@@ -954,13 +935,7 @@
 		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>Cartoon Network</cname>
-		<item>
-		<title>176.58</title>
-		<link>rtmp://176.58.79.15:1936/live/CNARABIA timeout=20</link>
-		</item>
-</streaminginfo>
+
 
 <streaminginfo>
      <cname>Syria</cname>
@@ -3010,98 +2985,67 @@
 </streaminginfo>
 
 
+
+
+
 <streaminginfo>
-	<cname>CBC</cname>
+    <cname>Zee Aflam</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc timeout=15</link>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1aZWUrQWZsYW0%3D&amp;mode=11&amp;name=%5BCOLOR+green%5DZee+aflam+ditto%5B%2FCOLOR%5D</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
-	<cname>Cima</cname>
+    <cname>Zee Alwan</cname>
 	<item>
-		<title>live</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cima timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Comedy</cname>
-	<item>
-		<title>live</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=nilecomedy timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Cinema</cname>
-	<item>
-		<title>live</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=nilecinema timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana cinema</cname>
-	<item>
-		<title>live</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=rc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=rotanafilm timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CBC Drama</cname>
-	<item>
-		<title>live</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=cbcd swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc_drama timeout=15</link>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1aZWUrQWx3YW4%3D&amp;mode=11&amp;name=%5BCOLOR+green%5DZee+alwan+ditto%5B%2FCOLOR%5D</link>
 	</item>
 </streaminginfo>
 
 
 <streaminginfo>
-	<cname>Zee Aflam</cname>
-<item>
-<title>Ditto</title>
-<link>$doregex[url]|Referer=http://www.dittotv.com/assets/flash/jwplayer.flash.swf</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"file":"(http.*?)"</expres>
-<page>http://www.dittotv.com/channels/zee-aflam</page>
-</regex>
-</item>
+    <cname>B4U Plus</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=aXBib3g6aHR0cDovL2lwdHYtc3VwcGxpZXIuY29tOjgwMDAvbGl2ZS9tb3VtZW4vbW91bWVuLzIxMjkudHN8VXNlci1BZ2VudD1WTEMvMi4yLjEgTGliVkxDLzIuMi4xNyZJY3ktTWV0YURhdGE9MQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+ffcc00cc%5DB4u_music%0D+s1+ipbox%5B%2FCOLOR%5D</link>
+	</item>
 </streaminginfo>
-<streaminginfo><cname>Zee Alwan</cname>
-<item>
-<title>Ditto</title>
-<link>$doregex[url]|Referer=http://www.dittotv.com/assets/flash/jwplayer.flash.swf</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"file":"(http.*?)"</expres>
-<page>http://www.dittotv.com/channels/zee-alwan</page>
-</regex>
-</item>
+<streaminginfo>
+    <cname>B4U Aflam</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=aHR0cDovLzEzMC4xODUuMTQ0LjYzOjgwODEvaW5kL2I0dW1vdmllcy9wbGF5bGlzdC5tM3U4&amp;mode=37&amp;name=%5BCOLOR+green%5DB4u+movies+v3%5B%2FCOLOR%5D</link>
+	</item>
 </streaminginfo>
-<streaminginfo><cname>Zee Living</cname>
-<item>
-<title>Ditto</title>
-<link>$doregex[url]|Referer=http://www.dittotv.com/assets/flash/jwplayer.flash.swf</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"file":"(http.*?)"</expres>
-<page>http://www.dittotv.com/channels/z-living</page>
-</regex>
-</item>
+<streaminginfo>
+    <cname>B4U Aflam</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=WVA6aHR0cDovL3d3dy55dXBwdHYuY29tL2I0dV9tb3ZpZXNfbGl2ZS5odG1s&amp;mode=11&amp;name=%5BCOLOR+ffdc00cc%5DB4u+movies+live+yp%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Zee Living</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1abGl2aW5n&amp;mode=11&amp;name=%5BCOLOR+green%5DZliving+ditto%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljazeera</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1BbCtKYXplZXJhK0FyYWJpYw%3D%3D&amp;mode=11&amp;name=%5BCOLOR+green%5DAl+jazeera+arabic+ditto%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljazeera En</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1BbCtKYXplZXJh&amp;mode=11&amp;name=%5BCOLOR+green%5DAl+jazeera+ditto%5B%2FCOLOR%5D</link>
+	</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -3289,229 +3233,12 @@
 
 
 
-<streaminginfo>
-<cname>Abu Dhabi</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=abu_dhabi</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-<cname>Zee Alwan</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=zee_alwan</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Samira Tv</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=samira_tv</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-<cname>Zee Aflam</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=ze_aflam</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-<cname>MBC 3</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=mbc_3</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-<cname>MBC 4</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=mbc_4</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=mbc_bollywood</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC Drama</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=mbc_drama</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-<cname>Alhayat 1</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=alhayat_1</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Abu Dhabi Drama</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=abu_dhabi_drama</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Fox Movies</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=fox_movies</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Al Hiwar Ettounsi</cname>
-<item>
-<title>Gujal</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://www.teles-live.com/iptv/?ch=al_tunisia</page>
-<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
 
 
 
@@ -4137,74 +3864,8 @@
 
 
 
-<streaminginfo>
-        <cname>Dzair tv</cname>
-        <item>
-            <title>High iptv-planet</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-</streaminginfo>
-<streaminginfo>
-        <cname>KBC Algeria</cname>
-        <item>
-            <title>High iptv-planet</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Elheddaf</cname>
-        <item>
-            <title>Highiptv-planet</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Alwan</cname>
-        <item>
-            <title>Highiptv-planet</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <page>http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <page>http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-</streaminginfo>
+
+
 
 
 </streamingInfos>
