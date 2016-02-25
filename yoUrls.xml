@@ -11,6 +11,12 @@
             <link>rtm</link>
         </item>
     </streaminginfo>
+        <streaminginfo>
+        <cname>Al oula Maroc la3youn</cname>
+        <item>
+            <link>rtm_la3youn</link>
+        </item>
+    </streaminginfo>
     <streaminginfo>
         <cname>Medi 1 Sat</cname>
         <item>
@@ -74,7 +80,7 @@
     <streaminginfo>
         <cname>Alriadia Sport</cname>
         <item>
-            <link>alriyadiya</link>
+            <link>riyadiya</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -247,6 +253,12 @@
     </streaminginfo>
     <streaminginfo>
         <cname>Rotana Cinema</cname>
+        <item>
+            <link>rotana_cinema</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Rotana Aflam</cname>
         <item>
             <link>rotana_cinema</link>
         </item>
@@ -763,6 +775,20 @@
             <link>inews</link>
         </item>
     </streaminginfo>
+     <streaminginfo>
+        <cname>Melody</cname>
+        <item>
+            <link>melody</link>
+        </item>
+    </streaminginfo>
+    
+     <streaminginfo>
+        <cname>Melody classic</cname>
+        <item>
+            <link>melody_classic</link>
+        </item>
+    </streaminginfo>
+    
     <streaminginfo>
         <cname>Melody Aflam</cname>
         <item>
