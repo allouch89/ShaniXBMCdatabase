@@ -147,19 +147,8 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Nessma</cname>
-	<item>
-	<title>Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Nessma-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
+
+
 <streaminginfo>
 	<cname>First TV</cname>
 	<item>
@@ -167,7 +156,7 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/First-TV</page>
     <cookieJar></cookieJar>
 	</regex>
@@ -180,7 +169,7 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/Hannibal-TV</page>
     <cookieJar></cookieJar>
 	</regex>
@@ -193,7 +182,7 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/Janoubia-TV</page>
     <cookieJar></cookieJar>
 	</regex>
@@ -206,21 +195,8 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/Maghreb-24</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Telvza TV</cname>
-	<item>
-	<title>Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Telvza-TV</page>
     <cookieJar></cookieJar>
 	</regex>
 	</item>
@@ -232,7 +208,7 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/TNN</page>
     <cookieJar></cookieJar>
 	</regex>
@@ -245,7 +221,7 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/Tunisna-TV</page>
     <cookieJar></cookieJar>
 	</regex>
@@ -258,7 +234,7 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/Watania-1</page>
     <cookieJar></cookieJar>
 	</regex>
@@ -271,12 +247,66 @@
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
+    <expres>window.flashvars.src = '(.*?)'</expres>
     <page>https://www.streaminghd.tn/live/Watania-2</page>
     <cookieJar></cookieJar>
 	</regex>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>M Tunisia</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24 FR</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24-Ar</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alinsen</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Insen-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Sakinah</cname>
