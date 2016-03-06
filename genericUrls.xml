@@ -3764,45 +3764,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>M Tunisia</cname>
-	<item>
-	<title>streaminghd Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>France 24</cname>
-	<item>
-	<title>streaminghd Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/France-24</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Alinsen</cname>
-	<item>
-	<title>streaminghd Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Insen-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Nogoum FM</cname>
 	<item>
 	<title>livestream</title>
