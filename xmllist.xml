@@ -4,34 +4,15 @@
 <link>http://Ignoreme</link>
 <externallink>Private.xml</externallink>
 </item>
-<item><title>chelli</title><link>Test</link><externallink>http://iptv333.mine.nu:8000/get.php?username=chelli&amp;password=chelli&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>COBRA</title><link>Test</link><externallink>http://iptv333.mine.nu:8000/get.php?username=COBRA&amp;password=COBRA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>John</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>redbled</title><link>Test</link><externallink>http://redbled.no-ip.org:8000/get.php?username=ZUkiSACZ&amp;password=BVSE1SPr&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Yahya2</title><link>Test</link><externallink>http://srvs.topiptv.org:8000/get.php?username=Yahya2&amp;password=Yahya2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>ndasat</title><link>Test</link><externallink>http://iptv.ndasat.com:88/get.php?username=24327&amp;password=24327&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>A@kNOuch</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=A@kNOuch&amp;password=RaChId&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>moumen</title><link>Test</link><externallink>http://iptv-supplier.com:8000/get.php?username=moumen&amp;password=moumen&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>22992</title><link>http://Ignoreme</link><externallink>http://178.33.231.219:88/get.php?username=22492&amp;password=22492&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
-<item>
-<title>Supplier</title>
-<link>http://Ignoreme</link>
-<externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-</item>
-
-<item><title>Fratelli Italien</title><link>Test</link><externallink>http://tvservice.webhop.me:80/get.php?username=fratelli&amp;password=fratelli&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-
-<item>
-<title>FranceTV</title>
-<link>http://Ignoreme</link>
-<externallink>http://tvclub.fr/xbmc.m3u</externallink>
-</item>
-
-
-<item>
-<title>22992</title>
-<link>http://Ignoreme</link>
-<externallink>http://178.33.231.219:88/get.php?username=22492&amp;password=22492&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-</item>
-
-<item><title>Caloge_test</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Gio</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=gioacchino&amp;password=gioacchino&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Christian</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=christian&amp;password=christian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Nico</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=nico&amp;password=nico1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Caloge</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Gio<</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=gioacchino&amp;password=gioacchino&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
