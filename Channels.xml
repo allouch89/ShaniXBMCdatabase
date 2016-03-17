@@ -7007,6 +7007,14 @@
 	</assignedcategory>
 </channel>	
 <channel>
+	<cname>Imam Hassan</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ii/imam_hassan_tv.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+<channel>
 	<cname>CNA</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/cc/chaine_nord_africaine.jpg</imageurl>
 	<enabled>True</enabled>
