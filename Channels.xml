@@ -1,5 +1,13 @@
 <channels>
 <channel>
+	<cname>Fadak</cname>
+	<imageurl>http://s12.postimg.org/fadak.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Quran Hidayah</cname>
 	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
 	<enabled>True</enabled>
