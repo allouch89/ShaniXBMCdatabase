@@ -2,7 +2,7 @@
 <category>
 	<id>all</id>
 	<catname>All</catname>
-	<imageurl>http://icons.iconarchive.com/icons/dailyoverview/tv/96/television-08-icon.png</imageurl>
+	<imageurl>https://cdn0.iconfinder.com/data/icons/TV_icons/256/1.png</imageurl>
 </category>
 <category>
 	<id>maroc</id>
@@ -33,7 +33,7 @@
 <category>
 	<id>music</id>
 	<catname>Music</catname>
-	<imageurl>http://icons.iconarchive.com/icons/graphics-vibe/retro-social/256/music-icon.png</imageurl>
+	<imageurl>https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-71-512.png</imageurl>
 </category>
 <category>
 	<id>Iraq</id>
@@ -53,27 +53,28 @@
 <category>
 	<id>drama</id>
 	<catname>Drama</catname>
-	<imageurl>http://icons.iconarchive.com/icons/arkangl300/zero-folders/256/videos-icon.png</imageurl>
+	<imageurl>https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/theatre-512.png</imageurl>
 </category>
 <category>
 	<id>sports</id>
 	<catname>Sports</catname>
-	<imageurl>http://icons.iconarchive.com/icons/yingfengling-fl/i-love-sports/256/soccer-icon.png</imageurl>
+	<imageurl>https://cdn0.iconfinder.com/data/icons/circle-icons/512/ct-sport.png</imageurl>
 </category>
 <category>
 	<id>news</id>
 	<catname>News</catname>
-	<imageurl>http://icons.iconarchive.com/icons/pelfusion/long-shadow-ios7/256/News-icon.png</imageurl>
+	<imageurl>https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-60-512.png</imageurl>
 </category>
 <category>
-	<id>ent</id>
-	<catname>Entertainment</catname>
-	<imageurl>http://technostacks.com/wp-content/themes/technostacks/img/entertaiment.png</imageurl>
+	<id>doc</id>
+	<catname>Documentary</catname>
+	<imageurl>https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-81-512.png</imageurl>
 </category>
+
 <category>
 	<id>kids</id>
 	<catname>Kids</catname>
-	<imageurl>http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png</imageurl>
+	<imageurl>https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-72-512.png</imageurl>
 </category>
 <category>
 	<id>islam</id>
@@ -81,15 +82,16 @@
 	<imageurl>http://icons.iconarchive.com/icons/designbolts/religious-symbol/256/Islam-Crescent-icon.png</imageurl>
 </category>
 <category>
-	<id>cook</id>
-	<catname>Cooking</catname>
-	<imageurl>http://icons.iconarchive.com/icons/mcdo-design/book/256/Cook-Book-icon.png</imageurl>
+	<id>ent</id>
+	<catname>Entertainment</catname>
+	<imageurl>https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Video-Camera-2-512.png</imageurl>
 </category>
 <category>
-	<id>doc</id>
-	<catname>Documentary</catname>
-	<imageurl>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Documentary-icon.png</imageurl>
+	<id>cook</id>
+	<catname>Cooking</catname>
+	<imageurl>https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Food-Dome-512.png</imageurl>
 </category>
+
 <category>
 	<id>english</id>
 	<catname>English Channels</catname>
