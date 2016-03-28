@@ -1928,151 +1928,6 @@
 
 
 <streaminginfo>
-	<cname>2M</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://2mmonde.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>Aljazeera</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://aljazeera.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Dubai Sport 3</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://dubaisports.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV5 MONDE</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://tv5monde.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Aljazeera En</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://aljazeerainternational.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://abudhabisports1.web.tv//</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://abudhabisports.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Elsharq</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://elsharq.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
 	<cname>For Music</cname>
 	<item>
 	<title>livetvchannelsfree</title>
@@ -3825,6 +3680,115 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+<cname>Elsharq</cname>
+<item>
+ <title>[COLOR blue]360p[/COLOR]</title>
+ <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://elsharq.web.tv/</link>
+ <regex>
+ <name>url</name>
+ <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+ <page></page>
+ </regex>
+ <regex>
+ <name>get-url</name>
+ <expres>"src":"(.*?)"</expres>
+ <page>http://elsharq.web.tv/</page>
+ <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+ </regex>
+ </item>
+ </streaminginfo>
+ <streaminginfo>
+<cname>TV 5 MONDE</cname>
+<item>
+ <title>[COLOR blue]360p[/COLOR]</title>
+ <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://tv5monde.web.tv/</link>
+ <regex>
+ <name>url</name>
+ <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+ <page></page>
+ </regex>
+ <regex>
+ <name>get-url</name>
+ <expres>"src":"(.*?)"</expres>
+ <page>http://tv5monde.web.tv/</page>
+ <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+ </regex>
+ </item>
+ </streaminginfo>
+ <streaminginfo>
+<cname>Abu Dhabi Extra HD</cname>
+<item>
+ <title>[COLOR blue]360p[/COLOR]</title>
+ <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://abudhabisports.web.tv/</link>
+ <regex>
+ <name>url</name>
+ <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+ <page></page>
+ </regex>
+ <regex>
+ <name>get-url</name>
+ <expres>src":"(.*?)"</expres>
+ <page>http://abudhabisports.web.tv/</page>
+ <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+ </regex>
+ </item>
+ </streaminginfo>
+ 
+ <streaminginfo>
+<cname>Abu Dhabi Sports 1</cname>
+<item>
+ <title>[COLOR blue]360p[/COLOR]</title>
+ <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://abudhabisports1.web.tv/</link>
+ <regex>
+ <name>url</name>
+ <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+ <page></page>
+ </regex>
+ <regex>
+ <name>get-url</name>
+ <expres>src":"(.*?)"</expres>
+ <page>http://abudhabisports1.web.tv/</page>
+ <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+ </regex>
+ </item>
+ </streaminginfo>
+ <streaminginfo>
+<cname>Dubai Sport 3</cname>
+<item>
+ <title>[COLOR blue]360p[/COLOR]</title>
+ <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://dubaisports.web.tv/</link>
+ <regex>
+ <name>url</name>
+ <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+ <page></page>
+ </regex>
+ <regex>
+ <name>get-url</name>
+ <expres>src":"(.*?)"</expres>
+ <page>http://dubaisports.web.tv/</page>
+ <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+ </regex>
+ </item>
+ </streaminginfo>
+<streaminginfo>
+<cname>ZDF</cname>
+<item>
+ <title>[COLOR blue]360p[/COLOR]</title>
+ <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://zdf.web.tv/embed/live/35744</link>
+ <regex>
+ <name>url</name>
+ <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+ <page></page>
+ </regex>
+ <regex>
+ <name>get-url</name>
+ <expres>src":"(.*?)"</expres>
+ <page>http://zdf.web.tv/embed/live/35744</page>
+ <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+ </regex>
+ </item>
+ </streaminginfo>
 
 
 
