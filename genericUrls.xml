@@ -43,8 +43,22 @@
 <streaminginfo> 
 <cname>Bein Sport News</cname>
 <item>
-<title>Official</title>
+<title>[COLOR blue]540p[/COLOR]</title>
 <link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein Sport News</cname>
+<item>
+<title>[COLOR blue]720p[/COLOR]</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein Sport News</cname>
+<item>
+<title>[COLOR blue]1080p[/COLOR]</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/06.m3u8</link>
 </item>
 </streaminginfo>
 
