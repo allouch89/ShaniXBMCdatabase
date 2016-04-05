@@ -1619,7 +1619,7 @@
     <cname>Aljadeed</cname>
 	<item>
 	<title>itworkscdn low</title>
-	<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_160p/playlist.m3u8</link>
+	<link>https://svs.itworkscdn.net/aljadeedlive/aljadeed_160p/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -1627,7 +1627,7 @@
     <cname>Aljadeed</cname>
 	<item>
 		<title>itworkscdn Med</title>
-		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8</link>
+		<link>https://svs.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -1635,7 +1635,7 @@
     <cname>Aljadeed</cname>
 	<item>
 		<title>itworkscdn High</title>
-		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8</link>
+		<link>https://svs.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
