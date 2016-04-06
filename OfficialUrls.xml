@@ -1217,37 +1217,50 @@
 <streaminginfo>
 	<cname>Al Manar</cname>
 	<item>
-	<title>Low_M_256P</title>
-	<link>http://38.96.148.199:1935/liveedge1/livestream_m256p/playlist.m3u8</link>
+	<title>[COLOR pink] audio[/COLOR]</title>
+	<link>$doregex[get-link]/livestream_aac/playlist.m3u8</link>
+<regex>
+     <name>get-link</name>
+     <expres>var http_streaming_link = '(.+?)';</expres>
+     <page>http://www.almanar.com.lb/live/</page>
+</regex> 
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Manar</cname>
 	<item>
-	<title>Low_160P</title>
-	<link>http://38.96.148.199:1935/liveedge1/livestream_160p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Manar</cname>
-	<item>
-	<title>Med_240P</title>
-	<link>http://38.96.148.199:1935/liveedge1/livestream_240p/playlist.m3u8</link>
+	<title>[COLOR olive]240p[/COLOR]</title>
+	<link>$doregex[get-link]/livestream_240p/playlist.m3u8</link>
+<regex>
+     <name>get-link</name>
+     <expres>var http_streaming_link = '(.+?)';</expres>
+     <page>http://www.almanar.com.lb/live/</page>
+</regex> 
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Al Manar</cname>
 	<item>
-	<title>Med_360P</title>
-	<link>http://38.96.148.199:1935/liveedge1/livestream_360p/playlist.m3u8</link>
+	<title>[COLOR steelblue]360p[/COLOR]</title>
+	<link>$doregex[get-link]/livestream_360p/playlist.m3u8</link>
+<regex>
+     <name>get-link</name>
+     <expres>var http_streaming_link = '(.+?)';</expres>
+     <page>http://www.almanar.com.lb/live/</page>
+</regex> 
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Manar</cname>
 	<item>
-	<title>High_720P</title>
-	<link>http://38.96.148.199:1935/liveedge1/livestream_720p/playlist.m3u8</link>
+	<title>[COLOR gold]576p[/COLOR]</title>
+	<link>$doregex[get-link]/livestream_480p/playlist.m3u8</link>
+<regex>
+     <name>get-link</name>
+     <expres>var http_streaming_link = '(.+?)';</expres>
+     <page>http://www.almanar.com.lb/live/</page>
+</regex> 
 	</item>
 </streaminginfo>
 
