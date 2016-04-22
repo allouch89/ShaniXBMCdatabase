@@ -3419,7 +3419,7 @@
 </channel>
 <channel>
 	<cname>Orbit Cinema 2</cname>
-	<imageurl>http://s30.postimg.org/lznu9yea5/1151.png</imageurl>
+	<imageurl>http://s19.postimg.org/64s2el5bz/orbitcinema2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
@@ -3443,7 +3443,7 @@
 </channel>
 <channel>
 	<cname>Orbit Cinema 1</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_cinema1_arabic.png</imageurl>
+	<imageurl>http://s19.postimg.org/cxsfauw5b/orbitcinema1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
@@ -4752,7 +4752,7 @@
 
 <channel>
 	<cname>Bein Sport News</cname>
-	<imageurl>https://lh6.googleusercontent.com/-56L601mTIFA/U6kr2iiiXmI/AAAAAAAAAHw/uF4dMVWgvLs/BS%252520News.jpg</imageurl>
+	<imageurl>http://s19.postimg.org/yt50ht7i7/beinnews.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -4955,7 +4955,7 @@
 
 <channel>
 	<cname>CBC Drama</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbcdrm_zps71aabc17.png</imageurl>
+	<imageurl>http://s19.postimg.org/qq6u6hmwv/cbcdrama.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
@@ -4985,7 +4985,7 @@
    
 <channel>
 	<cname>CBC</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbc_zps770dbcaf.png</imageurl>
+	<imageurl>http://s19.postimg.org/md8ao2e67/cbcegept.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
