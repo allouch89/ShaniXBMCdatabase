@@ -491,7 +491,7 @@
 </channel>
 <channel>
      <cname>Discovery Science</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</imageurl>
+     <imageurl>http://s19.postimg.org/yldpab51b/Discovery_Science.png</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
 	 <category>Doc</category>
@@ -3023,7 +3023,7 @@
 </channel>
 <channel>
 	<cname>AlHayat_Christian</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_hayat.png</imageurl>
+	<imageurl>http://s19.postimg.org/qh5l5kim7/alhayat_christian.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>christ</category>
