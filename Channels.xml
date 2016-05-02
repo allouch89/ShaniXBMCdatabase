@@ -7817,6 +7817,14 @@
 	</assignedcategory>
 </channel>
 <channel>
+     <cname>Assyrian TV</cname>
+     <imageurl>http://s19.postimg.org/sd7kvm2wv/Assyrian_TV.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>oth</category>
+     </assignedcategory>
+</channel>
+<channel>
      <cname>ANB Sat</cname>
      <imageurl>http://s19.postimg.org/mfne522f3/ANB_Sat.jpg</imageurl>
      <enabled>True</enabled>
