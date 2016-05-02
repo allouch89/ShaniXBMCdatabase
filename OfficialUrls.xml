@@ -5220,7 +5220,13 @@
 	</regex>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Assyrian TV</cname>
+	<item>
+        <title>Official</title>
+        <link>rtmp://media.buximedia.com:1935/coa playpath=assyriantv?token=64908366 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.assyriantv.net/</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>ANB Sat</cname>
 	<item>
