@@ -3304,7 +3304,7 @@
    	<cname>NBN</cname>
 	<item>
 	<title>Low</title>
-	<link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.nbn.com.lb/live/ live=1 timeout=15</link>
+	<link>rtmp://www.teledunet.com:1935/live?idu=kananksra_cu8pcuak0q/nbn</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
