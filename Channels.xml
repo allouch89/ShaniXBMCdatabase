@@ -1,5 +1,13 @@
 <channels>
 <channel>
+	<cname>Jubaland-TV</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/jj/jubaland_tv_so.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>africa</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Fadak</cname>
 	<imageurl>http://watchfomny.tv/Video/Iran/Fadak/logo.gif</imageurl>
 	<enabled>True</enabled>
