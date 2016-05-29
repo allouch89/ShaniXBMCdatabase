@@ -3005,7 +3005,13 @@
 	<link>rtmp://ib12.islambox.tv/live/almhoqur?key=E3C514495F7B7D6C04E64D615E9733F311B948F638FCCAE21768A21BADF49C4B timeout=20</link>
 		</item>
 </streaminginfo>
-
+<streaminginfo>
+		<cname>Somali Cable TV</cname>
+		<item>
+	<title>main</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/chunks.m3u8</link>
+		</item>
+</streaminginfo>
 <streaminginfo>
 		<cname>Somali Channel</cname>
 		<item>
