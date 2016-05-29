@@ -1,5 +1,11 @@
 <streamingInfos>
-
+<streaminginfo>
+	<cname>Jubaland-TV</cname>
+	<item>
+	<title>med</title>
+	<link>http://cdn02.iqbroadcast.tv/iqb/smil:1cdd6bc995b2c46055a87cbca2ba306e.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
 <streaminginfo>
 	<cname>Elmourabiton</cname>
 	<item>
