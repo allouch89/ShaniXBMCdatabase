@@ -6318,6 +6318,14 @@
 
 <channel>
 	<cname>Echorouk Tv</cname>
+	<imageurl>https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-9/557991_183003148548469_881129537_n.jpg?oh=cfe7ce062ac628daa889bcbcc6b48058&amp;oe=57DA4C23&amp;__gda__=1473614204_184d385ec006b8ef14145257d409fb87</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>dzair</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Echorouk News</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
