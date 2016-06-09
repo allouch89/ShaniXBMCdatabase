@@ -1,4 +1,38 @@
 <channels>
+	
+<channel>
+	<cname>Bein Max 1</cname>
+	<imageurl>http://masr140.com/wp-content/uploads/2016/06/beIN-Sport-Max-1-live-300x168.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Max 2</cname>
+	<imageurl>http://masr140.com/wp-content/uploads/2016/06/beIN-Sport-Max-1-live-300x168.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Max 3</cname>
+	<imageurl>http://masr140.com/wp-content/uploads/2016/06/beIN-Sport-Max-1-live-300x168.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Max 4</cname>
+	<imageurl>http://masr140.com/wp-content/uploads/2016/06/beIN-Sport-Max-1-live-300x168.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
 <channel>
 	<cname>Jubaland-TV</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/jj/jubaland_tv_so.png</imageurl>
