@@ -1,6 +1,38 @@
 <channels>
 	
 <channel>
+	<cname>October</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Harreem AlSultan</cname>
+	<imageurl>http://s31.postimg.org/8rct21kvf/image.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>MMEClassic</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Sahour</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>africa</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Bein Max 1</cname>
 	<imageurl>http://masr140.com/wp-content/uploads/2016/06/beIN-Sport-Max-1-live-300x168.jpg</imageurl>
 	<enabled>True</enabled>
