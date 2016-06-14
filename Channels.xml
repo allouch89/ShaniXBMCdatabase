@@ -1,8 +1,26 @@
 <channels>
-	
+
 <channel>
-	<cname>October</cname>
-	<imageurl></imageurl>
+	<cname>Alrayan2</cname>
+	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Ten+2</cname>
+	<imageurl>http://s31.postimg.org/a240x98h7/ten_tv_2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alfaraeena October</cname>
+	<imageurl>http://s32.postimg.org/t2xw3eu7p/Fara_october.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>egypt</category>
@@ -18,7 +36,7 @@
 </channel>	
 <channel>
 	<cname>MMEClassic</cname>
-	<imageurl></imageurl>
+	<imageurl>http://s31.postimg.org/r2mgmk4kr/MME.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>egypt</category>
@@ -26,12 +44,13 @@
 </channel>	
 <channel>
 	<cname>Sahour</cname>
-	<imageurl></imageurl>
+	<imageurl>http://s32.postimg.org/s1fqep0mt/sahour.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>africa</category>
 	</assignedcategory>
 </channel>
+
 <channel>
 	<cname>Bein Max 1</cname>
 	<imageurl>http://masr140.com/wp-content/uploads/2016/06/beIN-Sport-Max-1-live-300x168.jpg</imageurl>
