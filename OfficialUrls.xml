@@ -1279,6 +1279,27 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Future TV</cname>
+	<item>
+	<title>[COLOR magenta]160p[/COLOR]</title>
+	<link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b215000.m3u8</link> 
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Future TV</cname>
+	<item>
+	<title>[COLOR yellow]360p[/COLOR]</title>
+	<link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b480000.m3u8</link> 
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Future TV</cname>
+	<item>
+	<title>[COLOR green]486p[/COLOR]</title>
+	<link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8</link> 
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Al Ahad</cname>
 	<item>
 	<title>Low</title>
@@ -2222,16 +2243,14 @@
 
 
 	
-	
-	
 <streaminginfo>
-	<cname>Alan</cname><item><title>Low</title><link>http://livestreaming.itworkscdn.net/alaanlive/alaantv_160p/playlist.m3u8</link></item>
+	<cname>Alan</cname><item><title>[COLOR magenta]160p[/COLOR]</title><link>http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w348360468_b200000_t64MTYwcA==.m3u8</link></item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alan</cname><item><title>Med</title><link>http://livestreaming.itworkscdn.net/alaanlive/alaantv_240p/playlist.m3u8</link></item>
+	<cname>Alan</cname><item><title>[COLOR yellow]360p[/COLOR]</title><link>http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w348360468_b500000_t64MzYwcA==.m3u8</link></item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alan</cname><item><title>High</title><link>http://livestreaming.itworkscdn.net/alaanlive/alaantv_360p/playlist.m3u8</link></item>
+	<cname>Alan</cname><item><title>[COLOR green]576p[/COLOR]</title><link>http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w348360468_b800000_t64NTc2cA==.m3u8</link></item>
 </streaminginfo>
 
 <streaminginfo>
@@ -3099,15 +3118,22 @@
 <streaminginfo>
 	<cname>Dubai</cname>
 	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b750000.m3u8</link>
+	<title>[COLOR magenta]240p[/COLOR]</title>
+	<link>http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b190000.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai</cname>
 	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b1200000.m3u8</link>
+	<title>[COLOR yellow]480p[/COLOR]</title>
+	<link>http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+	<title>[COLOR green]720p[/COLOR]</title>
+	<link>http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1600000.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3124,20 +3150,7 @@
 	<link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Dubai Drama</cname>
-	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1549159313_b750000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai Drama</cname>
-	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1549159313_b1200000.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 		<cname>EnnaharTV algerie</cname>
@@ -3969,15 +3982,22 @@
 <streaminginfo>
 	<cname>Dubai One</cname>
 	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b750000.m3u8</link>
+	<title>[COLOR magenta]240p[/COLOR]</title>
+	<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b190000.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai One</cname>
 	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b1800000.m3u8</link>
+	<title>[COLOR yellow]480p[/COLOR]</title>
+	<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai One</cname>
+	<item>
+	<title>[COLOR green]720p[/COLOR]</title>
+	<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
 	</item>
 </streaminginfo>
 

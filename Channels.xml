@@ -5249,15 +5249,7 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Dubai Drama</cname>
-	<imageurl>http://s21.postimg.org/suwts3z3r/Drama.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
+	
 <channel>
 	<cname>Dubai Zaman</cname>
 	<imageurl>http://s12.postimg.org/sj6d4a38t/zaman2_n.png</imageurl>
@@ -6974,14 +6966,7 @@
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Future News</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/future_zps15d5f945.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
+
 
 <channel>
 	<cname>Al Masar</cname>
