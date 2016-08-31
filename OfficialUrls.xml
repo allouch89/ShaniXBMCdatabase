@@ -980,21 +980,21 @@
 	<cname>Watan</cname>
 	<item>
 	<title>Low</title>
-	<link>http://104.131.83.191:8081/watantv_abr/live/watantv_main/live_480p/chunks.m3u8</link>
+	<link>http://163.172.172.72:8081/watantv_abr/live/watantv_main/live_480p/chunks.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Watan</cname>
 	<item>
 	<title>Med</title>
-	<link>http://104.131.83.191:8081/watantv_abr/live/watantv_main/live_1024p/chunks.m3u8</link>
+	<link>http://163.172.172.72:8081/watantv_abr/live/watantv_main/live_1024p/chunks.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Watan</cname>
 	<item>
 	<title>720p</title>
-	<link>http://104.131.83.191:8081/watantv_abr/live/watantv_main/live_1280p/chunks.m3u8</link>
+	<link>http://163.172.172.72:8081/watantv_abr/live/watantv_main/live_1280p/chunks.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
