@@ -1,5 +1,6 @@
 <streamingInfos>
-	<streaminginfo><cname>Toktok</cname><url>toktok_aflam </url></streaminginfo>
+
+	<streaminginfo><cname>Toktok</cname><url>toktok_aflam</url></streaminginfo>
 	<streaminginfo><cname>Melody</cname><url>melody_music_hd</url></streaminginfo>
 	<streaminginfo><cname>Melody Classic</cname><url>melody_classic</url></streaminginfo>
 	<streaminginfo><cname>Melody Drama</cname><url>melody_drama_hd</url></streaminginfo>
@@ -287,8 +288,9 @@
 	<streaminginfo><cname>Aldiyar</cname><url>al_diyar</url></streaminginfo>
 	<streaminginfo><cname>Al Kawthar</cname><url>alkawthar</url></streaminginfo>
 	<streaminginfo><cname>CCTV Arabic</cname><url>cctv</url></streaminginfo>
-    <streaminginfo><cname>Al Baghdadia 2</cname><url>al_baghdadia_2</url></streaminginfo>
-    <streaminginfo><cname>Houna Baghdad</cname><url>hona_baghdad</url></streaminginfo>
-    <streaminginfo><cname>Star Academy</cname><url>star_academy</url></streaminginfo>
-   <streaminginfo><cname>Al Ikhbaria Syria</cname><url>al_ekhbariya_al_soriya</url></streaminginfo>
+	<streaminginfo><cname>Al Baghdadia 2</cname><url>al_baghdadia_2</url></streaminginfo>
+	<streaminginfo><cname>Houna Baghdad</cname><url>hona_baghdad</url></streaminginfo>
+	<streaminginfo><cname>Star Academy</cname><url>star_academy</url></streaminginfo>
+	<streaminginfo><cname>Al Ikhbaria Syria</cname><url>al_ekhbariya_al_soriya</url></streaminginfo>
+
 </streamingInfos>
