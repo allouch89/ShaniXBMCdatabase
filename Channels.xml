@@ -7886,4 +7886,203 @@
      <category>oth</category>
      </assignedcategory>
 </channel>
+
+
+
+<channel>
+	<cname>Al Anbar</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Al Nahar Cinema</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Al Nahar Noor</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Al Sirat</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Al Turkmenia</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Al Iman</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein 1</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein 2</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein 3</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein 4</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein 5</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>CTV</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Noor Jordan</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Noor Sham</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Animal Planet</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Box Office 1</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Box Office 2</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Cinema 1</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Fight</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN First Comedy</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Series Arabic</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Star World</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Somali</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Universal Somali</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
+
+
+
+
 </channels>
