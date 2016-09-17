@@ -123,5 +123,10 @@
 	<catname>Arabic Christian</catname>
 	<imageurl>http://icons.iconarchive.com/icons/designbolts/religious-symbol/256/Christian-cross-icon.png</imageurl>
 </category>
+<category>
+	<id>new</id>
+	<catname>New</catname>
+	<imageurl></imageurl>
+</category>
 	
 </categories>
