@@ -1,6 +1,15 @@
 <channels>
 
 <channel>
+	<cname>Bein Movies 1</cname>
+	<imageurl>https://2.bp.blogspot.com/-wiVsm1Rn0Y4/V1rrDinBAeI/AAAAAAAABhU/zwRH1ZwAdHwLLWbviTfenAml66n9qngEgCLcB/s1600/Movies1HD.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>Alrayan2</cname>
 	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
 	<enabled>True</enabled>
@@ -1613,15 +1622,6 @@
 </channel>
 
 <channel>
-     <cname>Finance</cname>
-     <imageurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/59e331ba-f024-4e6d-abcf-c1eed734d512?imageType=ws_icon_large</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>doc</category>
-	 <category>french</category>
-     </assignedcategory>
-</channel>
-<channel>
      <cname>Histoire</cname>
      <imageurl>http://www.lyngsat-logo.com/hires/hh/histoire_fr.png</imageurl>
      <enabled>True</enabled>
@@ -1701,14 +1701,6 @@
 <channel>
 	<cname>MBC PRO SP4</cname>
 	<imageurl>http://4.bp.blogspot.com/-nZ2uSwoatPs/U-F8gmGBFFI/AAAAAAAAC3I/iR7f7X5_KWo/s70-p/MBC+Pro+SP4+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>.Live Ustream</cname>
-	<imageurl>http://www.samuitimes.com/wp-content/uploads/2013/07/live.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -2546,7 +2538,14 @@
 	<category>doc</category>
 	</assignedcategory>
 </channel>
-
+<channel>
+	<cname>OSN Yahala HD</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>OSN Ar</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/osnhl_zps3d76c036.png</imageurl>

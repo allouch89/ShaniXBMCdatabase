@@ -97,36 +97,6 @@
 	<link>rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link>
 	</item>	
 </streaminginfo>
-<streaminginfo>
-	<cname>Cherie 25</cname>
-	<item>
-	<title>720px HD</title>
-	<link>http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link>
-	</item>	
-</streaminginfo>
-<streaminginfo>
-	<cname>Equipe 21</cname>
-	<item>
-	<title>720px HD</title>
-	<link>http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link>
-	</item>	
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Disney</cname>
-	<item>
-	<title>404px SD</title>
-	<link>http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/5643785098.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>RMC Decouverte</cname>
-	<item>
-	<title>1080px HD</title>
-	<link>http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link>
-	</item>
-</streaminginfo>
 
 
 <streaminginfo>
@@ -786,20 +756,6 @@
 	<item>
 		<title>Halima-Live</title>
 		<link>rtmp://halima-live.com:1936/scorpion playpath=canal+fr3 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2015,0,0,152 swfVfy=true timeout=30 pageUrl=http://halima-live.com/chaine.php?cat=23&amp;id=33</link> 
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>RTL 9</cname>
-	<item>
-	<title>akamaihd</title>
-	<link>http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>RTL 9</cname>
-	<item>
-	<title>NTV</title>
-	<link>http://se-1.se.rtl9-hls.live.numericable.tv/live/hls/rtl9/ipadstream800rtl9.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -2440,39 +2396,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-    	<cname>France 24</cname>
-	<item>
-	<title>Arabic</title>
-	<link>http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-
-
-<streaminginfo>
-    	<cname>France 24 EN</cname>
-	<item>
-	<title>English</title>
-	<link>http://vipwowza.yacast.net/f24_hlslive_en/smil:iphone.fr24en.smil/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    	<cname>France 24</cname>
-	<item>
-	<title>France</title>
-	<link>http://vipwowza.yacast.net/f24_hlslive_fr/smil:iphone.fr24fr.smil/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    	<cname>France 24 FR</cname>
-	<item>
-	<title>France</title>
-	<link>http://vipwowza.yacast.net/f24_hlslive_fr/smil:iphone.fr24fr.smil/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
         <cname>Mekamleen</cname>
 	<item>
@@ -2643,15 +2567,6 @@
 		<item>
 			<title>Melody arabia HD.206</title>
 			<link>rtmp://38.96.148.206/Melody/ playpath=MArabiaWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 swfVfy=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-
-	<streaminginfo>
-  		<cname>LCI</cname>
-		<item>
-			<title>edgefcs</title>
-			<link>rtmp://cp84002.live.edgefcs.net/live playpath=eTF1-LCI-Flash-Int@15274 swfUrl=http://www.wat.tv/images/v40/PlayerWat.swf?revision=4.0.46 swfVfy=true live=true timeout=15</link>
 		</item>
 	</streaminginfo>
 	
@@ -3070,13 +2985,7 @@
 		</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>National Geo Wild</cname>
-	<item>
-	<title>PROFILE</title>
- 	<link>http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>AlYawm</cname>
@@ -3094,126 +3003,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<streaminginfo>
-	<cname>Discovery World</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Discovery History</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery+History</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Discovery Science</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery+Science</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Disney</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Disney</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Disney Junior</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Disney+Junior</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>National Geo FR</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CNN</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=CNN</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>National Geo Wild</cname>
-	<item>
-	<title>720P freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+HD</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>National Geo Wild</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+Wild</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Animal Planet</cname>
-	<item>
-	<title>freestreams SVR2</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planett</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Animal Planet</cname>
-	<item>
-	<title>freestreams SVR1</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planet</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>MTV Music</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>MTV Hits</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV+Hits</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>MTV Classic</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV+Classic</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>VH1</cname>
-	<item>
-	<title>freestreams</title>
- 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=VH1</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo><cname>star Academy</cname><item><title>farfesh</title><link>http://50.7.168.162:8081/live1/live1/live/live/chunks.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya 24</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2PFrfMe9c80</link></item></streaminginfo>
