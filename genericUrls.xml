@@ -1620,29 +1620,17 @@
 	</item>
 </streaminginfo>
 
-
 <streaminginfo>
     <cname>Aljadeed</cname>
 	<item>
-	<title>itworkscdn low</title>
-	<link>https://svs.itworkscdn.net/aljadeedlive/aljadeed_160p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Aljadeed</cname>
-	<item>
-		<title>itworkscdn Med</title>
-		<link>https://svs.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Aljadeed</cname>
-	<item>
-		<title>itworkscdn High</title>
-		<link>https://svs.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8</link>
-	</item>
+			<title>l1vetv</title>
+<link>$doregex[getlink]</link>
+<regex>
+<name>getlink</name>
+<expres>{file: "(.*?)"},</expres>
+<page>http://player.l1vetv.com/aljadeed/index-1.php</page>
+</regex>
+</item>
 </streaminginfo>
 
 <streaminginfo>
