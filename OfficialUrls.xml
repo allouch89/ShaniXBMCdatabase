@@ -111,21 +111,6 @@
 	<link>http://70.25.55.38:1935/live/aljaleyatv/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Action</cname>
-	<item>
-	<title>Action</title>
-	<link>http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=action&amp;type=.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>AB1</cname>
-	<item>
-	<title>AB1</title>
-	<link>http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=ab1&amp;type=.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
      <cname>Libya AlWataniya</cname>
@@ -3085,13 +3070,6 @@
 	<link>http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8</link>
 	</item>
 </streaminginfo>
-	<streaminginfo>
-		<cname>BFMTV</cname>
-		<item>
-			<title>m3u8</title>
-			<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Dream 1</cname>
 		<item>

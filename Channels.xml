@@ -2753,14 +2753,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Air</cname>
-	<imageurl>http://www.jumping.lu/wp-content/uploads/2013/05/logo_airtv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>french</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Weo</cname>
 	<imageurl>http://upload.wikimedia.org/wikipedia/fr/8/83/Logo_Weo.jpg</imageurl>
@@ -2785,14 +2778,7 @@
 	<category>french</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Alsace20</cname>
-	<imageurl>http://upload.wikimedia.org/wikipedia/fr/archive/6/67/20130126130920!Alsace_20_logo_2013.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>french</category>
-	</assignedcategory>
-</channel>
+
 	
 
 <channel>
