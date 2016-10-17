@@ -3704,24 +3704,7 @@
  </regex>
  </item>
  </streaminginfo>
- <streaminginfo>
-<cname>TV 5 MONDE</cname>
-<item>
- <title>[COLOR blue]360p[/COLOR]</title>
- <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0&amp;Referer=http://tv5monde.web.tv/</link>
- <regex>
- <name>url</name>
- <expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
- <page></page>
- </regex>
- <regex>
- <name>get-url</name>
- <expres>"src":"(.*?)"</expres>
- <page>http://tv5monde.web.tv/</page>
- <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
- </regex>
- </item>
- </streaminginfo>
+
  <streaminginfo>
 <cname>Abu Dhabi Extra HD</cname>
 <item>
