@@ -8010,6 +8010,8 @@
 	<category>new</category>
 	</assignedcategory>
 </channel>
+
+	
 <channel>
 	<cname>OSN Cinema 1</cname>
 	<imageurl></imageurl>
@@ -8066,8 +8068,14 @@
 	<category>new</category>
 	</assignedcategory>
 </channel>
-
-
+<channel>
+	<cname>OSN Box Office 3</cname>
+	<imageurl></imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>new</category>
+	</assignedcategory>
+</channel>
 
 
 </channels>
