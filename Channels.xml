@@ -1475,7 +1475,7 @@
 
 <channel>
 	<cname>Abu Dhabi Emirates</cname>
-	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
+	<imageurl>https://s19.postimg.org/vo9jkiv2b/emarattv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2266,7 +2266,7 @@
 
 <channel>
 	<cname>Asia Sat</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/asia_sat_tv_lb.png</imageurl>
+	<imageurl>https://s19.postimg.org/4p5opd8lf/asiatv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Iraq</category>
@@ -3787,7 +3787,7 @@
 </channel>
 <channel>
 	<cname>Euro News Arabic</cname>
-	<imageurl>http://channelsonline.howuselogiciel.com/channel/Euronews%20Arabic%20TV.jpg</imageurl>
+	<imageurl>https://s19.postimg.org/9dlokjxs3/euronewsarabic.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>news</category>
