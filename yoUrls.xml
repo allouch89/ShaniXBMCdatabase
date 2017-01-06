@@ -8,25 +8,26 @@
     <streaminginfo>
         <cname>Al oula Maroc</cname>
         <item>
-            <link>rtm</link>
+            <link>rtm_hd</link>
         </item>
     </streaminginfo>
-        <streaminginfo>
+
+   <streaminginfo>
         <cname>Al oula Maroc la3youn</cname>
         <item>
-            <link>rtm_la3youn</link>
+            <link>rtm_hd</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>Medi 1 Sat</cname>
         <item>
-            <link>rtm</link>
+            <link>medi1</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>Al Maghribia</cname>
         <item>
-            <link>maghribiya</link>
+            <link>maghribia</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -104,7 +105,7 @@
     <streaminginfo>
         <cname>MBC 1</cname>
         <item>
-            <link>mbc</link>
+            <link>mbc_1</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -152,7 +153,7 @@
     <streaminginfo>
         <cname>MBC Masr 1</cname>
         <item>
-            <link>mbc_masr1</link>
+            <link>mbc_masr</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -242,7 +243,7 @@
     <streaminginfo>
         <cname>Abu Dhabi Drama</cname>
         <item>
-            <link>abu_drama</link>
+            <link>abu_dram</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -260,7 +261,7 @@
      <streaminginfo>
         <cname>Rotana Aflam</cname>
         <item>
-            <link>rotana_cinema</link>
+            <link>rotana_aflam</link>
         </item>
     </streaminginfo>
     <streaminginfo>
