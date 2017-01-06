@@ -1,108 +1,5 @@
 <streamingInfos>
-    <streaminginfo>
-        <cname>2M</cname>
-        <item>
-            <link>2m</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Al oula Maroc</cname>
-        <item>
-            <link>rtm_hd</link>
-        </item>
-    </streaminginfo>
-
-   <streaminginfo>
-        <cname>Al oula Maroc la3youn</cname>
-        <item>
-            <link>rtm_hd</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Medi 1 Sat</cname>
-        <item>
-            <link>medi1</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Al Maghribia</cname>
-        <item>
-            <link>maghribia</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Arrabia</cname>
-        <item>
-            <link>maroc4</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Alriadia Sport</cname>
-        <item>
-            <link>erriadia</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Art Aflam 1</cname>
-        <item>
-            <link>art_aflam1</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Art Aflam 2</cname>
-        <item>
-            <link>art_aflam2</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>ART Cinema</cname>
-        <item>
-            <link>art_cinema</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>ART Hekayat</cname>
-        <item>
-            <link>hekayat_1</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>ART hekayat 2</cname>
-        <item>
-            <link>hekayat_2</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Tounesna</cname>
-        <item>
-            <link>tounesna</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Alriadia Sport</cname>
-        <item>
-            <link>riyadiya</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Cairo Drama</cname>
-        <item>
-            <link>cairo_drama</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>National Geo Ad</cname>
-        <item>
-            <link>national</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>National Geo FR</cname>
-        <item>
-            <link>national_fr</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
+      <streaminginfo>
         <cname>MBC 1</cname>
         <item>
             <link>mbc_1</link>
@@ -126,752 +23,759 @@
             <link>mbc_4</link>
         </item>
     </streaminginfo>
+     <streaminginfo>
+        <cname>MBC Max</cname>
+        <item>
+            <link>mbc_max</link>
+        </item>
+    </streaminginfo>
+    
+      <streaminginfo>
+        <cname>MBC Action</cname>
+        <item>
+            <link>mbc_action</link>
+        </item>
+    </streaminginfo>
+    
+     <streaminginfo>
+        <cname>MBC Drama</cname>
+        <item>
+            <link>mbc_drama</link>
+        </item>
+    </streaminginfo>
+    
     <streaminginfo>
         <cname>MBC Bollywood</cname>
         <item>
             <link>mbc_bollywood</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>MBC Action</cname>
+  <streaminginfo>
+        <cname>MBC Masr</cname>
         <item>
-            <link>mbc_action</link>
+            <link>mbc_masr</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>MBC Drama</cname>
-        <item>
-            <link>mbc_drama</link>
-        </item>
-    </streaminginfo>
+    
     <streaminginfo>
         <cname>MBC Masr 2</cname>
         <item>
             <link>mbc_masr2</link>
         </item>
     </streaminginfo>
+   
     <streaminginfo>
-        <cname>MBC Masr 1</cname>
+        <cname>2M</cname>
         <item>
-            <link>mbc_masr</link>
+            <link>2m</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>6Ter</cname>
+        <cname>Al oula Maroc</cname>
         <item>
-            <link>6ter</link>
+            <link>rtm_hd</link>
+        </item>
+    </streaminginfo>
+
+    <streaminginfo>
+        <cname>Medi 1 Sat</cname>
+        <item>
+            <link>medi1</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Telvza TV</cname>
+        <cname>Al Maghribia</cname>
         <item>
-            <link>telvza</link>
+            <link>maghribia</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Alriadia Sport</cname>
+        <item>
+            <link>riyadiya</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Assadissa</cname>
+        <item>
+            <link>assadisa</link>
+        </item>
+    </streaminginfo>
+    
+       <streaminginfo>
+        <cname>Tamazigh Maroc</cname>
+        <item>
+            <link>tamazight</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>FRANCE 2</cname>
-        <item>
-            <link>france_2</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>FRANCE 3</cname>
-        <item>
-            <link>france_3</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>FRANCE 4</cname>
-        <item>
-            <link>france_4</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>FRANCE 5</cname>
-        <item>
-            <link>france_5</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>M6</cname>
-        <item>
-            <link>m6</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>TF1</cname>
-        <item>
-            <link>tf1</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>BFMTV</cname>
-        <item>
-            <link>bfmtv</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>M6 Music</cname>
-        <item>
-            <link>m6_music</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>MTV Hits</cname>
-        <item>
-            <link>mtv_hits</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>MTV Dance</cname>
-        <item>
-            <link>mtv_dance</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>MTV Rocks</cname>
-        <item>
-            <link>mtv_rock</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Aljazeera</cname>
-        <item>
-            <link>jazeera</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Abu Dhabi Drama</cname>
-        <item>
-            <link>abu_dram</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Cima</cname>
-        <item>
-            <link>cima</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Rotana Cinema</cname>
+        <cname>Rotana cinema</cname>
         <item>
             <link>rotana_cinema</link>
         </item>
     </streaminginfo>
+    
      <streaminginfo>
-        <cname>Rotana Aflam</cname>
-        <item>
-            <link>rotana_aflam</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Bein 1 FR</cname>
-        <item>
-            <link>random</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Movies Action HD</cname>
-        <item>
-            <link>omn_movies_action</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Movies Premiere HD</cname>
-        <item>
-            <title>yooanime_OSN</title>
-            <link>omn_movies_premiere</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN First HD</cname>
-        <item>
-            <title>yooanime_OSN</title>
-            <link>omn_first_+2</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Movies Kids</cname>
-        <item>
-            <title>yooanime_OSN</title>
-            <link>omn_movies_kids</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Ya Hala Shabab HD</cname>
-        <item>
-            <title>yooanime_OSN</title>
-            <link>omn_ya_hala_chabab</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Orbit Series +4</cname>
-        <item>
-            <title>yooanime_OSN</title>
-            <link>omn_series_4</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Star Movies</cname>
-        <item>
-            <link>moviehd</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Star Movies</cname>
-        <item>
-            <title>yooanime star_world_hd</title>
-            <link>star_world_hd</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN MGM</cname>
-        <item>
-            <title>yooanime star_world_hd</title>
-            <link>mgm</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Yahala Drama</cname>
-        <item>
-            <title>yooanime star_world_hd</title>
-            <link>yahala</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>OSN Ya Hala Shabab HD</cname>
-        <item>
-            <link>yahala_shabab</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>B4U Plus</cname>
-        <item>
-            <link>b4u_plus</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>B4U Aflam</cname>
-        <item>
-            <link>b4u_aflam</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
         <cname>Zee Alwan</cname>
         <item>
             <link>zee_alwan</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Zee aflam</cname>
+        <cname>Zee Aflam</cname>
         <item>
             <link>zee_aflam</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Zee Living</cname>
+    
+      <streaminginfo>
+        <cname>Rotana Music</cname>
         <item>
-            <link>zee_living</link>
+            <link>rotana_music</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Hawacom</cname>
-        <item>
-            <link>hawakom</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Atfal wa Mawaheb</cname>
-        <item>
-            <link>atfal_mawaheb</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>CBC Sofra</cname>
-        <item>
-            <link>cbc_sofra</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>CBC Drama</cname>
-        <item>
-            <link>cbc_drama</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Time Cinema</cname>
-        <item>
-            <link>time_cinema</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Cima Alibaba</cname>
-        <item>
-            <link>cima_ali_baba</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Beirut Cinema</cname>
-        <item>
-            <link>beirut_cinema</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>LBC</cname>
-        <item>
-            <link>lbc_1</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Dzair Tv</cname>
-        <item>
-            <link>dzair</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
+    
+      <streaminginfo>
         <cname>Samira Tv</cname>
         <item>
             <link>samira</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Toyor Al Janah</cname>
+    
+       <streaminginfo>
+        <cname>Panorama Drama</cname>
         <item>
-            <link>toyor_janah</link>
+            <link>panorama_drama</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>El Djazairia</cname>
-        <item>
-            <link>jazayriya</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Canary Kids</cname>
-        <item>
-            <link>canary</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Ajyal</cname>
-        <item>
-            <link>ajyal</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Baraem</cname>
-        <item>
-            <link>baraem</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
+    
+      <streaminginfo>
         <cname>Taha</cname>
         <item>
             <link>taha</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>HodHod</cname>
-        <item>
-            <link>hodhod</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Star 2 Cinema</cname>
-        <item>
-            <link>star_cinema_2</link>
-        </item>
-    </streaminginfo>
+    
     <streaminginfo>
         <cname>Cima</cname>
         <item>
             <link>cima</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Darbaka Aflam</cname>
+        <cname>Cartoon Network</cname>
         <item>
-            <link>darbaka_aflam</link>
+            <link>cn_ar</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Chabab</cname>
+        <cname>Panorama film</cname>
         <item>
-            <link>shabab</link>
+            <link>panorama_film</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Al Nahar</cname>
+        <cname>Rotana Aflam</cname>
         <item>
-            <link>al-nahar</link>
+            <link>rotana_aflam</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Alfaraeena</cname>
+    
+  
+  <streaminginfo>
+        <cname>LBC</cname>
         <item>
-            <link>faraeen</link>
+            <link>lbc</link>
+        </item>
+    </streaminginfo>    
+   
+     <streaminginfo>
+        <cname>Rotana Clip</cname>
+        <item>
+            <link>rotana_clip</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Algeria 3</cname>
+        <cname>Future TV</cname>
         <item>
-            <link>a3</link>
+            <link>future</link>
         </item>
     </streaminginfo>
+     <streaminginfo>
+        <cname>Alhayat2</cname>
+        <item>
+            <link>hayat_2</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>National Geo Ad</cname>
+        <item>
+            <link>national_ar</link>
+        </item>
+    </streaminginfo>
+    
+       <streaminginfo>
+        <cname>LDC</cname>
+        <item>
+            <link>ldc</link>
+        </item>
+    </streaminginfo>
+    
+       <streaminginfo>
+        <cname>SM SM KIDS</cname>
+        <item>
+            <link>semsem</link>
+        </item>
+    </streaminginfo>
+    
+       <streaminginfo>
+        <cname>AlGeria</cname>
+        <item>
+            <link>algerie</link>
+        </item>
+    </streaminginfo>
+    
     <streaminginfo>
         <cname>AlGeria</cname>
         <item>
             <link>algerie</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Al Baghdadia</cname>
+        <cname>CBC Drama</cname>
         <item>
-            <link>baghdadiya</link>
+            <link>cbc_drama</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Al Baghdadia 2</cname>
+        <cname>Rotana Khaligi</cname>
         <item>
-            <link>baghdadiya2</link>
+            <link>rotana_khaliji</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Nessma</cname>
+        <cname>Moga Cinema</cname>
         <item>
-            <link>nessma</link>
+            <link>moga_cinema</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Tunisia national 1</cname>
+        <cname>Cairo Drama</cname>
         <item>
-            <link>tunisia_1</link>
+            <link>cairo_drama</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Tunisia national 2</cname>
+        <cname>Rotana Classic</cname>
         <item>
-            <link>tunisia_2</link>
+            <link>rotana_zaman</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Baghdad</cname>
+        <cname>Abu Dhabi Drama</cname>
         <item>
-            <link>baghdad</link>
+            <link>abu_dram</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Bein 1 FR</cname>
+        <cname>Toyor Al Janah</cname>
         <item>
-            <link>b1_fr</link>
+            <link>toyor_janah</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Bein 2 FR</cname>
-        <item>
-            <link>b2_fr</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Karameesh</cname>
-        <item>
-            <link>karamesh</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Al Hiwar</cname>
-        <item>
-            <link>al-hiwar</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Afrah</cname>
-        <item>
-            <link>afrah</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>On TV</cname>
-        <item>
-            <link>ontv</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Aljazeera EN</cname>
-        <item>
-            <link>jsc_en</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Aljazeera Mubasher Masr</cname>
-        <item>
-            <link>jsc_egy</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Aljazeera Children</cname>
-        <item>
-            <link>jsc_kids</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Al Eqtisadiyah</cname>
-        <item>
-            <link>eqtisadia</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Alarabiya</cname>
-        <item>
-            <link>alarabiya</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Alarabiya Ahdas</cname>
-        <item>
-            <link>hadath</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Albait Baitak Cinema</cname>
-        <item>
-            <link>beit_beitak</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Panorama Comedy</cname>
-        <item>
-            <link>panorama_comedy</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Assalamu Alayk</cname>
-        <item>
-            <link>salam_alik</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Tamazigh Algeria</cname>
-        <item>
-            <link>algerie4</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>CNBC Arabic</cname>
-        <item>
-            <link>cnbc_ar</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Alhayat Series</cname>
-        <item>
-            <link>hayat_serie</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Tayba</cname>
-        <item>
-            <link>taiba</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Koky Kids</cname>
-        <item>
-            <link>koky_kids</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Panorama Film</cname>
-        <item>
-            <link>panorama_film</link>
-        </item>
-    </streaminginfo>
+    
     <streaminginfo>
         <cname>Dream 1</cname>
         <item>
             <link>dream_1</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Ashorooq</cname>
+        <cname>Dream 2</cname>
         <item>
-            <link>shorooq</link>
+            <link>dream_2</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Aljadeed</cname>
+        <cname>Abu Dhabi Emirates</cname>
         <item>
-            <link>jadid</link>
+            <link>abu_emirate</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>First TV</cname>
-        <item>
-            <link>first</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Tele Liban</cname>
-        <item>
-            <link>tele-liban</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Egypt 2</cname>
-        <item>
-            <link>esc_2</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Quran TV ksa</cname>
-        <item>
-            <link>qoran</link>
-        </item>
-    </streaminginfo>
-    <streaminginfo>
-        <cname>Dubai Sport 1</cname>
-        <item>
-            <link>dubai_sport1</link>
-        </item>
-    </streaminginfo>
+    
     <streaminginfo>
         <cname>Dubai One</cname>
         <item>
             <link>dubai_one</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
-        <cname>Maghreb24</cname>
+        <cname>Hanibal</cname>
         <item>
-            <link>m24</link>
+            <link>hanibal</link>
         </item>
     </streaminginfo>
+    
     <streaminginfo>
+        <cname>Tounesna</cname>
+        <item>
+            <link>tounesna</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Tunisia national 1</cname>
+        <item>
+            <link>tunisia_1</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Yemen</cname>
+        <item>
+            <link>yemen</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Spacetoon</cname>
+        <item>
+            <link>spacetoon</link>
+        </item>
+    </streaminginfo>
+   
+      <streaminginfo>
+        <cname>Panorama Drama 2</cname>
+        <item>
+            <link>panorama_drama2</link>
+        </item>
+    </streaminginfo>
+
+      <streaminginfo>
+        <cname>Rotana Masriya</cname>
+        <item>
+            <link>rotana_masriya</link>
+        </item>
+    </streaminginfo>
+      <streaminginfo>
+        <cname>MTV</cname>
+        <item>
+            <link>mtv</link>
+        </item>
+    </streaminginfo>
+      <streaminginfo>
+        <cname>Cairo Cinema</cname>
+        <item>
+            <link>cairo_cinema</link>
+        </item>
+    </streaminginfo>
+  <streaminginfo>
+        <cname>Baraem</cname>
+        <item>
+            <link>baraem</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>CBC</cname>
+        <item>
+            <link>cbc</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Dubai</cname>
+        <item>
+            <link>dubai</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Nile Tv</cname>
+        <item>
+            <link>nile_tv</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Nile Cinema</cname>
+        <item>
+            <link>nile_cinema</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Nile Life</cname>
+        <item>
+            <link>nile_life</link>
+        </item>
+    </streaminginfo>
+    
+     <streaminginfo>
+        <cname>Nile Comedy</cname>
+        <item>
+            <link>nile_comedy</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Nile Sport</cname>
+        <item>
+            <link>nile_sport</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Nile Drama</cname>
+        <item>
+            <link>nile_drama2</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Nile News</cname>
+        <item>
+            <link>nile_news</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Nile Family</cname>
+        <item>
+            <link>nile_family</link>
+        </item>
+    </streaminginfo>
+       <streaminginfo>
+        <cname>Nessma</cname>
+        <item>
+            <link>nessma</link>
+        </item>
+    </streaminginfo>
+       <streaminginfo>
+        <cname>Aljadeed</cname>
+        <item>
+            <link>jadeed</link>
+        </item>
+    </streaminginfo>
+       <streaminginfo>
         <cname>AlQahera W Elnas</cname>
         <item>
-            <link>qahera_wnass</link>
+            <link>kahera_nass</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Alghad Alarabi</cname>
+    
+       <streaminginfo>
+        <cname>AlQahera W Elnas 2</cname>
         <item>
-            <link>alghad</link>
+            <link>kahera_nass2</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Alqithara</cname>
+    
+      
+       <streaminginfo>
+        <cname>Al Lubnania</cname>
         <item>
-            <link>guitara</link>
+            <link>lubnania</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
+    
+      
+       <streaminginfo>
+        <cname>Al Majd</cname>
+        <item>
+            <link>majd</link>
+        </item>
+    </streaminginfo>
+    
+      
+       <streaminginfo>
         <cname>Time Comedy</cname>
         <item>
             <link>time_comedy</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>i24News</cname>
+    
+     <streaminginfo>
+        <cname>Karameesh</cname>
         <item>
-            <link>inews</link>
+            <link>karamesh</link>
         </item>
     </streaminginfo>
-     <streaminginfo>
-        <cname>Melody</cname>
+      
+       <streaminginfo>
+        <cname>Koky Kids</cname>
         <item>
-            <link>melody</link>
+            <link>koky</link>
         </item>
     </streaminginfo>
     
-     <streaminginfo>
-        <cname>Melody classic</cname>
+      
+       <streaminginfo>
+        <cname>Algeria 3</cname>
         <item>
-            <link>melody_classic</link>
+            <link>a3</link>
+        </item>
+    </streaminginfo>
+    
+     
+       <streaminginfo>
+        <cname>Al Hiwar Ettounsi</cname>
+        <item>
+            <link>hiwar_tounsi</link>
+        </item>
+    </streaminginfo>
+     
+       <streaminginfo>
+        <cname>Time cinema</cname>
+        <item>
+            <link>time_cinema</link>
+        </item>
+    </streaminginfo>
+     
+       <streaminginfo>
+        <cname>Time Drama</cname>
+        <item>
+            <link>time_drama</link>
+        </item>
+    </streaminginfo>
+     
+       <streaminginfo>
+        <cname>Star Cinema</cname>
+        <item>
+            <link>star_cinema1</link>
+        </item>
+    </streaminginfo>
+     
+       <streaminginfo>
+        <cname>Star 2 Cinema</cname>
+        <item>
+            <link>star_cinema2</link>
+        </item>
+    </streaminginfo>
+    
+      <streaminginfo>
+        <cname>Sada Al Balad</cname>
+        <item>
+            <link>sada_balad</link>
+        </item>
+    </streaminginfo>
+    
+      <streaminginfo>
+        <cname>Sada AlBalad Drama</cname>
+        <item>
+            <link>sada_drama</link>
+        </item>
+    </streaminginfo>
+    
+      <streaminginfo>
+        <cname>A1 Jordan</cname>
+        <item>
+            <link>a1</link>
+        </item>
+    </streaminginfo>
+    
+      <streaminginfo>
+        <cname>Imagines Movies</cname>
+        <item>
+            <link>imagine_movies</link>
         </item>
     </streaminginfo>
     
     <streaminginfo>
-        <cname>Melody Aflam</cname>
+        <cname>AL AHLY</cname>
         <item>
-            <link>melody_aflam</link>
+            <link>ahly</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Al Nahar</cname>
+        <item>
+            <link>nahar</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Al Nahar 2</cname>
+        <item>
+            <link>nahar2</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Al Nahar Sports</cname>
+        <item>
+            <link>nahar_sport</link>
+        </item>
+    </streaminginfo>
+    
+    <streaminginfo>
+        <cname>Al Nahar Cinema</cname>
+        <item>
+            <link>nahar_movie</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Alfajr Int</cname>
+        <cname>Al Nahar Drama</cname>
         <item>
-            <link>fajr</link>
+            <link>nahar_drama</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Sky Movies</cname>
+        <cname>Bein Movies 1</cname>
         <item>
-            <link>rtm</link>
+            <link>bein_movie1</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Scope</cname>
+        <cname>Bein Movies 2</cname>
         <item>
-            <link>scoop</link>
+            <link>bein_movie2</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Aldar</cname>
+        <cname>Bein Movies 3</cname>
         <item>
-            <link>addar</link>
+            <link>bein_movie3</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Dzair tv</cname>
+        <item>
+            <link>dzair</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Dubai</cname>
+        <item>
+            <link>dubai</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Dubai One</cname>
+        <item>
+            <link>dubai_one</link>
+        </item>
+    </streaminginfo> 
+    <streaminginfo>
+        <cname>Noor Dubai</cname>
+        <item>
+            <link>noor_dubai</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Alahad</cname>
+        <cname>Sama Dubai</cname>
         <item>
-            <link>alahad</link>
+            <link>sama_dubai</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Palestine</cname>
+        <item>
+            <link>palestine</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Palestine Live</cname>
+        <item>
+            <link>palestinian</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Palestine AlYawm</cname>
+        <item>
+            <link>palestineAlYawm</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Al Forat</cname>
+        <cname>Zweina Bladna</cname>
         <item>
-            <link>forat</link>
+            <link>zwinabladi</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>SSTV</cname>
+        <cname>OSN First HD</cname>
         <item>
-            <link>sstv</link>
+            <link>osn-first</link>
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Al-Hurria</cname>
+        <cname>>OSN Movies HD +2</cname>
         <item>
-            <link>hurra</link>
+            <link>osn-moviehd</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Majan</cname>
+     <streaminginfo>
+        <cname>>Bein Sport 1</cname>
         <item>
-            <link>majan</link>
+            <link>bein_sport1</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>ALFALASTINIAH</cname>
+     <streaminginfo>
+        <cname>>Bein Sport 2</cname>
         <item>
-            <link>falastinia</link>
+            <link>bein_sport2</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Al-hurra Iraq</cname>
+     <streaminginfo>
+        <cname>>Bein Sport 3</cname>
         <item>
-            <link>hurra_iraq</link>
+            <link>bein_sport3</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>HCTV</cname>
+     <streaminginfo>
+        <cname>>Bein Sport 4</cname>
         <item>
-            <link>hctv</link>
+            <link>bein_sport4</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>KTV ARABE</cname>
+     <streaminginfo>
+        <cname>>Bein Sport 5</cname>
         <item>
-            <link>arabic_doc</link>
+            <link>bein_sport5</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>>Bein Sport 6</cname>
+        <item>
+            <link>bein_sport6</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>>Bein Sport 7</cname>
+        <item>
+            <link>bein_sport7</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>>Bein Sport 8</cname>
+        <item>
+            <link>bein_sport8</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>>Bein Sport 9</cname>
+        <item>
+            <link>bein_sport9</link>
+        </item>
+    </streaminginfo>
+     <streaminginfo>
+        <cname>Bein Sport 10</cname>
+        <item>
+            <link>bein_sport10</link>
         </item>
     </streaminginfo>
 </streamingInfos>
