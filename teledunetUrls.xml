@@ -125,12 +125,7 @@
 	<streaminginfo><cname>Karameesh</cname><url>karameesh</url></streaminginfo>
 	<streaminginfo><cname>Cartoon Network</cname><url>cartoon_network</url></streaminginfo>
 	<streaminginfo><cname>Ajyal</cname><url>ajyal</url></streaminginfo>
-        <streaminginfo><cname>Bein 1</cname><url>bein_1</url></streaminginfo>
-	<streaminginfo><cname>Bein 2</cname><url>bein_2</url></streaminginfo>
-	<streaminginfo><cname>Bein 3</cname><url>bein_3</url></streaminginfo>
-	<streaminginfo><cname>Bein 4</cname><url>bein_4</url></streaminginfo>
-	<streaminginfo><cname>Bein 5</cname><url>bein_5</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 1</cname><url>bein_sport_1</url></streaminginfo>
+       	<streaminginfo><cname>Bein Sport 1</cname><url>bein_sport_1</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 2</cname><url>bein_sport_2</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 3</cname><url>bein_sport_3</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 4</cname><url>bein_sport_4</url></streaminginfo>
@@ -266,7 +261,6 @@
 	<streaminginfo><cname>OSN Movies Action HD</cname><url>osn_movies_action_2_hd</url></streaminginfo>
 	<streaminginfo><cname>OSN Movies Drama</cname><url>osn_movies_drama</url></streaminginfo>
 	<streaminginfo><cname>OSN Movies HD +2</cname><url>osn_movies_hd</url></streaminginfo>
-	<streaminginfo><cname>OSN Movies Kids</cname><url>osn_movies_kids</url></streaminginfo>
 	<streaminginfo><cname>OSN Movies Premiere HD</cname><url>osn_movies_premier</url></streaminginfo>
 	<streaminginfo><cname>OSN Series Arabic</cname><url>osn_series_arabic</url></streaminginfo>
 	<streaminginfo><cname>OSN Ya Hala Shabab HD</cname><url>osn_shabab</url></streaminginfo>
