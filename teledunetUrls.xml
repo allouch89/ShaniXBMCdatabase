@@ -241,8 +241,8 @@
 	<streaminginfo><cname>Kuwait</cname><url>kuwait</url></streaminginfo>
 	<streaminginfo><cname>Funoon</cname><url>funoon</url></streaminginfo>
         <streaminginfo><cname>Oman</cname><url>oman</url></streaminginfo>
-	<streaminginfo><cname>Bahrain</cname><url>bahrain</url></streaminginfo>	<streaminginfo><cname>Al Alam</cname><url>al_alam</url></streaminginfo>
-	<streaminginfo><cname>ETV Ethiopia</cname><url>etv</url></streaminginfo>
+	<streaminginfo><cname>Bahrain</cname><url>bahrain</url></streaminginfo>	
+         <streaminginfo><cname>ETV Ethiopia</cname><url>etv</url></streaminginfo>
 	<streaminginfo><cname>EBC Ethiopia</cname><url>ebc_ethiopia</url></streaminginfo>
 	<streaminginfo><cname>Oromia TV</cname><url>oromia_tv</url></streaminginfo>	
         <streaminginfo><cname>Tchad</cname><url>tchad</url></streaminginfo>
