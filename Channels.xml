@@ -1742,6 +1742,16 @@
 	<category>news</category>
 	</assignedcategory>
 </channel>
+	
+	<channel>
+	<cname>Dzair tv</cname>
+	<imageurl>http://img11.hostingpics.net/pics/809386140224051734418406.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>dzair</category>
+	
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Mody Kids</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/mm/mody_kids_channel.png</imageurl>
