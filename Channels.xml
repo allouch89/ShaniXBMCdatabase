@@ -8,6 +8,24 @@
 	<category>drama</category>
 	</assignedcategory>
 </channel>
+	
+	<channel>
+	<cname>Bein Movies 2</cname>
+	<imageurl>http://www.kolalbalad.com/media/k2/items/cache/1d1408e4e294e66373eaa690c4062382_XL.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Movies 3</cname>
+	<imageurl>http://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Alrayan2</cname>
@@ -654,7 +672,7 @@
 </channel>
 <channel>
 	<cname>ESTV</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/ethiopia_somali_tv.png</imageurl>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/_somali_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>africa</category>
@@ -1724,6 +1742,16 @@
 	<category>news</category>
 	</assignedcategory>
 </channel>
+	
+	<channel>
+	<cname>Dzair tv</cname>
+	<imageurl>http://img11.hostingpics.net/pics/809386140224051734418406.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>dzair</category>
+	
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Mody Kids</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/mm/mody_kids_channel.png</imageurl>
@@ -2109,6 +2137,27 @@
 	<category>Iraq</category>
 	</assignedcategory>
 </channel>
+	
+	<channel>
+	<cname>Kurdsat</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/496778778916683776/ne5X8SCL.jpeg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Kurdsat News</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/436546339355123713/47oJPpa6.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	<category>News</category>	
+	</assignedcategory>
+</channel>
+	
+	
 
 <channel>
 	<cname>Kanal 4</cname>
@@ -3974,7 +4023,27 @@
 	<assignedcategory>
 	<category>africa</category>
 	</assignedcategory>
-</channel>	
+</channel>
+	
+	
+	<channel>
+	<cname>EBC Ethiopia</cname>
+	<imageurl>http://aigaforum.com/images/ebc.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>africa</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Oromia TV</cname>
+	<imageurl>http://www.bilisummaa.com/wp-content/uploads/2014/06/tv-oromiyaa.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>africa</category>
+	</assignedcategory>
+		
+</channel>
 
 <channel>
 	<cname>ART Hekayat</cname>
@@ -4451,7 +4520,18 @@
 	<assignedcategory>
 	<category>Iraq</category>
 	</assignedcategory>
-</channel>	
+</channel>
+	
+	<channel>
+	<cname>Al Ahd</cname>
+	<imageurl>http://ing-sat.what.hu/images/logo-insert/satlogos/iraq/204-Al-Ahd-Sat-Ch[1].jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+	
+	
 
 <channel>
 	<cname>Al Sumaria</cname>
@@ -5816,7 +5896,27 @@
 	<category>news</category>
 	<category>egypt</category>
 	</assignedcategory>
-</channel>	
+</channel>
+	
+	<channel>
+	<cname>On E</cname>
+	<imageurl>https://4.bp.blogspot.com/-C2sQLOOlVYI/V_fGjFuJvkI/AAAAAAAAM_g/cZ1hYSmJnxoPuD9J5RO4QejPBPQ8edfagCLcB/s320/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2588%25D9%2586%2B%25D8%25A7%25D9%258A%2BON%2BE.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>On Sport</cname>
+	<imageurl>https://3.bp.blogspot.com/-EWuV5AMKY7o/V9QZCpjKjaI/AAAAAAAAAiE/x-QeVjHpzuc6YMcJt1XMyqB_0p4ZgSUHQCLcB/s640/on-sport-channel-frequency-nilesat.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Rotana Aflam</cname>
