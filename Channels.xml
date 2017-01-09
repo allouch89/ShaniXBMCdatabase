@@ -6473,14 +6473,6 @@
 </channel>	
 
 
-<channel>
-	<cname>Dzair tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dzer_zpseefbfe79.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>dzair</category>
-	</assignedcategory>
-</channel>
  <channel>
 	<cname>Algerie 24</cname>
 	<imageurl>http://www.teledunet.com/player/icones/dzair_24.jpg</imageurl>
