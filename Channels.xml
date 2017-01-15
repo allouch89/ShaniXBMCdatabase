@@ -1,5 +1,12 @@
 <channels>
-
+<channel>
+	<cname>Bein CAN 2017</cname>
+	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2016/09/CAN-2017-Gabon-Fr-Full-Colour-236x300.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Bein Movies 1</cname>
 	<imageurl>https://2.bp.blogspot.com/-wiVsm1Rn0Y4/V1rrDinBAeI/AAAAAAAABhU/zwRH1ZwAdHwLLWbviTfenAml66n9qngEgCLcB/s1600/Movies1HD.jpg</imageurl>
