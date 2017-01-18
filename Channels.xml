@@ -27,10 +27,7 @@
 	</assignedcategory>
 </channel>
 	
-	
-
-
-	
+		
 
 <channel>
 	<cname>Alrayan2</cname>
@@ -5079,7 +5076,36 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>
+	<channel>
+	<cname>Bein Sport 1 FR</cname>
+	<imageurl>https://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s300-c/BeinSportHD1fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
 
+	<channel>
+	<cname>Bein Sport 2 FR</cname>
+	<imageurl>https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s200/BeinSportHD2fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Sport 3 FR</cname>
+	<imageurl>https://3.bp.blogspot.com/-nDBpZe5We-c/VnaliFnRvjI/AAAAAAAAAyA/WnTdps7g7mYYbtMOv3WJAA3k8eT29jAcQ/s200/BeinSportHD3fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+	
+	
+	
 <channel>
 	<cname>BAHRAIN SPORTS</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bhrinsport_zps0d9b45b2.png</imageurl>
