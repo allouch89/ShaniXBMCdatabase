@@ -56,11 +56,11 @@
 	<category>french</category>
     </assignedcategory>
 </channel>	
-<channel>
+
+	<channel>
 	<cname>Ushuaia</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/uu/ushuaia.png</imageurl>
 	<enabled>True</enabled>
-	<assignedcategory>
 	<assignedcategory>
 	<category>egypt</category>
 	</assignedcategory>
@@ -4339,6 +4339,15 @@
 <channel>
 	<cname>Abu Dhabi Sports 2</cname>
 	<imageurl>http://s4.postimg.org/lqap9r9zx/Abu_dhabi_sport2.jpg</imageurl>
+	<enabled>True</enabled>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+	<channel>
+	<cname>Abu Dhabi Sports 4</cname>
+	<imageurl>http://ulango.tv/uploads/channels/11085/logo_abu%20dhabi%20sports%204.png</imageurl>
 	<enabled>True</enabled>
 	<enabled>True</enabled>
 	<assignedcategory>
