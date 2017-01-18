@@ -1,50 +1,53 @@
-	<imageurl>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_lam.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	<category>french</category>
-    	</assignedcategory>
-</channel>	
+<channels>
+
 <channel>
-	<cname>Planete Plus</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/pp/planete_plus.png</imageurl>
+	<cname>Bein Movies 1</cname>
+	<imageurl>https://2.bp.blogspot.com/-wiVsm1Rn0Y4/V1rrDinBAeI/AAAAAAAABhU/zwRH1ZwAdHwLLWbviTfenAml66n9qngEgCLcB/s1600/Movies1HD.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>french</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Movies 2</cname>
+	<imageurl>https://3.bp.blogspot.com/-UwMFq9llJ1o/V1rqzzrpfkI/AAAAAAAABhM/zSVyk6vnzasDvxh4H2U4Vfn7rwv3Wot7wCLcB/s200/Movies2HD.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Movies 3</cname>
+	<imageurl>http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies3.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+	
+	
+
+
+	
+
+<channel>
+	<cname>Alrayan2</cname>
+	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
 	</assignedcategory>
 </channel>	
+
 <channel>
-	<cname>Planete Thalassa</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/pp/planete_plus_thalassa.png</imageurl>
+	<cname>Ten+2</cname>
+	<imageurl>http://s31.postimg.org/a240x98h7/ten_tv_2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>french</category>
-    </assignedcategory>
-</channel>	
-<channel>
-	<cname>Serie Club</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/serieclub931231.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>french</category>
-    </assignedcategory>
-</channel>	
-<channel>
-	<cname>SyFy</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/syfy_universal_asia.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>french</category>
-    </assignedcategory>
-</channel>	
-<channel>
-	<cname>TF6</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/tt/tf6.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>french</category>
-    </assignedcategory>
-</channel>	
+	<category>egypt</category>
+	</assignedcategory>
 <channel>
 	<cname>TV5 Monde Europe</cname>
 	<imageurl>http://tvron.net/static/canal/tv5-monde-europe.png</imageurl>
@@ -7653,8 +7656,8 @@
     </assignedcategory>
 </channel>	
 <channel>
-	<cname>TV5 Monde Orient</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tv5_monde_orient.png</imageurl>
+	<cname>TV5 Monde Europe</cname>
+	<imageurl>https://eng.thematv.ru/medias/channels/tv5monde/tv5monde_logo_rvb.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>french</category>
