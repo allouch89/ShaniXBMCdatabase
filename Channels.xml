@@ -45,7 +45,9 @@
 	<assignedcategory>
 	<category>egypt</category>
 	</assignedcategory>
-<channel>
+</channel>
+	
+	<channel>
 	<cname>TV5 Monde Europe</cname>
 	<imageurl>http://tvron.net/static/canal/tv5-monde-europe.png</imageurl>
 	<enabled>True</enabled>
