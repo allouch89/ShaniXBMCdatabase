@@ -1,12 +1,5 @@
 <channels>
-<channel>
-	<cname>Bein CAN 2017</cname>
-	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2016/09/CAN-2017-Gabon-Fr-Full-Colour-236x300.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Bein Movies 1</cname>
 	<imageurl>https://2.bp.blogspot.com/-wiVsm1Rn0Y4/V1rrDinBAeI/AAAAAAAABhU/zwRH1ZwAdHwLLWbviTfenAml66n9qngEgCLcB/s1600/Movies1HD.jpg</imageurl>
@@ -18,7 +11,7 @@
 	
 	<channel>
 	<cname>Bein Movies 2</cname>
-	<imageurl>http://www.kolalbalad.com/media/k2/items/cache/1d1408e4e294e66373eaa690c4062382_XL.jpg</imageurl>
+	<imageurl>https://3.bp.blogspot.com/-UwMFq9llJ1o/V1rqzzrpfkI/AAAAAAAABhM/zSVyk6vnzasDvxh4H2U4Vfn7rwv3Wot7wCLcB/s200/Movies2HD.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
@@ -27,12 +20,14 @@
 	
 	<channel>
 	<cname>Bein Movies 3</cname>
-	<imageurl>http://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png</imageurl>
+	<imageurl>http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies3.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
 	</assignedcategory>
 </channel>
+	
+		
 
 <channel>
 	<cname>Alrayan2</cname>
@@ -46,6 +41,24 @@
 <channel>
 	<cname>Ten+2</cname>
 	<imageurl>http://s31.postimg.org/a240x98h7/ten_tv_2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>TV5 Monde Europe</cname>
+	<imageurl>http://tvron.net/static/canal/tv5-monde-europe.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>french</category>
+    </assignedcategory>
+</channel>	
+
+	<channel>
+	<cname>Ushuaia</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/uu/ushuaia.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>egypt</category>
@@ -4331,6 +4344,15 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
+	<channel>
+	<cname>Abu Dhabi Sports 4</cname>
+	<imageurl>http://ulango.tv/uploads/channels/11085/logo_abu%20dhabi%20sports%204.png</imageurl>
+	<enabled>True</enabled>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Abu Dhabi Extra HD</cname>
 	<imageurl>http://s22.postimg.org/pqerg9qbh/yes.png</imageurl>
@@ -5037,8 +5059,55 @@
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
-</channel>	
+</channel>
+	
+	<channel>
+	<cname>Bein Sport 1 Max</cname>
+	<imageurl>https://4.bp.blogspot.com/-b2WeUaelFxw/V1oKVhvLHRI/AAAAAAAAEsk/tWiIzlx7DhgOyfvyM4qjtRB7PeQe8VEEACLcB/s1600/_jajok_photo_1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Sport 2 Max</cname>
+	<imageurl>https://2.bp.blogspot.com/-STlRul91zEI/V1oNBibHesI/AAAAAAAAEtQ/c34t5jes2d4pKeIibZBPAR9UYscdEsCIACLcB/s1600/_jajok_photo_1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	<channel>
+	<cname>Bein Sport 1 FR</cname>
+	<imageurl>https://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s300-c/BeinSportHD1fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
 
+	<channel>
+	<cname>Bein Sport 2 FR</cname>
+	<imageurl>https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s200/BeinSportHD2fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Sport 3 FR</cname>
+	<imageurl>https://3.bp.blogspot.com/-nDBpZe5We-c/VnaliFnRvjI/AAAAAAAAAyA/WnTdps7g7mYYbtMOv3WJAA3k8eT29jAcQ/s200/BeinSportHD3fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+	
+	
+	
 <channel>
 	<cname>BAHRAIN SPORTS</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bhrinsport_zps0d9b45b2.png</imageurl>
@@ -5135,6 +5204,26 @@
 	</assignedcategory>
 </channel>	
 
+	<channel>
+	<cname>DMC</cname>
+	<imageurl>https://1.bp.blogspot.com/-ZMUIyPPzJ-4/V6oVwbjxHxI/AAAAAAAAB5E/dyLSQ4G2ChYyjBSxArtpVEM0FaVFTTWAACLcB/s320/8db4bd6adce8c1f.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>DMC Drama</cname>
+	<imageurl>https://3.bp.blogspot.com/-pM8-xqXxm4c/WHKCpwEp7NI/AAAAAAAANRg/8YQ4YmBvc1MP3mLi8kmbYBcp120hNB1NgCLcB/s400/dmc-drama.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+	
+	
 <channel>
 	<cname>Cairo Cinema</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/cc/cairo_cinema_1_eg.png</imageurl>
@@ -5920,7 +6009,7 @@
 	<imageurl>https://3.bp.blogspot.com/-EWuV5AMKY7o/V9QZCpjKjaI/AAAAAAAAAiE/x-QeVjHpzuc6YMcJt1XMyqB_0p4ZgSUHQCLcB/s640/on-sport-channel-frequency-nilesat.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>news</category>
+	<category>sport</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
@@ -7642,8 +7731,8 @@
     </assignedcategory>
 </channel>	
 <channel>
-	<cname>TV5 Monde Orient</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tv5_monde_orient.png</imageurl>
+	<cname>TV5 Monde Europe</cname>
+	<imageurl>https://eng.thematv.ru/medias/channels/tv5monde/tv5monde_logo_rvb.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>french</category>
@@ -8167,7 +8256,8 @@
 	<category>new</category>
 	</assignedcategory>
 </channel>
-<channel>
+
+	<channel>
 	<cname>OSN Box Office 3</cname>
 	<imageurl></imageurl>
 	<enabled>True</enabled>

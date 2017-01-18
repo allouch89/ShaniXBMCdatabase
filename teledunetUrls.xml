@@ -121,7 +121,11 @@
 	<streaminginfo><cname>Mehwar</cname><url>al_mehwar</url></streaminginfo>
 	<streaminginfo><cname>Egypt 1</cname><url>al_oula</url></streaminginfo>
 	<streaminginfo><cname>Egypt 2</cname><url>al_thaniya</url></streaminginfo>
-	<streaminginfo><cname>Melody Classic</cname><url>melody_classic</url></streaminginfo>
+	<streaminginfo><cname>Cairo Drama</cname><url>cairo_drama</url></streaminginfo>
+        <streaminginfo><cname>Cairo Cinema</cname><url>cairo_cinema</url></streaminginfo>
+	<streaminginfo><cname>DMC</cname><url>dmc</url></streaminginfo>
+        <streaminginfo><cname>DMC Drama</cname><url>dmc_drama</url></streaminginfo>
+        <streaminginfo><cname>Melody Classic</cname><url>melody_classic</url></streaminginfo>
 	<streaminginfo><cname>Al Nahar</cname><url>al_nahar</url></streaminginfo>
 	<streaminginfo><cname>Al Nahar Drama</cname><url>al_nahar_drama</url></streaminginfo>
 	<streaminginfo><cname>Al Nahar Cinema</cname><url>al_nahar_cinema</url></streaminginfo>
@@ -153,7 +157,13 @@
 	<streaminginfo><cname>Bein Sport 8</cname><url>bein_sport_8</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 9</cname><url>bein_sport_9</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 10</cname><url>bein_sport_10</url></streaminginfo>
-	<streaminginfo><cname>Blue Nile</cname><url>blue_nile</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport 10</cname><url>bein_sport_10</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport 1 Max</cname><url>bein_sport_1_max</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport 2 Max</cname><url>bein_sport_2_max</url></streaminginfo>
+        <streaminginfo><cname>Bein Sport 1 FR</cname><url>bein_sport_1_hd_fr</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport 2 FR</cname><url>bein_sport_2_hd_fr</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport 3 FR</cname><url>bein_sport_3_hd_fr</url></streaminginfo>
+        <streaminginfo><cname>Blue Nile</cname><url>blue_nile</url></streaminginfo>
 	<streaminginfo><cname>Sudan TV</cname><url>sudan_tv</url></streaminginfo>
 	<streaminginfo><cname>Tayba</cname><url>tayba</url></streaminginfo>
 	<streaminginfo><cname>Khartoum</cname><url> alkhartoum </url></streaminginfo>
