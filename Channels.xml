@@ -5202,6 +5202,26 @@
 	</assignedcategory>
 </channel>	
 
+	<channel>
+	<cname>DMC</cname>
+	<imageurl>https://1.bp.blogspot.com/-ZMUIyPPzJ-4/V6oVwbjxHxI/AAAAAAAAB5E/dyLSQ4G2ChYyjBSxArtpVEM0FaVFTTWAACLcB/s320/8db4bd6adce8c1f.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>DMC Drama</cname>
+	<imageurl>https://3.bp.blogspot.com/-pM8-xqXxm4c/WHKCpwEp7NI/AAAAAAAANRg/8YQ4YmBvc1MP3mLi8kmbYBcp120hNB1NgCLcB/s400/dmc-drama.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+	
+	
 <channel>
 	<cname>Cairo Cinema</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/cc/cairo_cinema_1_eg.png</imageurl>
@@ -5987,7 +6007,7 @@
 	<imageurl>https://3.bp.blogspot.com/-EWuV5AMKY7o/V9QZCpjKjaI/AAAAAAAAAiE/x-QeVjHpzuc6YMcJt1XMyqB_0p4ZgSUHQCLcB/s640/on-sport-channel-frequency-nilesat.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>news</category>
+	<category>sport</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
