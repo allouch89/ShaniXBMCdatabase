@@ -5060,7 +5060,25 @@
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
-</channel>	
+</channel>
+	
+	<channel>
+	<cname>Bein Sport 1 Max</cname>
+	<imageurl>https://4.bp.blogspot.com/-b2WeUaelFxw/V1oKVhvLHRI/AAAAAAAAEsk/tWiIzlx7DhgOyfvyM4qjtRB7PeQe8VEEACLcB/s1600/_jajok_photo_1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+	<channel>
+	<cname>Bein Sport 2 Max</cname>
+	<imageurl>https://2.bp.blogspot.com/-STlRul91zEI/V1oNBibHesI/AAAAAAAAEtQ/c34t5jes2d4pKeIibZBPAR9UYscdEsCIACLcB/s1600/_jajok_photo_1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>BAHRAIN SPORTS</cname>
@@ -8190,7 +8208,8 @@
 	<category>new</category>
 	</assignedcategory>
 </channel>
-<channel>
+
+	<channel>
 	<cname>OSN Box Office 3</cname>
 	<imageurl></imageurl>
 	<enabled>True</enabled>
