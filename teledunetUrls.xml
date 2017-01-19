@@ -156,13 +156,12 @@
 	<streaminginfo><cname>Bein Sport 7</cname><url>bein_sport_7</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 8</cname><url>bein_sport_8</url></streaminginfo>
 	<streaminginfo><cname>Bein Sport 9</cname><url>bein_sport_9</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 10</cname><url>bein_sport_10</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 10</cname><url>bein_sport_10</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 1 Max</cname><url>bein_sport_1_max</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 2 Max</cname><url>bein_sport_2_max</url></streaminginfo>
-        <streaminginfo><cname>Bein Sport 1 FR</cname><url>bein_sport_1_hd_fr</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 2 FR</cname><url>bein_sport_2_hd_fr</url></streaminginfo>
-	<streaminginfo><cname>Bein Sport 3 FR</cname><url>bein_sport_3_hd_fr</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport HD10</cname><url>bein_sport_10</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport Max1</cname><url>bein_sport_1_max</url></streaminginfo>
+	<streaminginfo><cname>Bein Sport Max2</cname><url>bein_sport_2_max</url></streaminginfo>
+        <streaminginfo><cname>Bein 1 FR</cname><url>bein_sport_1_hd_fr</url></streaminginfo>
+	<streaminginfo><cname>Bein 2 FR</cname><url>bein_sport_2_hd_fr</url></streaminginfo>
+	<streaminginfo><cname>Bein 3 FR</cname><url>bein_sport_3_hd_fr</url></streaminginfo>
         <streaminginfo><cname>Blue Nile</cname><url>blue_nile</url></streaminginfo>
 	<streaminginfo><cname>Sudan TV</cname><url>sudan_tv</url></streaminginfo>
 	<streaminginfo><cname>Tayba</cname><url>tayba</url></streaminginfo>
