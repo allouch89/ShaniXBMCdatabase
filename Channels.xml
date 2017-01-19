@@ -1,12 +1,5 @@
 <channels>
--<channel>		 +
- -	<cname>Bein CAN 2017</cname>		
- -	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2016/09/CAN-2017-Gabon-Fr-Full-Colour-236x300.png</imageurl>		
- -	<enabled>True</enabled>		
- -	<assignedcategory>		
- -	<category>sports</category>		
- -	</assignedcategory>		
- -</channel>
+
 <channel>
 	<cname>Bein Movies 1</cname>
 	<imageurl>https://2.bp.blogspot.com/-wiVsm1Rn0Y4/V1rrDinBAeI/AAAAAAAABhU/zwRH1ZwAdHwLLWbviTfenAml66n9qngEgCLcB/s1600/Movies1HD.jpg</imageurl>
@@ -4921,7 +4914,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport</cname>
+	<cname>Bein Sport HD</cname>
 	<imageurl>http://www.greatdreambox.com/wp-content/uploads/2014/08/Al_Jazeera_Sport_Logo6.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5011,7 +5004,7 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 10</cname>
+	<cname>Bein Sport HD10</cname>
 	<imageurl>https://lh6.googleusercontent.com/-I4Hwllcg5zA/U443qjuJD0I/AAAAAAAAAU0/7sBq8QkAQfY/w140-h140-p/bein%2Bsport%2B10HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5020,7 +5013,7 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 11</cname>
+	<cname>Bein Sport HD11</cname>
 	<imageurl>https://lh3.googleusercontent.com/-P1mMgsnWcFs/U443qvD2JQI/AAAAAAAAAVE/njBi_aSI4UM/w140-h140-p/bein%2Bsport%2B11HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5030,7 +5023,7 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 12</cname>
+	<cname>Bein Sport HD12</cname>
 	<imageurl>https://lh6.googleusercontent.com/-QxtdjFylxYY/U443q1g4DzI/AAAAAAAAAVA/MeyD0Q0mhsc/w140-h140-p/bein%2Bsport%2B12HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5040,7 +5033,7 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 13</cname>
+	<cname>Bein Sport HD13</cname>
 	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5050,7 +5043,7 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 14</cname>
+	<cname>Bein Sport HD14</cname>
 	<imageurl>https://lh4.googleusercontent.com/-05c1zSvWo20/U443r8E6AUI/AAAAAAAAAVU/i4sqePSUwBQ/w140-h140-p/bein%2Bsport%2B14HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5060,7 +5053,7 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 15</cname>
+	<cname>Bein Sport HD15</cname>
 	<imageurl>http://4.bp.blogspot.com/--mWDulrZbs0/U443sFSRmyI/AAAAAAAAAVQ/tU5Inh8YGdo/s200/bein+sport+15HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -5069,8 +5062,8 @@
 </channel>
 	
 	<channel>
-	<cname>Bein Sport 1 Max</cname>
-	<imageurl>https://4.bp.blogspot.com/-b2WeUaelFxw/V1oKVhvLHRI/AAAAAAAAEsk/tWiIzlx7DhgOyfvyM4qjtRB7PeQe8VEEACLcB/s1600/_jajok_photo_1.png</imageurl>
+	<cname>Bein Sport Max1</cname>
+	<imageurl>http://epg.beinsports.com/mena_sports/MAX1.png?2017?2000</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -5078,39 +5071,14 @@
 </channel>
 	
 	<channel>
-	<cname>Bein Sport 2 Max</cname>
-	<imageurl>https://2.bp.blogspot.com/-STlRul91zEI/V1oNBibHesI/AAAAAAAAEtQ/c34t5jes2d4pKeIibZBPAR9UYscdEsCIACLcB/s1600/_jajok_photo_1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-	<channel>
-	<cname>Bein Sport 1 FR</cname>
-	<imageurl>https://4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s300-c/BeinSportHD1fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-	<channel>
-	<cname>Bein Sport 2 FR</cname>
-	<imageurl>https://2.bp.blogspot.com/-UkraS9sDbAs/VlCY90Dm07I/AAAAAAAAAqY/DT5dYSEGOuM/s200/BeinSportHD2fr.png</imageurl>
+	<cname>Bein Sport Max2</cname>
+	<imageurl>http://epg.beinsports.com/mena_sports/MAX2.png?2017?2000</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>
 	
-	<channel>
-	<cname>Bein Sport 3 FR</cname>
-	<imageurl>https://3.bp.blogspot.com/-nDBpZe5We-c/VnaliFnRvjI/AAAAAAAAAyA/WnTdps7g7mYYbtMOv3WJAA3k8eT29jAcQ/s200/BeinSportHD3fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
 	
 	
 	
@@ -7737,14 +7705,7 @@
 	<category>french</category>
     </assignedcategory>
 </channel>	
-<channel>
-	<cname>TV5 Monde Europe</cname>
-	<imageurl>https://eng.thematv.ru/medias/channels/tv5monde/tv5monde_logo_rvb.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>french</category>
-    </assignedcategory>
-</channel>	
+	
 <channel>
 	<cname>Ushuaia</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/uu/ushuaia.png</imageurl>
