@@ -1,5 +1,12 @@
 <channels>
-
+	<channel>
+	<cname>TV5 Monde Orient</cname>
+	<imageurl>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-tQheKWREXuGa4Bp88fdQ9URmmzf6OpsfY6jZISslmQwJGABWZw</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>french</category>
+    </assignedcategory>
+</channel>
 <channel>
 	<cname>Bein Movies 1</cname>
 	<imageurl>https://2.bp.blogspot.com/-wiVsm1Rn0Y4/V1rrDinBAeI/AAAAAAAABhU/zwRH1ZwAdHwLLWbviTfenAml66n9qngEgCLcB/s1600/Movies1HD.jpg</imageurl>
