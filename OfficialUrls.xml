@@ -3238,27 +3238,17 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-   	<cname>OTV Lebanon</cname>
-	<item>
-	<title>Med</title>
-	<link>http://livestreaming.itworkscdn.net/otvmobile/otvlive_2/playlist.m3u8</link>
-	</item>
+<cname>OTV LEBANON</cname>
+<item>
+<title>Official</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "(http.*?)"</expres>
+<page>http://www.otv.com.lb/new-live.php</page>
+</regex>
+</item>
 </streaminginfo>
-<streaminginfo>
-   	<cname>OTV Lebanon</cname>
-	<item>
-	<title>High</title>
-	<link>http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Alqudis</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://www.qudstv.com:1935/livepkgr/livestream?adbe-live-event=liveevent live=1 timeout=20</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 <cname>NBN</cname>
 <item>
