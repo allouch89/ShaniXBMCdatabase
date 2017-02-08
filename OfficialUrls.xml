@@ -1,4 +1,11 @@
 <streamingInfos>
+	<streaminginfo>
+     <cname>Musawa</cname>
+	 <item>
+<title>official</title>
+<link>rtmp://46.43.64.190/musawa//musawa timeout=25</link>
+</item>
+</streaminginfo>
 <streaminginfo>
      <cname>Arraed</cname>
 	 <item>
