@@ -3240,22 +3240,11 @@
 <streaminginfo>
    	<cname>OTV Lebanon</cname>
 	<item>
-	<title>Low</title>
-	<link>http://livestreaming.itworkscdn.net/otvmobile/otvlive_3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>OTV Lebanon</cname>
-	<item>
-	<title>Med</title>
-	<link>http://livestreaming.itworkscdn.net/otvmobile/otvlive_2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>OTV Lebanon</cname>
-	<item>
-	<title>High</title>
-	<link>http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8</link>
+	<title>official</title>
+	<link>$doregex[url]</link>
+	<regex><name>url</name><expres>file: "(http.*?)"</expres>
+	<page>http://www.otv.com.lb/new-live.php</page>
+	</regex>
 	</item>
 </streaminginfo>
 <streaminginfo>
