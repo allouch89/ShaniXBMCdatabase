@@ -3613,7 +3613,7 @@
     <cname>Aghani</cname>
 	<item>
 	<title>Low</title>
-	<link>rtmp://mobilestreaming.itworkscdn.com/aghanitv/aghanitv app=aghanitv/ pageUrl=http://www.freetv247.com/content/aghani-aghani-tv swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf playPath=aghanitv swfVfy=true live=true timeout=10</link>
+	<link>https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
