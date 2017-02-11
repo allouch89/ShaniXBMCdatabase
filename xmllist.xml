@@ -9,6 +9,22 @@
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/zombiB/Replay/master/LiveS.xml</externallink>
 </item>
+<item>
+<title>live ts channels </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER</link>
+<referer>http://www.tutelevisionenvivo.org/</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:-1,(.*?)<.*?><a href="(.*?)"]]></expres>
+<page>http://www.calciohd.info/iptv/arabiv-bein-sports-osn-france-canal-vlc/</page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
 <item><title>COBRA</title><link>Test</link><externallink>http://iptv333.mine.nu:8000/get.php?username=COBRA&amp;password=COBRA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>John</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 <item><title>redbled</title><link>Test</link><externallink>http://redbled.no-ip.org:8000/get.php?username=ZUkiSACZ&amp;password=BVSE1SPr&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
