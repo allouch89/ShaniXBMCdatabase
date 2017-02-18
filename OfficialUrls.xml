@@ -1166,26 +1166,17 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-    <cname>MTV</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_160p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>MTV</cname>
-	<item>
-	<title>Med</title>
-	<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_240p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>MTV</cname>
-	<item>
-	<title>High</title>
-	<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
-	</item>
-</streaminginfo>
+		<cname>MTV</cname>
+		<item>
+			<title>official</title>
+				<link>$doregex[get-url]</link>
+				<regex><name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://mtv.com.lb/Live/Player</page>
+</regex>
+
+		</item>
+	</streaminginfo>
 <streaminginfo>
 	<cname>Al Manar</cname>
 	<item>
