@@ -290,7 +290,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo><cname>MBC 1</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC 1</cname><item><title>Sami</title><link>http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>MBC Drama</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
 
@@ -2711,7 +2711,7 @@
 	<cname>MBC Masr</cname>
 	<item>
 		<title>live</title>
-		<link>http://mbc-live.hds.adaptive.level3.net//hls-live/mbc-channel01/_definst_/live/stream1.m3u8</link>
+		<link>http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8</link>
 	</item>
 </streaminginfo>
 
