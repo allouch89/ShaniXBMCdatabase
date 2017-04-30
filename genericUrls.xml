@@ -165,7 +165,7 @@
 	<cname>GuideUS TV</cname>
 	<item>
 	<title>RTMP_Stream</title>
-	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
+	<link>rtmp://stream.streamislam.com:1936/streamer/live</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
