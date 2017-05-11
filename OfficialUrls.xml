@@ -18,6 +18,34 @@
 
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>DMC Drama</cname>
+		<item>
+			<title>youtube</title>
+				<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gkChCRKv2GY</link>
+		</item>
+	</streaminginfo>
+	
+		
+	<streaminginfo>
+		<cname>DMC</cname>
+		<item>
+			<title>youtube</title>
+				<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2eatbMZ3ul8</link>
+		</item>
+	</streaminginfo>
+	
+			
+	<streaminginfo>
+		<cname>ON drama</cname>
+		<item>
+			<title>youtube</title>
+				<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gkChCRKv2GY</link>
+		</item>
+	</streaminginfo>
+	
+	
 <streaminginfo>
      <cname>Arraed</cname>
 	 <item>
