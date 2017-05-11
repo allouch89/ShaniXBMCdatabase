@@ -1,4 +1,15 @@
 <channels>
+	
+	<channel>
+	<cname>ON Drama</cname>
+	<imageurl>https://yt3.ggpht.com/-P46dLwDltZs/AAAAAAAAAAI/AAAAAAAAAAA/FWQBWLoXAa8/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+	</channel>
+	
+	
 	<channel>
 	<cname>Musawa</cname>
 	<imageurl>https://fb-s-c-a.akamaihd.net/h-ak-xap1/v/t1.0-1/c7.0.200.200/p200x200/13406735_1802641276631567_3444896595362340762_n.jpg?oh=bcc20c86c7fdbe1188d97f7e546ad6a1&amp;oe=594AEC50&amp;__gda__=1494017921_40cb27dec401f961b7042afe92d90f26</imageurl>
