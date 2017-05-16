@@ -20,6 +20,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>On E</cname>
+		<item>
+			<title>youtube</title>
+				<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ohsVrmY4lCc</link>	
+	</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>On Sport</cname>
 		<item>
 			<title>youtube</title>
