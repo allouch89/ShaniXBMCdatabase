@@ -15,7 +15,15 @@
 <expres>"video_id":"(.*?)"</expres>
 <page>https://www.youtube.com/c/AttessiaTVtn/live</page>
 </regex>
-
+			
+	</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>On Sport</cname>
+		<item>
+			<title>youtube</title>
+				<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QPeARFUPDx4</link>		
 		</item>
 	</streaminginfo>
 	
