@@ -3400,7 +3400,7 @@
 	<cname>Al Maaref</cname>
 	<item>
 	<title>Med</title>
-	<link>http://almaareftv.com:1935/live/1/playlist.m3u8</link>
+	<link>http://almaareftv.com:1935/live/13/playlist.m3u8?wowzasessionid=1308196742</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3609,7 +3609,7 @@
      <cname>Karbala</cname>
 <item>
 <title>High</title>
-<link>rtmp://KarbalaTV.secureflash.internapcdn.net/ app=$doregex[get-app] playpath=karbalatv swfUrl=http://karbalatv.http.internapcdn.net/KarbalaTV/jwplayer58L/player.swf pageUrl=http://www.karbala-tv.net/live.php live=true timeout=15</link>
+<link>https://livestream-f.akamaihd.net/i/11436227_3998452_lsiadfmosrmy2mou3f3_1@305638/index_2320_av-p.m3u8?sd=10&amp;dw=14400&amp;rebase=on&amp;hdntl=exp=1495219030~acl=%2fi%2f11436227_3998452_lsiadfmosrmy2mou3f3_1%40305638%2f*~data=hdntl~hmac=28ceccd1e5a67a51597a6199ce0b5df0ed06123c6ca8049eb156bf887361f1ed</link>
 <regex>
 <name>get-app</name>
 <expres>rtmp.*net\/([^&amp;]*)</expres>
