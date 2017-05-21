@@ -2510,14 +2510,14 @@
 	<cname>KTV ARABE</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>https://svs.itworkscdn.net/ktvarabelive/karabe.smil/chunklist_b2400000.m3u8?nimblesessionid=8412036</link>
+	<link>https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KTV ETRAA</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/chunklist_b2400000.m3u8?nimblesessionid=8411806</link>
+	<link>https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -2525,14 +2525,14 @@
 	<cname>KTV 2</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8?nimblesessionid=8411418</link>
+	<link>https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Kuwait</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8?nimblesessionid=8410984</link>
+	<link>https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -2540,7 +2540,7 @@
 	<cname>KTV SPORT</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b2400000.m3u8?nimblesessionid=8411670</link>
+	<link>https://svs.itworkscdn.net/ktvsportslive/ksports.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2561,7 +2561,7 @@
 	<cname>KTV Sport Plus</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/chunklist_b2400000.m3u8?nimblesessionid=8412958</link>
+	<link>https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
