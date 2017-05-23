@@ -8053,9 +8053,6 @@
      <category>oth</category>
      </assignedcategory>
 </channel>
-
-
-
 <channel>
 	<cname>Al Anbar</cname>
 	<imageurl></imageurl>
@@ -8065,14 +8062,7 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Al Nahar Cinema</cname>
-	<imageurl></imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>new</category>
-	</assignedcategory>
-</channel>
-<channel>
+	<channel>
 	<cname>Al Nahar Noor</cname>
 	<imageurl></imageurl>
 	<enabled>True</enabled>
